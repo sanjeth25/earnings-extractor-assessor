@@ -1,0 +1,180 @@
+Company: Neptune Insurance Holdings Inc. (CIK 2067129)
+Accession: 0001628280-26-066494
+Results released: 2026-10-20
+Press release: https://www.sec.gov/Archives/edgar/data/2067129/000162828026066494/q32026-earningspressreleas.htm
+Filing: https://www.sec.gov/Archives/edgar/data/2067129/000162828026066494/0001628280-26-066494-index.htm
+Saved: 2026-10-27T21:11:50+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 q32026-earningspressreleas.htm EX-99.1
+Neptune Insurance Holdings Inc. Reports Third Quarter 2026 Results
+ST. PETERSBURG, Fla., Oct 20, 2026 – Neptune Insurance Holdings Inc. (the “Company”) (NYSE: NP), the parent company of Neptune Flood Incorporated, has released its financial results for the third quarter of 2026 by posting an update on its Investor Relations website. The earnings presentation can be viewed by clicking here or visiting investors.neptuneflood.com.
+Third Quarter 2026 Highlights
+•Revenue growth of 34% to a record $59.6 million
+•Net income increase of 50% to a record $17.3 million
+•Net income margin of 29%
+•Adjusted net income* growth of 52% to a record $24.3 million
+•Adjusted EBITDA* growth of 38% to a record $36.8 million
+•Adjusted EBITDA margin of 62%, matching our record high to date
+•Written Premium* growth of 31% to a record $132.7 million
+•Record new business sales
+Third Quarter 2026 per share of Class A and Class B common stock
+Basic | Diluted
+Net income | $ | 0.13 | $ | 0.12
+Adjusted net income* | $ | 0.18 | $ | 0.17
+Adjusted EBITDA* | $ | 0.27 | $ | 0.25
+* See discussion of Non-GAAP Financial Measures and Key Performance Indicators below
+Neptune management will host a live conference call and webcast at 5:00 PM ET on Tuesday, October 20th.
+When: Tuesday, October 20, 2026
+Time: 5:00 p.m. Eastern Time
+Dial-in Number: (800) 715-9871 or (646) 307-1963 (international)
+Q3 2026 Earnings Presentation: View here
+Webcast: View here
+Investor Relations: View here
+The webcast will be archived on the Company’s website following the call.
+Effectiveness of Information
+The targets included in our earnings presentation and the statements made during the earnings conference call, each of which is available on the Company’s investor relations website at investors.neptuneflood.com (collectively, the “Earnings Materials”), represent the Company’s expectations and beliefs as of October 20, 2026. Although these Earnings Materials will remain available on the Company’s website through the date of the earnings call for the third quarter of fiscal 2027, their continued availability does not mean that the Company is reaffirming or confirming their continued validity. The Company undertakes no obligation to update any forward-looking statements, whether as a result of new information or future events, or to otherwise update the targets given in the Earnings Materials, except as required by law.
+About Neptune Insurance Holdings Inc.
+Neptune Insurance Holdings Inc. (NYSE: NP) is the parent company of Neptune Flood Incorporated (“Neptune”). Neptune is a leading, AI-native managing general agent offering a range of easy-to-purchase residential and commercial insurance products, including primary and excess flood insurance, distributed through a nationwide network of agencies. Leveraging proprietary artificial intelligence
+1
+and advanced data science, Neptune delivers fast and accessible coverage for residential and commercial properties across the United States. The Company operates without human underwriters, using Triton®, its cutting-edge platform to streamline underwriting, pricing, and policy issuance.
+Non-GAAP Financial Measures and Key Performance Indicators
+To supplement our condensed consolidated financial statements, which are prepared and presented in accordance with generally accepted accounting principles in the United States (GAAP), we use the following non-GAAP financial measures: Adjusted EBITDA, Adjusted EBITDA margin, Adjusted EBITDA per share (basic and diluted), Adjusted net income, Adjusted earnings per share (basic and diluted), organic revenue and organic revenue growth. The presentation of these financial measures is not intended to be considered in isolation or as a substitute for, or superior to, financial information prepared and presented in accordance with GAAP. Investors are cautioned that there are material limitations associated with the use of non-GAAP financial measures as an analytical tool. In addition, these measures may be different from non-GAAP financial measures used by other companies, limiting their usefulness for comparison purposes. We compensate for these limitations by providing specific information regarding the GAAP amounts excluded from these non-GAAP financial measures.
+We believe these non-GAAP financial measures provide investors with useful supplemental information about the financial performance of our business, enable comparison of financial results between periods where certain items may vary independent of business performance, and allow for greater transparency with respect to key metrics used by management in operating our business. See “Non-GAAP Financial Measures” below and “Reconciliation of Non-GAAP Financial Measures” in our earnings presentation for a reconciliation of non-GAAP measures to the most directly comparable GAAP measures.
+Adjusted EBITDA is net income (the most directly comparable GAAP measure) adjusted to exclude interest expense (net of interest income), income taxes, depreciation, and amortization, and further adjusted for share-based compensation, employer payroll taxes on equity awards and other non-recurring items. Employer payroll taxes on equity awards are cash expenses; we exclude them because their amount and timing depend on our stock price at vesting or exercise and are not driven by our operating performance. By removing these expenses, we believe Adjusted EBITDA provides a clearer representation of operating performance.
+Adjusted EBITDA margin is a non-GAAP financial measure derived from Adjusted EBITDA divided by revenue. We believe that Adjusted EBITDA margin is a useful measurement of operating profitability for the same reasons we find Adjusted EBITDA useful and also because it provides a period-to-period comparison of our operating performance.
+Adjusted net income is a non-GAAP financial measure derived from net income (the most directly comparable GAAP measure), adjusted to exclude loss on extinguishment of debt, amortization expense, share-based compensation, employer payroll taxes on equity awards, corporate transaction related expenses, and other one-time expenses, and the related tax effect of those adjustments. By removing these expenses, we believe Adjusted net income provides a clearer representation of operating performance.
+Adjusted earnings per share (basic and diluted) is Adjusted net income divided by the basic and diluted weighted-average shares of common stock outstanding for the period, respectively, in each case assuming the full conversion of all outstanding Redeemable Convertible Preferred Stock into an equivalent number of shares of common stock, which occurred upon the consummation of our IPO in 2025. By implementing the conversion of the redeemable convertible preferred stock, we believe Adjusted earnings (basic and diluted) per share provides a clearer representation of operating performance. The most directly comparable GAAP measures are basic earnings per share and diluted earnings per share, respectively.
+Adjusted EBITDA (Basic and Diluted) per Share is Adjusted EBITDA divided by the basic and diluted weighted-average shares of common stock outstanding for the period, respectively, in each case assuming the full conversion of all outstanding Redeemable Convertible Preferred Stock into an equivalent number of shares of common stock, which occurred upon the consummation of our IPO in 2025. We believe that Adjusted EBITDA per share (basic and diluted) is a useful measurement for the same reasons we find Adjusted EBITDA useful and also because, by implementing the conversion of the Redeemable Convertible Preferred Stock for periods prior to our IPO, we believe Adjusted EBITDA per share (basic and diluted) provides a clearer representation of operating performance on a per-share and period-over-period basis. The most directly comparable GAAP measures are basic earnings per share and diluted earnings per share, respectively.
+Additionally, we discuss certain key performance indicators, described below, which provide useful information about the Company’s business and the operational factors underlying the Company’s financial performance.
+Written Premium is the total premium we placed with insurance programs during a reporting period, less “return premiums” refunded to policyholders due to cancellations, endorsement of policies, or otherwise. We believe written premium is an appropriate measure of operating performance because it is the primary driver of our commission revenue.
+Revenue per Employee is revenue for the trailing four quarters, determined in accordance with GAAP, divided by the average number of employees during the trailing four quarters. We monitor this as a metric of scaling growth and believe it to be a leading indicator of sustained profitability and efficiency.
+2
+Adjusted EBITDA per employee is Adjusted EBITDA, a non-GAAP metric, for the trailing four quarters divided by the average number of employees during the trailing four quarters. We monitor this as a metric of scaling growth and believe it to be a leading indicator of sustained profitability and efficiency. For further discussion on our calculation of Adjusted EBITDA, see “Adjusted EBITDA” above.
+Policy Retention Rate is the percentage of our policyholders who receive renewal offers and who accept the offered renewal term. We monitor the acceptance of renewal offers as an early indicator of price elasticity.
+Premium Retention Rate is the premium associated with those accepted renewal offers, as a percentage of the total premium from expiring policies for which renewal offers were made.
+Revenue Retention Rate is the percentage of revenue recognized on policies in a given period that is recognized under the renewal terms of those same policies in the subsequent period. We monitor this metric as a comprehensive indicator of renewal performance and the long-term stability of our revenue base, as it reflects the combined effect of policy retention, premium changes, and policy fee income.
+Organic revenue and organic revenue growth: We define organic revenue as total revenue determined in accordance with GAAP, adjusted to remove the impact of any acquisitions or divestitures. We define organic revenue growth as the year-over-year growth in our organic revenue. However, as of the date of this press release and our earnings presentation and for the relevant periods presented herein and therein, we have not completed any relevant acquisitions or divestitures, therefore our organic revenue and organic revenue growth reflect our total revenue and total revenue growth, respectively, as determined in accordance with GAAP. Organic revenue and organic revenue growth are also non-GAAP financial measures which are commonly reported by others in the insurance industry. We use “organic revenue” and “organic revenue growth” in this press release and our earnings presentation to facilitate investors’ understanding of our operating performance and comparison with our peers.
+Safe Harbor Statement
+This press release, our earnings presentation, and the earnings conference call contain “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 that involve substantial risks and uncertainties. All statements, other than statements of historical fact included in this release, are forward-looking statements. Forward-looking statements give our current expectations relating to our financial condition, results of operations, plans, objectives, future performance, and business. You can identify forward-looking statements by the fact that they do not relate strictly to historical or current facts. In some cases, you can identify these statements by forward-looking words such as “may,” “might,” “will,” “should,” “expects,” “plans,” “anticipates,” “believes,” “estimates,” “outlook,” “predicts,” “potential,” or “continue,” the negative of these terms, and other comparable terminology. These forward-looking statements, which are subject to risks, uncertainties, and assumptions about us, include, among others, projections of our future financial performance, our anticipated growth and business strategies, anticipated trends in our business, capital allocation plans, technology initiatives, and other future events or developments. These statements are only predictions based on our current expectations and projections about future events. There are important factors that could cause our actual results, level of activity, performance, or achievements to differ materially from the results, level of activity, performance, or achievements expressed or implied by the forward-looking statements, including those factors discussed under the captions entitled “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the Company’s Annual Report on Form 10-K for the year ended December 31, 2025, the Company’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2026, once filed, and the other documents that the Company files with the U.S. Securities and Exchange Commission, which are available free of charge on the SEC’s website at: www.sec.gov and on Neptune’s investor relations website at investors.neptuneflood.com.
+Although we believe the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, level of activity, performance, or achievements. Moreover, neither we nor any other person assumes responsibility for the accuracy and completeness of any of these forward-looking statements. We undertake no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future developments, or otherwise, except as may be required by law.
+Press Contact
+press@neptuneflood.com
+Investor Relations Contact
+investors@neptuneflood.com
+3
+NON-GAAP FINANCIAL MEASURES
+Adjusted EBITDA and Adjusted EBITDA margin
+Below is a reconciliation of Adjusted EBITDA to net income (the most directly comparable GAAP measure), as well as our Adjusted EBITDA margin to net income margin (the most directly comparable GAAP measure), for the three and nine months ended September 30, 2026 and 2025, respectively, and for the twelve months ended September 30, 2026 and 2025, respectively:
+Three Months Ended September 30, | Nine Months Ended September 30,
+(In thousands) | 2026 | 2025 | Change %/pp | 2026 | 2025 | Change %/pp
+Total revenues | $ | 59,567 | $ | 44,365 | 34.3 | % | $ | 153,234 | $ | 115,784 | 32.3 | %
+Net income | 17,256 | 11,511 | 49.9 | % | 40,401 | 33,070 | 22.2 | %
+Interest expense (net of interest income) | 3,250 | 5,237 | (37.9 | %) | 9,981 | 13,090 | (23.8 | %)
+Income tax expense | 7,459 | 3,952 | 88.7 | % | 17,575 | 11,457 | 53.4 | %
+Amortization expense | 992 | 948 | 4.6 | % | 3,013 | 2,734 | 10.2 | %
+Share-based compensation | 7,009 | 111 | NM | 20,832 | 299 | NM
+Employer payroll taxes on equity awards | 622 | — | NM | 667 | — | NM
+Corporate transaction related expenses | 172 | 4,966 | NM | 239 | 8,440 | NM
+One-time expenses | — | — | NM | 74 | — | NM
+Adjusted EBITDA | $ | 36,760 | $ | 26,725 | 37.5 | % | $ | 92,782 | $ | 69,090 | 34.3 | %
+Net income margin(1) | 29.0 | % | 25.9 | % | 3.1 | 26.4 | % | 28.6 | % | (2.2)
+Adjusted EBITDA margin(1) | 61.7 | % | 60.2 | % | 1.5 | 60.5 | % | 59.7 | % | 0.8
+Twelve Months Ended September 30,
+(In thousands) | 2026 | 2025 | Change %/pp
+Total revenues | $ | 197,001 | $ | 147,287 | 33.8 | %
+Net income | 44,743 | 44,682 | 0.1 | %
+Interest expense (net of interest income) | 14,210 | 16,006 | (11.2) | %
+Income tax expense | 22,341 | 15,319 | 45.8 | %
+Amortization expense | 3,992 | 3,554 | 12.3 | %
+Share-based compensation | 31,954 | 378 | NM
+Employer payroll taxes on equity awards | 667 | — | NM
+Corporate transaction related expenses | 711 | 8,440 | NM
+One-time expenses | 74 | — | NM
+Adjusted EBITDA | $ | 118,692 | $ | 88,379 | 34.3 | %
+Net income margin(1) | 22.7 | % | 30.3 | % | (7.6)
+Adjusted EBITDA margin(1) | 60.2 | % | 60.0 | % | 0.2
+NM - not meaningful
+(1) Year-over-year changes in percentages are reported in percentage points (pp).
+Twelve Months Ended September 30, | Change
+(In thousands) | 2026 | 2025 | Amount | Percentage
+Average number of employees | 60.8 | 58.0 | 2.8 | 4.8 | %
+Total revenues | $ | 197,001 | $ | 147,287 | $ | 49,714 | 33.8 | %
+Revenue per employee | $ | 3,242 | $ | 2,539 | $ | 703 | 27.7 | %
+Adjusted EBITDA | $ | 118,692 | $ | 88,379 | $ | 30,313 | 34.3 | %
+Adjusted EBITDA per employee | $ | 1,953 | $ | 1,524 | $ | 429 | 28.2 | %
+4
+Adjusted EBITDA (Basic and Diluted) per Share
+The table below presents a reconciliation of Adjusted EBITDA to net income (the most directly comparable GAAP measure), as well as our Adjusted EBITDA per share (basic and diluted) to basic earnings per share and diluted earnings per share of common stock, respectively (the most directly comparable GAAP measures), for the three and nine months ended September 30, 2026 and 2025, respectively:
+Three Months Ended September 30, | Nine Months Ended September 30,
+(In thousands, except share and per share data) | 2026 | 2025 | Change % | 2026 | 2025 | Change %
+Net income | 17,256 | 11,511 | 49.9 | % | 40,401 | 33,070 | 22.2 | %
+Interest expense (net of interest income) | 3,250 | 5,237 | 9,981 | 13,090
+Income tax expense | 7,459 | 3,952 | 17,575 | 11,457
+Amortization expense | 992 | 948 | 3,013 | 2,734
+Share-based compensation | 7,009 | 111 | 20,832 | 299
+Employer payroll taxes on equity awards | 622 | — | 667 | —
+Corporate transaction related expenses | 172 | 4,966 | 239 | 8,440
+One-time expenses | — | — | 74 | —
+Adjusted EBITDA | $ | 36,760 | $ | 26,725 | 37.5 | % | $ | 92,782 | $ | 69,090 | 34.3 | %
+Weighted average Common Stock outstanding – Basic | 137,272,630 | 93,350,000 | 137,768,674 | 93,350,000
+Plus: Impact of conversion of redeemable, convertible preferred stock(1) | — | 41,850,000 | — | 41,850,000
+Adjusted Weighted average Common Stock outstanding – Basic | 137,272,630 | 135,200,000 | 137,768,674 | 135,200,000
+Basic earnings (loss) per share | $ | 0.13 | $ | 0.06 | $ | 0.29 | $ | (0.34)
+Effect of conversion of redeemable, convertible preferred stock and net loss attributable to preferred stock holders(2) | — | 0.06 | — | 0.68
+Other adjustments to earnings (loss) per share(3) | 0.14 | 0.08 | 0.38 | 0.17
+Adjusted basic EBITDA per share(4) | $ | 0.27 | $ | 0.20 | $ | 0.67 | $ | 0.51
+Weighted average Common Stock outstanding – Diluted | 146,390,991 | 97,262,548 | 146,110,446 | 93,350,000
+Plus: Impact of dilutive stock options(5) | — | — | — | 2,409,232
+Plus: Impact of conversion of redeemable, convertible preferred stock(1) | — | 41,850,000 | — | 41,850,000
+Adjusted weighted average Common Stock outstanding – Diluted | 146,390,991 | 139,112,548 | 146,110,446 | 137,609,232
+Diluted earnings (loss) per share | $ | 0.12 | $ | 0.06 | $ | 0.28 | $ | (0.34)
+Effect of conversion of redeemable, convertible preferred stock(2) | — | 0.05 | — | 0.66
+Other adjustments to earnings (loss) per share(3) | 0.13 | 0.08 | 0.36 | 0.18
+Adjusted diluted EBITDA per share(4) | $ | 0.25 | $ | 0.19 | $ | 0.64 | $ | 0.50
+5
+(1)Assumes the conversion of all 41,850,000 shares of Redeemable Convertible Preferred Stock into an equivalent number of shares of common stock.
+(2)Pursuant to the completion of the Company’s IPO on October 2, 2025, the redeemable, convertible preferred stock was no longer outstanding for the three and nine months ended September 30, 2026. For comparability purposes, this calculation reflects net income that would be distributable to holders of common stock, assuming all redeemable preferred shares had been converted and no longer impacted the numerator. For the three months ended September 30, 2025, this includes $3.6 million of accretion adjustments and $2.5 million of allocations to participating preferred stock. For the nine months ended September 30, 2025, this includes $54.2 million of cash dividends paid on redeemable preferred stock and $10.4 million of accretion adjustments, totaling $64.6 million. These adjustments were divided by 93,350,000 shares for the three and nine months ended September 30, 2025 to calculate the Adjusted EBITDA per share (basic and diluted) amounts.
+(3)Other adjustments to earnings (loss) per share represent interest expense (net of interest income), income tax expense, amortization expense, share-based compensation, employer payroll taxes on equity awards, corporate transaction related expenses, and one-time expenses.
+(4)Adjusted EBITDA per share (basic and diluted) is calculated as Adjusted EBITDA divided by the applicable adjusted weighted-average shares of common stock outstanding. Individual per-share components above may not sum exactly to the total due to rounding.
+(5)Represents the impact of 2,409,232 stock options that were not included in the GAAP diluted weighted-average common stock outstanding for the nine months ended September 30, 2025, but are included for purposes of Adjusted diluted EBITDA per share.
+6
+Adjusted Net Income and Adjusted Earnings (Basic and Diluted) Per Share
+The table below presents a reconciliation of Adjusted net income to net income (the most directly comparable GAAP measure), as well as our Adjusted earnings (basic and diluted) per share to basic earnings and diluted earnings per share of common stock, respectively (the most directly comparable GAAP measures), for the three and nine months ended September 30, 2026 and 2025, respectively:
+Three Months Ended September 30, | Nine Months Ended September 30,
+(In thousands, except share and per share data) | 2026 | 2025 | Change % | 2026 | 2025 | Change %
+Net income | 17,256 | 11,511 | 49.9 | % | 40,401 | 33,070 | 22.2 | %
+Income tax expense | 7,459 | 3,952 | 17,575 | 11,457
+Amortization expense | 992 | 948 | 3,013 | 2,734
+Share-based compensation | 7,009 | 111 | 20,832 | 299
+Employer payroll taxes on equity awards | 622 | — | 667 | —
+Corporate transaction related expenses | 172 | 4,966 | 239 | 8,440
+One-time expenses | — | — | 74 | —
+Adjusted income before income tax expense | $ | 33,510 | $ | 21,488 | 55.9 | % | $ | 82,801 | $ | 56,000 | 47.9 | %
+Adjusted income taxes (1) | $ | (9,234) | $ | (5,492) | $ | (22,511) | $ | (14,392)
+Adjusted net income | $ | 24,276 | $ | 15,996 | 51.8 | % | $ | 60,290 | $ | 41,608 | 44.9 | %
+Weighted average Common Stock outstanding – Basic | 137,272,630 | 93,350,000 | 137,768,674 | 93,350,000
+Plus: Impact of conversion of redeemable, convertible preferred stock(2) | — | 41,850,000 | — | 41,850,000
+Adjusted Weighted average Common Stock outstanding – Basic | 137,272,630 | 135,200,000 | 137,768,674 | 135,200,000
+Basic earnings (loss) per share | $ | 0.13 | $ | 0.06 | $ | 0.29 | $ | (0.34)
+Effect of conversion of redeemable, convertible preferred stock and net loss attributable to preferred stock holders(3) | — | 0.06 | — | 0.68
+Other adjustments to earnings (loss) per share(4) | 0.12 | 0.04 | 0.31 | 0.08
+Adjusted income taxes per share | (0.07) | (0.04) | (0.16) | (0.11)
+Adjusted basic earnings per share(5) | $ | 0.18 | $ | 0.12 | $ | 0.44 | $ | 0.31
+Weighted average Common Stock outstanding – Diluted | 146,390,991 | 97,262,548 | 146,110,446 | 93,350,000
+Plus: Impact of dilutive stock options(6) | — | — | — | 2,409,232
+Plus: Impact of conversion of redeemable, convertible preferred stock(2) | — | 41,850,000 | — | 41,850,000
+Adjusted weighted average Common Stock outstanding – Diluted | 146,390,991 | 139,112,548 | 146,110,446 | 137,609,232
+Diluted earnings (loss) per share | $ | 0.12 | $ | 0.06 | $ | 0.28 | $ | (0.34)
+Effect of conversion of redeemable, convertible preferred stock(3) | — | 0.05 | — | 0.66
+Other adjustments to earnings (loss) per share(4) | 0.11 | 0.04 | 0.28 | 0.08
+Adjusted income taxes per share | (0.06) | (0.04) | (0.15) | (0.10)
+Adjusted diluted earnings per share(5) | $ | 0.17 | $ | 0.11 | $ | 0.41 | $ | 0.30
+7
+(1)This represents the tax impact using effective tax rates of 27.6% and 25.6% for the three months ended September 30, 2026 and 2025, respectively, and 27.2% and 25.7% for the nine months ended September 30, 2026 and 2025, respectively. These tax rates exclude items that are non-deductible, non-taxable or subject to a specific tax treatment.
+(2)Assumes the conversion of all 41,850,000 shares of Redeemable Convertible Preferred Stock into an equivalent number of shares of common stock.
+(3)Pursuant to the completion of the Company’s IPO on October 2, 2025, the redeemable, convertible preferred stock was no longer outstanding for the three and nine months ended September 30, 2026. For comparability purposes, this calculation reflects net income that would be distributable to holders of common stock, assuming all redeemable preferred shares had been converted and no longer impacted the numerator. For the three months ended September 30, 2025, this includes $3.6 million of accretion adjustments and $2.5 million of allocations to participating preferred stock. For the nine months ended September 30, 2025, this includes $54.2 million of cash dividends paid on redeemable preferred stock and $10.4 million of accretion adjustments, totaling $64.6 million. These adjustments were divided by 93,350,000 shares for the three and nine months ended September 30, 2025 to calculate the Adjusted earnings (basic and diluted) per share amounts.
+(4)Other adjustments to earnings (loss) represent income tax expense, amortization expense, share-based compensation, employer payroll taxes on equity awards, corporate transaction related expenses, and one-time expenses.
+(5)Adjusted earnings per share is calculated as Adjusted net income divided by the applicable weighted average shares outstanding. Individual per-share components above may not sum exactly to the total due to rounding.
+(6)Represents the impact of 2,409,232 stock options that were not included in the GAAP diluted weighted-average common stock outstanding for the nine months ended September 30, 2025, but are included for purposes of Adjusted diluted earnings per share.
+8

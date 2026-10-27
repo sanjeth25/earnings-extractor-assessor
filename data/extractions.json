@@ -1,1 +1,280 @@
-[]
+[
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000066",
+    "release_date": "2026-07-22",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 119796,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 96,428 | $ | 119,796"
+      },
+      "operating_income": {
+        "value": 40770,
+        "unit": "USD millions",
+        "quote": "Operating income | $ | 31,271 | $ | 40,770"
+      },
+      "net_income": {
+        "value": 112193,
+        "unit": "USD millions",
+        "quote": "Net income | 28,196 | 112,193"
+      },
+      "diluted_eps": {
+        "value": 9.11,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.31 | $ | 9.11"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenue grew 24% and Google Cloud growth accelerated to 82%, driven by AI demand.",
+        "quote": "Q2 was an amazing quarter, with Alphabet revenues growing 24% year-over-year and Google Cloud revenues accelerating to 82% growth, driven by demand for AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Operating income rose 30% and operating margin widened to 34%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin expanded by 2 percentage points to 34%."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Other income included a large net gain, mainly unrealised gains on equity securities.",
+        "quote": "Other income reflected a net gain of $98.0 billion, primarily the result of net unrealized gains on our equity securities."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter amazing and points to momentum across the board; no headwind is mentioned."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000066.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/0001652044-26-000066-index.htm",
+    "saved_at": "2026-10-27T21:11:50+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000024",
+    "release_date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 200606,
+        "unit": "USD millions",
+        "quote": "Total net sales | 167,702 | 200,606"
+      },
+      "operating_income": {
+        "value": 27461,
+        "unit": "USD millions",
+        "quote": "Operating income | 19,171 | 27,461"
+      },
+      "net_income": {
+        "value": 62647,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,164 | $ | 62,647"
+      },
+      "diluted_eps": {
+        "value": 5.75,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.68 | $ | 5.75"
+      }
+    },
+    "guidance": {
+      "text": "For the third quarter of 2026, Amazon expects net sales between $197.0 billion and $202.0 billion.",
+      "quote": "Net sales are expected to be between $197.0 billion and $202.0 billion, or to grow between 9% and 12% compared with third quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says AWS grew 36.7%, its fastest growth in 18 quarters.",
+        "quote": "AWS is booming, growing 36.7% year-over-year in Q2—our fastest growth in 18 quarters—and our AI and Chips businesses each eclipsed run rates of more than $25 billion"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Operating income rose to $27.5 billion from $19.2 billion a year earlier.",
+        "quote": "Operating income increased to $27.5 billion in the second quarter, compared with $19.2 billion in second quarter 2025."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "Net income included a large non-operating gain, mainly from investments in Anthropic.",
+        "quote": "Second quarter 2026 net income includes non-operating pre-tax other income of $53.4 billion, primarily from our investments in Anthropic."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says AWS is booming and there is much more coming for customers; the release names no headwind."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000024.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260630xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/0001018724-26-000024-index.htm",
+    "saved_at": "2026-10-27T21:11:50+08:00"
+  },
+  {
+    "cik": "1326801",
+    "company": "Meta Platforms",
+    "accession": "0001628280-26-066700",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 64601,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 64,601 | $ | 51,242"
+      },
+      "operating_income": {
+        "value": 12988,
+        "unit": "USD millions",
+        "quote": "Income from operations | $ | 12,988 | $ | 20,535"
+      },
+      "net_income": {
+        "value": 9860,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 9,860 | $ | 2,709"
+      },
+      "diluted_eps": {
+        "value": 3.83,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share (EPS) | $ | 3.83 | $ | 1.05"
+      }
+    },
+    "guidance": {
+      "text": "Meta expects fourth quarter 2026 total revenue of $73-76 billion.",
+      "quote": "We expect fourth quarter 2026 total revenue to be in the range of $73-76 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says investments are paying off and the core business is strong.",
+        "quote": "Our investments are paying off, the core business is strong, and we're seeing velocity across the board."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Costs and expenses include a $9.89 billion charge for the state attorneys general agreement.",
+        "quote": "Third quarter 2026 costs and expenses includes a $9.89 billion charge related to this agreement."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Meta expects to keep investing aggressively beyond 2026.",
+        "quote": "we expect to continue investing aggressively to support both our core business and emerging AI initiatives."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO is upbeat, but the release also reports a large legal charge and heavy planned investment."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1326801-0001628280-26-066700.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/0001628280-26-066700-index.htm",
+    "saved_at": "2026-10-27T21:11:50+08:00"
+  },
+  {
+    "cik": "1065696",
+    "company": "LKQ CORP",
+    "accession": "0001065696-26-000047",
+    "release_date": "2026-10-23",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 3320,
+        "unit": "USD millions",
+        "quote": "Revenue of $3.32 billion, compared with $3.50 billion in the third quarter of 2025"
+      },
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The Chairman says performance, especially in Europe, fell well short of the Board's expectations.",
+        "quote": "LKQ’s performance, particularly in Europe, has fallen significantly short of the Board’s expectations, and the Board is taking decisive action to address it,"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "LKQ has withdrawn its full-year 2026 guidance.",
+        "quote": "LKQ is withdrawing its full-year 2026 guidance, which was most recently updated on July 30, 2026."
+      }
+    ],
+    "tone": {
+      "label": "cautious",
+      "reason": "The Chairman says performance fell significantly short, and guidance is withdrawn. Results are preliminary; net income and EPS are given only as ranges."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1065696-0001065696-26-000047.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1065696/000106569626000047/exhibit991-q326earningsand.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1065696/000106569626000047/0001065696-26-000047-index.htm",
+    "saved_at": "2026-10-27T21:11:50+08:00"
+  },
+  {
+    "cik": "2067129",
+    "company": "Neptune Insurance Holdings Inc.",
+    "accession": "0001628280-26-066494",
+    "release_date": "2026-10-20",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 59.567,
+        "unit": "USD millions",
+        "quote": "Total revenues | $ | 59,567 | $ | 44,365"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 17.256,
+        "unit": "USD millions",
+        "quote": "Net income | 17,256 | 11,511"
+      },
+      "diluted_eps": {
+        "value": 0.12,
+        "unit": "USD per share",
+        "quote": "Diluted earnings (loss) per share | $ | 0.12 | $ | 0.06"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenue grew 34% to a record level.",
+        "quote": "Revenue growth of 34% to a record $59.6 million"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Net income grew 50% to a record level.",
+        "quote": "Net income increase of 50% to a record $17.3 million"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The highlights describe record revenue, net income and sales; there is no CEO or CFO quotation."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/2067129-0001628280-26-066494.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/2067129/000162828026066494/q32026-earningspressreleas.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2067129/000162828026066494/0001628280-26-066494-index.htm",
+    "saved_at": "2026-10-27T21:11:50+08:00"
+  }
+]

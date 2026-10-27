@@ -1,0 +1,81 @@
+Company: LKQ CORP (CIK 1065696)
+Accession: 0001065696-26-000047
+Results released: 2026-10-23
+Press release: https://www.sec.gov/Archives/edgar/data/1065696/000106569626000047/exhibit991-q326earningsand.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1065696/000106569626000047/0001065696-26-000047-index.htm
+Saved: 2026-10-27T21:11:50+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 exhibit991-q326earningsand.htm EXHIBIT 99.1
+Exhibit 99.1
+LKQ Corporation Announces Preliminary Third Quarter 2026 Results and Leadership and Operational Actions
+Salvatore A. Abbate appointed President and Chief Executive Officer
+Third quarter results reflect significant underperformance in Europe
+Alvarez & Marsal retained to advise Company on European operations
+Withdraws full-year 2026 guidance
+ANTIOCH, Tenn. – October 23, 2026 – LKQ Corporation (Nasdaq: LKQ) today announced preliminary, unaudited results for the third quarter ended September 30, 2026, as well as leadership and operational actions intended to address recent performance and position the Company for improved execution under new leadership.
+Preliminary Third Quarter 2026 Results
+Based on preliminary unaudited financials for the third quarter, LKQ expects to report the following:
+•Revenue of $3.32 billion, compared with $3.50 billion in the third quarter of 2025
+•Parts and services organic revenue decline of 5.4%
+•Net loss1 of $16 million to $32 million, including $111 million of non-cash impairment charges, compared with net income1 of $178 million in the third quarter of 2025
+•Diluted loss per share1 of $0.06 to $0.12, including $0.42 per share of non-cash impairment charges, compared with diluted EPS of $0.69 in the third quarter of 2025
+•Adjusted diluted EPS1,2 of $0.47 to $0.53, compared with $0.84 in the third quarter of 2025
+•Europe parts and services organic revenue decline of 9.8%; and segment EBITDA margin of 4.1% to 5.1%, compared with 10.0% in the third quarter of 2025
+The third quarter results primarily reflect underperformance in the Europe segment, including operational disruptions associated with the ERP implementation in Germany and volume declines in the United Kingdom and Benelux. While Specialty was modestly below expectations, the shortfall was more limited, and North America performed in line with the Company’s expectations despite softer market conditions.
+The Company will report full third quarter results on October 29, 2026, and will hold a conference call at that time.
+Leadership Changes
+LKQ today announced the appointment of Salvatore A. Abbate as President and Chief Executive Officer, effective December 15, 2026. He succeeds Justin Jude, who is departing the Company effective today. Until Mr. Abbate assumes the role of President and Chief Executive Officer, the Company has established an interim Office of the Chief Executive Officer to provide ongoing leadership continuity, consisting of John Mendel, Chairman of the Board, and Sue Gove, Chair of LKQ’s Audit Committee. The Office of the Chief Executive Officer will work closely with LKQ’s leadership team in overseeing the Company’s operations during the interim period.
+(1) References in this release to Net (loss) income and Diluted (loss) earnings per share, and the corresponding adjusted figures, reflect amounts from continuing operations attributable to LKQ stockholders.
+(2) Non-GAAP measure. See the table accompanying this release that reconciles the actual or forecasted U.S. GAAP measure to the actual or forecasted adjusted measure, which is non-GAAP.
+Also effective today, Andy Hamilton is departing his role as President and Managing Director of LKQ Europe. The Board has engaged Alvarez & Marsal (“A&M”) to advise the Company on its European operations, with an initial focus on improving customer service levels, stabilizing operations and strengthening performance and cost discipline across the region.
+“LKQ’s performance, particularly in Europe, has fallen significantly short of the Board’s expectations, and the Board is taking decisive action to address it,” said John Mendel, Chairman of the Board. “We have strong conviction in LKQ’s business and its potential to create significant value for shareholders. Sal is a proven operator with a track record of driving performance in complex distribution businesses, and A&M brings deep experience in operational improvement. Together with LKQ’s talented teams, we are focused on improving execution and delivering improved results for our stakeholders.”
+Withdrawal of Full-Year 2026 Guidance
+Considering the third quarter results in Europe and the appointment of Mr. Abbate as President and Chief Executive Officer, effective December 15, 2026, LKQ is withdrawing its full-year 2026 guidance, which was most recently updated on July 30, 2026.
+Strategic Review Update
+In connection with the Board’s ongoing review of strategic alternatives, the Company has taken several actions, including appointing Mr. Abbate as the Company’s next President and Chief Executive Officer, implementing leadership changes within its European operations, and retaining A&M to advise the Company with respect to its European operations. The Company will provide additional updates regarding the strategic alternatives process as appropriate.
+About LKQ Corporation
+LKQ Corporation (www.lkqcorp.com) is a leading provider of alternative and specialty parts to repair and accessorize automobiles and other vehicles. LKQ has operations in North America, Europe and Taiwan. LKQ offers its customers a broad range of OE recycled and aftermarket parts, replacement systems, components, equipment, and services to repair and accessorize automobiles, trucks, and recreational and performance vehicles.
+Page | 2
+The following unaudited table reconciles Net (Loss) Income and Diluted (Loss) Earnings per Share to Adjusted Net Income and Adjusted Diluted (Loss) Earnings per Share, respectively:
+Three Months Ended September 30,
+2026 | 2025
+Preliminary
+(In millions, except per share data) | Low | High
+Net (loss) income | $ | (35) | $ | (19) | $ | 180
+Less: net (loss) income attributable to continuing noncontrolling interest | (1) | (1) | —
+Net (loss) income attributable to LKQ stockholders | (34) | (18) | 180
+Less: net (loss) income from discontinued operations | (2) | (2) | 2
+Net (loss) income from continuing operations attributable to LKQ stockholders | (32) | (16) | 178
+Adjustments:
+Amortization of acquired intangibles | 34 | 34 | 37
+Restructuring and transaction related expenses | 24 | 24 | 14
+Impairment of goodwill | 88 | 88 | —
+Impairment of net assets held for sale | 23 | 23 | —
+Direct impacts of Ukraine/Russia conflict | 4 | 4 | —
+Excess tax deficiency from stock-based payments | 1 | 1 | —
+Tax effect of adjustments | (23) | (23) | (13)
+Adjusted net income | $ | 119 | $ | 135 | $ | 216
+Weighted average diluted common shares o/s | 252.9 | 252.9 | 257.3
+Diluted (loss) earnings per share:
+Reported | $ | (0.12) | $ | (0.06) | $ | 0.69
+Adjusted | $ | 0.47 | $ | 0.53 | $ | 0.84
+We have presented Adjusted Net Income and Adjusted Diluted Earnings per Share as we believe these measures are useful for evaluating the core operating performance of our continuing business across reporting periods and in analyzing our historical operating results. We define Adjusted Net Income and Adjusted Diluted Earnings per Share as Net Income and Loss and Diluted Earnings (Loss) per Share adjusted to eliminate the impact of net income and loss attributable to noncontrolling interest, income and loss from discontinued operations, restructuring and transaction related expenses, amortization expense related to all acquired intangible assets, gains and losses on debt extinguishment, changes in fair value of contingent consideration liabilities, other gains and losses related to acquisitions, equity method investments, or divestitures, impairment charges, direct impacts of the Ukraine/Russia conflict, excess tax benefits and deficiencies from stock-based payments and any tax effect of these adjustments. The tax effect of these adjustments is calculated using the effective tax rate for the applicable period or for certain discrete items the specific tax expense or benefit for the adjustment. These financial measures are used by management in its decision making and overall evaluation of our operating performance and are included in the metrics used to determine incentive compensation for our senior management. Adjusted Net Income and Adjusted Diluted Earnings per Share should not be construed as alternatives to Net Income and Loss or Diluted Earnings (Loss) per Share as determined in accordance with accounting principles generally accepted in the United States. In addition, not all companies that report measures similar to Adjusted Net Income and Adjusted Diluted Earnings per Share calculate such measures in the same manner as we do and, accordingly, our calculations are not necessarily comparable to similarly-named measures of other companies and may not be appropriate measures for performance relative to other companies.
+Page | 3
+Forward-Looking Statements
+Statements and information in this press release that are not historical are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 and are made pursuant to the “safe harbor” provisions of such Act.
+Forward-looking statements include, but are not limited to, statements regarding our outlook, expectations, beliefs, hopes, intentions and strategies. These statements are subject to a number of risks, uncertainties, assumptions and other factors including those identified in our filings with the SEC. All forward-looking statements are based on information available to us at the time the statements are made. We undertake no obligation to update any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law.
+You should not place undue reliance on our forward-looking statements. Actual events or results may differ materially from those expressed or implied in the forward-looking statements. The risks, uncertainties, assumptions and other factors that could cause actual events or results to differ from the events or results predicted or implied by our forward-looking statements include the factors discussed in our filings with the SEC, and other factors discussed in our filings with the SEC, including those disclosed under the captions “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the year ended December 31, 2025 and in our subsequent Quarterly Reports on Form 10-Q. These reports are available at the Investor Relations section on our website (www.lkqcorp.com) and on the SEC's website (www.sec.gov).
+Preliminary Financial Information
+The preliminary third quarter financial highlights presented in this press release are derived from our internal records and based on the most recent current information available to management, are subject to the closing and finalization of financial and accounting procedures for the period (which have yet to be performed) and should not be viewed as a substitute for our full financial statements prepared in accordance with GAAP. Our normal reporting processes with respect to the preliminary estimated financial data provided in this press release have not been fully completed. As a result, these preliminary estimated results may differ from the actual results that will be reflected in our unaudited condensed consolidated financial statements for the third quarter of 2026 when they are completed. While we believe that these estimates are based on reasonable assumptions, our actual results may vary, and such variations may be material.
+Investor Contact
+Joseph P. Boutross
+LKQ Corporation
+Vice President, Investor Relations
+(312) 621-2793
+jpboutross@lkqcorp.com
+Media Contact
+Whit Clay
+Longacre Square Partners
+lkq@longacresquare.com
+Page | 4
