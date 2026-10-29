@@ -1410,5 +1410,202 @@
     "filing_found": false,
     "recheck": true,
     "assessed_at": "2026-10-29T06:37:46+08:00"
+  },
+  {
+    "accession": "0001065696-26-000047",
+    "cik": "1065696",
+    "company": "LKQ CORP",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The quote is in the release and holds 3,320 (USD 3.32 billion), but the 10-Q is not filed or could not be read: data.sec.gov was blocked today."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left this figure empty, so there is nothing to check. The release does not state operating income."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left this figure empty. The release gives a net loss range of $16 million to $32 million, so there is nothing to check against the 10-Q."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The watcher left this figure empty. The release gives a diluted loss per share range of $0.06 to $0.12, so there is nothing to check."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "The one figure given, revenue of 3,320, is in the release and its quote holds the number. The 10-Q check is still to come."
+      },
+      "S2": {
+        "score": 3,
+        "reason": "Net income and diluted EPS were left empty although the release gives ranges for both ($16-32 million loss; $0.06-$0.12 loss per share). Guidance withdrawal is captured as a claim."
+      },
+      "S3": {
+        "score": 3,
+        "reason": "Revenue and the two claims can be used as they stand, but the analyst must open the release for the net loss and loss per share ranges."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "3,320 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "diluted_eps": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Judged on the release's own figures: revenue 3.32 billion against 3.50 billion a year ago (down 5.1%), organic parts and services down 5.4%, and a net loss against 178 million income. Fundamentals not read."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Outlook claim, so judged on the trend: the release shows revenue down about 5% on a year ago and a net loss, which is consistent with withdrawing guidance. The quote is in the release."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Cautious fits the release's figures: revenue down 5.1% on a year ago, a preliminary net loss of $16 million to $32 million against $178 million income, and guidance withdrawn."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 3320,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The Chairman says performance, especially in Europe, fell well short of the Board's expectations.",
+        "quote": "LKQ’s performance, particularly in Europe, has fallen significantly short of the Board’s expectations, and the Board is taking decisive action to address it,",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "LKQ has withdrawn its full-year 2026 guidance.",
+        "quote": "LKQ is withdrawing its full-year 2026 guidance, which was most recently updated on July 30, 2026.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "cautious",
+      "reason": "The Chairman says performance fell significantly short, and guidance is withdrawn. Results are preliminary; net income and EPS are given only as ranges."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-30T06:38:04+08:00"
   }
 ]
