@@ -1392,5 +1392,120 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-04T06:38:07+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-04-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 5,
+      "total": 5,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 5,
+      "checked": 5,
+      "rechecks": 1,
+      "confirmed": 12,
+      "mismatch": 0,
+      "cannot_check": 8
+    },
+    "companies": [
+      {
+        "cik": "1065696",
+        "company": "LKQ CORP",
+        "accession": "0001065696-26-000047",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 1,
+        "mismatch": 0,
+        "cannot_check": 3,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 3,
+          "S3": 3
+        }
+      },
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "accession": "0001652044-26-000080",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "accession": "0001018724-26-000038",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "855658",
+        "company": "LATTICE SEMICONDUCTOR CORP",
+        "accession": "0001437749-26-034452",
+        "period_label": "quarter ended 3 October 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "2127043",
+        "company": "Jersey Mike's Subs Inc.",
+        "accession": "0002127043-26-000015",
+        "period_label": "quarter ended 27 September 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 5 extractions: 12 figures confirmed, 0 mismatches, 8 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-04T06:07:57+08:00",
+      "watch_brief": "briefs/2026-11-04-watch.md",
+      "brief_says": 797,
+      "saved_for_run": 797,
+      "match": true
+    },
+    "offline": false
   }
 ]
