@@ -276,5 +276,254 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/2067129/000162828026066494/q32026-earningspressreleas.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/2067129/000162828026066494/0001628280-26-066494-index.htm",
     "saved_at": "2026-10-27T21:11:50+08:00"
+  },
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000080",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 127577,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 102,346 | $ | 127,577"
+      },
+      "operating_income": {
+        "value": 40576,
+        "unit": "USD millions",
+        "quote": "Operating income | $ | 31,228 | $ | 40,576"
+      },
+      "net_income": {
+        "value": 26468,
+        "unit": "USD millions",
+        "quote": "Net income | 34,979 | 26,468"
+      },
+      "diluted_eps": {
+        "value": 2.12,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.87 | $ | 2.12"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says total revenues grew 25% year over year.",
+        "quote": "Consolidated Alphabet revenues increased 25% to $127.6 billion"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Management says Google Cloud revenues more than doubled.",
+        "quote": "Google Cloud delivered record growth as revenues increased 103% to $30.7 billion"
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "Management says operating income rose 30% and the operating margin was 31.8%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin was 31.8%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it a strong quarter and points to momentum across the business and big opportunities ahead."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000080.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm",
+    "saved_at": "2026-11-04T06:07:57+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000038",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 201944,
+        "unit": "USD millions",
+        "quote": "Total net sales | 180,169 | 201,944"
+      },
+      "operating_income": {
+        "value": 28076,
+        "unit": "USD millions",
+        "quote": "Operating income | 17,422 | 28,076"
+      },
+      "net_income": {
+        "value": 20685,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 21,187 | $ | 20,685"
+      },
+      "diluted_eps": {
+        "value": 1.89,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.95 | $ | 1.89"
+      }
+    },
+    "guidance": {
+      "text": "Amazon expects fourth quarter 2026 net sales of $240.0 billion to $247.0 billion, growth of 12% to 16%.",
+      "quote": "Net sales are expected to be between $240.0 billion and $247.0 billion, or to grow between 12% and 16% compared with fourth quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says AWS revenue grew over 39% and is projected to grow over 40% in 2027 and 2028.",
+        "quote": "with over 39% year-over-year revenue growth in Q3 ($184 billion revenue run rate) and projected revenue growth rates of over 40% both in 2027 and in 2028"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Management says retail share is rising with improving margins.",
+        "quote": "Our broader selection and speedier delivery are helping us capture more retail market segment share with improving margins"
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Management says operating margin of 13.9% was Amazon's highest ever.",
+        "quote": "Operating income was $28.1 billion and operating margin was 13.9%—Amazon’s highest operating margin ever"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the AWS investment is working and newer businesses are progressing encouragingly."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000038.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/0001018724-26-000038-index.htm",
+    "saved_at": "2026-11-04T06:07:57+08:00"
+  },
+  {
+    "cik": "855658",
+    "company": "LATTICE SEMICONDUCTOR CORP",
+    "accession": "0001437749-26-034452",
+    "release_date": "2026-11-02",
+    "period_end": "2026-10-03",
+    "period_label": "quarter ended 3 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 291.035,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 291,035 | $ | 201,079"
+      },
+      "operating_income": {
+        "value": 23.968,
+        "unit": "USD millions",
+        "quote": "Income (loss) from Operations | $ | 23,968 | $ | 22,353"
+      },
+      "net_income": {
+        "value": 11.206,
+        "unit": "USD millions",
+        "quote": "Net Income | $ | 11,206 | $ | 19,359"
+      },
+      "diluted_eps": {
+        "value": 0.08,
+        "unit": "USD per share",
+        "quote": "Net Income per Share - Diluted | $ | 0.08 | $ | 0.14"
+      }
+    },
+    "guidance": {
+      "text": "Lattice expects fourth quarter 2026 revenue of $325 million to $345 million.",
+      "quote": "Lattice revenue for the fourth quarter of 2026 is expected to be between $325 million and $345 million."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says third quarter revenue was a record and FPGA revenue grew about 90%.",
+        "quote": "We delivered record third quarter revenue of $291 million and non-GAAP EPS of $0.72"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says bookings, backlog and design wins support the fourth quarter outlook.",
+        "quote": "Strong bookings, backlog and design wins support our fourth-quarter revenue outlook of approximately $335 million"
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The CFO says operating leverage was evident in the quarter.",
+        "quote": "Lattice’s operating leverage was evident in the third quarter"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO reports record revenue and confidence in growth into 2027 and beyond."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/855658-0001437749-26-034452.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/855658/000143774926034452/ex_1012509.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/855658/000143774926034452/0001437749-26-034452-index.htm",
+    "saved_at": "2026-11-04T06:07:57+08:00"
+  },
+  {
+    "cik": "2127043",
+    "company": "Jersey Mike's Subs Inc.",
+    "accession": "0002127043-26-000015",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-27",
+    "period_label": "quarter ended 27 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 209,
+        "unit": "USD millions",
+        "quote": "Total revenues | 209 | 190"
+      },
+      "operating_income": {
+        "value": 48,
+        "unit": "USD millions",
+        "quote": "Operating income | 48 | 58"
+      },
+      "net_income": {
+        "value": -11,
+        "unit": "USD millions",
+        "quote": "Net loss attributable to Jersey Mike’s Subs Inc. | $ | (11)"
+      },
+      "diluted_eps": {
+        "value": -0.05,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | (0.05) | N/A"
+      }
+    },
+    "guidance": {
+      "text": "For full-year 2026 the company expects same-store sales growth of at least 2.5%.",
+      "quote": "Same-store sales growth of at least 2.5%"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Total revenue rose 10% year over year.",
+        "quote": "Total revenue increased 10% year over year to $209 million."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Net income fell, which the company ties to a one-time IPO-related charge.",
+        "quote": "the decline being driven by a $29 million one-time, non-cash, equity-based compensation charge related to the IPO"
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "The CEO says same-store sales accelerated, driven by transactions.",
+        "quote": "Our same-store sales accelerated sequentially in the third quarter, with growth continuing to be driven by transactions for the third consecutive quarter."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO cites accelerating same-store sales, while net income fell on one-time IPO costs."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/2127043-0002127043-26-000015.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/2127043/000212704326000015/q32026earningsrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2127043/000212704326000015/0002127043-26-000015-index.htm",
+    "saved_at": "2026-11-04T06:07:57+08:00"
   }
 ]

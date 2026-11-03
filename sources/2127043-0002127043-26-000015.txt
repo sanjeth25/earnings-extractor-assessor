@@ -1,0 +1,317 @@
+Company: Jersey Mike's Subs Inc. (CIK 2127043)
+Accession: 0002127043-26-000015
+Results released: 2026-10-28
+Press release: https://www.sec.gov/Archives/edgar/data/2127043/000212704326000015/q32026earningsrelease.htm
+Filing: https://www.sec.gov/Archives/edgar/data/2127043/000212704326000015/0002127043-26-000015-index.htm
+Saved: 2026-11-04T06:07:57+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 q32026earningsrelease.htm EX-99.1
+Jersey Mike’s Reports Third Quarter Financial Results
+Company updates full-year 2026 outlook
+Announces $100 million share repurchase authorization
+Declares $0.35 special dividend to holders of Class A common stock
+Tinton Falls, NJ - October 28, 2026 — Jersey Mike’s Subs Inc. (NYSE: JMKE) today announced financial results for the fiscal third quarter ended September 27, 2026.
+Third Quarter 2026 Highlights:
+•Same-store sales increased 3.0%, primarily driven by transaction growth
+•Opened 80 new stores, driving net store growth of 8.8% year over year
+•Systemwide sales increased 11% year over year to $1.204 billion
+•Total revenue increased 10% year over year to $209 million
+•Digital sales mix increased to 43% from 42% in the prior year
+•Net income for the quarter of $10 million versus $32 million in the prior year
+•Adjusted EBITDA for the quarter of $125 million versus $104 million in the prior year
+•Diluted loss per share of Class A common stock of $0.05 for the period from July 31, 2026 through September 27, 2026
+•Adjusted Net Income and Adjusted EPS of $74 million and $0.23, respectively
+•Announced a return of capital of up to $200 million, including a share repurchase authorization of up to $100 million of Class A common stock and a special cash dividend of $0.35 per share of Class A common stock
+“We continue to see meaningful traction from our digital marketing initiatives as we work to expand our consumer reach and drive greater frequency over time,” said Charlie Morrison, Chief Executive Officer. “Our same-store sales accelerated sequentially in the third quarter, with growth continuing to be driven by transactions for the third consecutive quarter. We remain focused on our long-term strategic goals of driving average unit volumes to $2 million, growing cash-on-cash returns for our franchise owners, and expanding our footprint domestically and around the world.”
+1
+Key Performance Measures
+Thirteen Weeks Ended
+September 27, 2026 | September 28, 2025
+Systemwide Sales (in billions) | $ | 1.204 | $ | 1.083
+Same-Store Sales Growth | 3.0 | % | 3.9 | %
+Digital sales mix | 43 | % | 42 | %
+Average Unit Volume (AUV, in millions) | $ | 1.386 | $ | 1.365
+Net Store Growth | 8.8 | % | 8.8 | %
+New store openings (gross) | 80 | 54
+Total stores (end of period) | 3,456 | 3,177
+Financial Results
+Total revenue increased 10% year over year to $209 million. Royalties and other revenue increased 12% to $143 million and advertising revenue increased 8% to $57 million, both driven by net store growth of 8.8% and same-store sales growth of 3.0%, with the latter primarily driven by transactions.
+Net income for the quarter was $10 million versus $32 million in the prior year, the decline being driven by a $29 million one-time, non-cash, equity-based compensation charge related to the IPO as well as IPO-related professional expenses, partially offset by a gain on the sale of company-owned stores. Net loss attributable to Jersey Mike’s Subs Inc. was $11 million, or $(0.05) per diluted share of Class A common stock for the period from July 31, 2026 through September 27, 2026 following the Reorganization Transactions and IPO.
+Adjusted EBITDA increased 20% to $125 million versus $104 million in the prior year. The increase was driven by net store growth and growth in same-store sales, while also benefitting from $9 million in lower expenses related to the prior Area Director program.
+Adjusted Net Income was $74 million and Adjusted EPS was $0.23 for the third quarter. Adjusted Net Income and Adjusted EPS, which the Company is presenting for the first time this quarter, assume the exchange of all outstanding Common Units for Class A common stock and reflect income taxes at a blended 25% rate as if Jersey Mike’s Subs Inc. owned 100% of Jersey Mike’s Holdings for the entire period. Adjusted EPS is not presented for the prior-year period because Jersey Mike’s pre-IPO capital structure does not provide a meaningful basis for comparison. See Table 5 for reconciliations to net income and diluted earnings per share, the most directly comparable GAAP measures.
+The Company generated $177 million of operating cash flow in the first three fiscal quarters of 2026. Capital expenditures in the same period were $7 million. In connection with the issuance of 13,782,609 shares of Class A Common Stock, Jersey Mike’s received net proceeds of approximately $301 million, net of underwriting discounts and commissions, which were used to repay outstanding indebtedness. As of September 27, 2026, total debt was $1.8 billion and cash, cash equivalents and restricted cash were $325 million.
+2
+Development
+As of September 27, 2026, there were 3,456 Jersey Mike’s stores systemwide, including 3,415 stores in the United States, of which 3,393 were franchised and 22 were company-owned.
+Domestic Franchised | International Franchised | Company- owned | Total System
+Store count as of December 28, 2025 | 3,209 | 21 | 26 | 3,256
+Openings | 47 | — | — | 47
+Closures | (3) | — | — | (3)
+Net transfers(a) | (10) | — | 10 | —
+Store count as of March 29, 2026 | 3,243 | 21 | 36 | 3,300
+Openings | 73 | 9 | 1 | 83
+Closures | (5) | — | — | (5)
+Net transfers(a) | 11 | — | (11) | —
+Store count as of June 28, 2026 | 3,322 | 30 | 26 | 3,378
+Openings | 69 | 11 | — | 80
+Closures | (2) | — | — | (2)
+Net transfers(a) | 4 | — | (4) | —
+Store count as of September 27, 2026 | 3,393 | 41 | 22 | 3,456
+(a)Represents store transfers between franchise owners and the Company
+Share Repurchase Authorization and Special Dividend
+On October 26, 2026, the Company’s Board of Directors approved a stock repurchase authorization of up to an aggregate $100 million of the Company’s outstanding Class A common stock and also declared a special cash dividend of $0.35 per share payable on November 19, 2026 to holders of Class A common stock as of the close of business on November 5, 2026. These actions reflect the Company’s strong cash flow generation and commitment to returning excess capital to stockholders.
+Outlook
+Jersey Mike’s updated outlook for full-year fiscal 2026 is as follows:
+•Same-store sales growth of at least 2.5%
+•Net unit growth of at least 8%
+•Adjusted EBITDA growth of at least 20%
+Conference Call and Webcast
+Jersey Mike’s will host a conference call today, October 28, to discuss the fiscal third quarter 2026 financial results and business updates at 8:30 AM Eastern Time. The conference call can be joined telephonically by dialing 1-877-425-9470 or 1-201-389-0878 (international) and asking for the Jersey Mike’s conference call. A replay will be available two hours after the call and can be accessed by dialing 1-844-512-2921 or 1-412-317-6671 (international), then entering the replay code 13762283. The replay will be available through Wednesday, November 11, 2026.
+3
+The conference call will also be webcast live and later archived on the investor relations section of Jersey Mike’s corporate website at investors.jerseymikes.com under the “News & Events” section.
+About Jersey Mike’s
+Jersey Mike's is a leading fast-casual restaurant franchisor with more than 3,400 locations across the United States and Canada. Founded in 1956 as Mike's Subs in Point Pleasant, New Jersey, the company has grown from a single neighborhood sub shop into one of the fastest-growing restaurant brands in America. Jersey Mike's differentiates itself through its "A Sub Above" positioning, emphasizing fresh-sliced meats and cheeses, authentic recipes, and a distinctive customer experience that has earned recognition as the top-rated QSR brand in 2026 and the #1 Best Sandwich Chain in America in 2025.
+Media Contact - JerseyMikes@icrinc.com
+Investor Contact - investorrelations@jerseymikes.com
+Non-GAAP Financial Measures
+Financial information discussed in this press release includes non-GAAP measures, which include or exclude certain items. The presentation of non-GAAP financial measures is not intended to be considered in isolation or as a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP. Management believes that certain non-GAAP financial measures provide users of our financial information with useful supplemental information that enables a better comparison of our performance across periods to help investors, securities analysts and other parties better understand underlying trends in our business. Management uses these measures to evaluate our performance. Full definitions of non-GAAP measures and reconciliations of GAAP results to the comparable non-GAAP measures for the reported periods appear in the financial tables section of this press release.
+A reconciliation of forward-looking Adjusted EBITDA growth rate to GAAP net income growth rate cannot be provided without unreasonable effort because of the inherent difficulty of accurately forecasting the occurrence and financial impact of the various adjusting items necessary for such reconciliation that have not yet occurred, are outside of our control, or cannot be reasonably predicted. For the same reasons, the Company is unable to assess the probable significance of the unavailable information, which could have a material impact on its future GAAP financial results.
+Forward Looking Statements
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. We intend such forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 27A of the Securities Act of 1933, as amended (the “Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). Such forward-looking statements relate to matters such as our industry, business strategy, goals and expectations concerning our market position, future operations, margins, profitability, capital expenditures, liquidity and capital resources, and other financial and operating information. All statements other than those that are purely historical may be forward-looking statements. We may, in some
+4
+cases, use words such as “anticipate,” “assume,” “believe,” “contemplate,” “continue,” “could,” “estimate,” “expect,” “foreseeable,” “intend,” “may,” “plan,” “potentially,” “predict,” “project,” “seek,” “should,” “target,” “will,” or “would,” or similar words or phrases that convey uncertainty of future events or outcomes, to identify forward-looking statements in this press release.
+The forward-looking statements contained in this press release are based on management’s current expectations and are subject to uncertainty and changes in circumstances. Although we believe that the assumptions underlying the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance, or achievements. There are a number of factors, many of which are beyond our control, that could cause actual results to differ materially from the results anticipated by these forward-looking statements. For a more detailed discussion of these and other factors, see the information under the section “Risk Factors” in our final prospectus filed with the SEC on July 31, 2026 pursuant to Rule 424(b)(4) under the Securities Act of 1933, as amended, relating to our Registration Statement on Form S-1 (File No. 333-297228) and our other filings made with the SEC. These factors should not be construed as exhaustive and should be read in conjunction with the other cautionary statements that are included in this press release. Should one or more of these risks or uncertainties materialize, or should any of our assumptions prove incorrect, our actual results may vary in material respects from those expressed or implied in these forward-looking statements.
+The forward-looking statements included in this press release speak only as of the date of this press release or as of the date they are made, as applicable. Factors or events that could cause our actual results to differ may emerge from time to time, and it is not possible for us to predict all of them. We may not actually achieve the plans, intentions, or expectations disclosed in our forward-looking statements and you should not place undue reliance on our forward-looking statements. Our forward-looking statements do not reflect the potential impact of any future acquisitions, mergers, dispositions, joint ventures, investments, or other strategic transactions we may make. Except as otherwise required by law, we disclaim any intent or obligation to update any “forward-looking statement” made in this press release to reflect changed assumptions, the occurrence of unanticipated events, or changes to future operating results over time.
+5
+Table 1
+JERSEY MIKE’S SUBS INC. AND SUBSIDIARIES
+Condensed Statement of Operations
+(in millions, except per share data)
+(Unaudited)
+Successor | Predecessor
+Thirteen Weeks Ended | Thirty-Nine Weeks Ended September 27, 2026 | Period from January 16 to September 28, 2025 | Period from January 1 to January 15, 2025
+September 27, 2026 | September 28, 2025
+Revenue:
+Royalties and other revenues | $ | 143 | $ | 128 | $ | 403 | $ | 344 | $ | 19
+Advertising revenue | 57 | 53 | 165 | 147 | 7
+Company-owned stores sales | 9 | 9 | 34 | 27 | 2
+Total revenues | 209 | 190 | 602 | 518 | 28
+Operating expenses:
+General and administrative expenses | 87 | 54 | 231 | 127 | 19
+Advertising expenses | 46 | 45 | 161 | 130 | 8
+Depreciation and amortization | 26 | 25 | 77 | 71 | —
+Company-owned stores expenses | 7 | 8 | 26 | 22 | 1
+Total operating expenses | 166 | 132 | 495 | 350 | 28
+Revaluation of contingent liability | (2) | — | (2) | — | —
+Gain on sale of company-owned stores | 7 | — | 21 | — | —
+Operating income | 48 | 58 | 126 | 168 | —
+Interest expense, net | 25 | 26 | 83 | 63 | 4
+Loss on debt extinguishment | 6 | — | 13 | — | —
+Income (loss) before income tax expense | 17 | 32 | 30 | 105 | (4)
+Income tax expense | 7 | — | 7 | — | —
+Net income (loss) | $ | 10 | $ | 32 | $ | 23 | $ | 105 | $ | (4)
+Less: Net income (loss) attributable to Jersey Mike’s Holdings prior to the Reorganization Transactions | 23 | 32 | 36 | 105 | (4)
+Less: Net loss attributable to noncontrolling interest | (2) | — | (2) | — | —
+Net loss attributable to Jersey Mike’s Subs Inc. | $ | (11) | $ | — | $ | (11) | $ | — | $ | —
+Loss per share attributable to Jersey Mike's Subs Inc. (a)
+Basic | $ | (0.05) | N/A | $ | (0.05) | N/A | N/A
+Diluted | $ | (0.05) | N/A | $ | (0.05) | N/A | N/A
+Weighted-average shares of Class A common stock outstanding (a)
+Basic | 233 | N/A | 233 | N/A | N/A
+Diluted | 318 | N/A | 318 | N/A | N/A
+(a)Represents earnings per share of Class A common stock and weighted-average shares of Class A common stock outstanding for the period from July 31, 2026 through September 27, 2026, the period following the Reorganization Transactions and IPO. Earnings per share information is not presented for periods prior to the IPO because the Company’s capital structure before the Reorganization Transactions is not comparable.
+6
+Table 2
+JERSEY MIKE’S SUBS INC. AND SUBSIDIARIES
+Condensed Cash Flows
+(in millions)
+(Unaudited)
+Successor | Predecessor
+Thirty-Nine Weeks Ended September 27, 2026 | Period from January 16 to September 28, 2025 | Period from January 1 to January 15, 2025
+Cash flows from operating activities:
+Net income (loss) | $ | 23 | $ | 105 | $ | (4)
+Depreciation and amortization | 77 | 71 | —
+Changes in operating assets and liabilities | 23 | 6 | 4
+Payment of assumed transaction bonus liability | — | (411) | —
+Other, net | 54 | 22 | —
+Net cash provided by (used in) operating activities | 177 | (207) | —
+Cash flows from investing activities:
+Capital expenditures | (7) | (9) | —
+Net proceeds from sale of stores | 4 | — | —
+Other | 2 | 2 | 5
+Net cash provided by (used in) investing activities | (1) | (7) | 5
+Cash flows from financing activities:
+Proceeds from issuance of long-term debt | 760 | 400 | —
+Proceeds from issuance of Class A common stock in initial public offering, net of underwriting discounts and commissions | 301 | — | —
+Payments on long-term debt | (1,053) | (12) | —
+Debt issuance costs | (15) | (9) | —
+Members’ distributions, net prior to the Reorganization Transactions | (78) | (481) | 14
+Distribution to noncontrolling interest | (12) | — | —
+Net cash provided by (used in) financing activities | (97) | (102) | 14
+Net increase (decrease) in cash, cash equivalents, and restricted cash | $ | 79 | $ | (316) | $ | 19
+Cash, cash equivalents, and restricted cash at beginning of the period | 246 | 572 | 843
+Cash, cash equivalents, and restricted cash at end of the period | $ | 325 | $ | 256 | $ | 862
+7
+Table 3
+JERSEY MIKE’S SUBS INC. AND SUBSIDIARIES
+Balance Sheet Summary
+(in millions)
+(Unaudited)
+As of | As of
+September 27, 2026 | December 28, 2025
+Assets
+Cash, cash equivalents, and restricted cash | $ | 325 | $ | 246
+Accounts receivable, net | 33 | 41
+Property and equipment, net | 9 | 9
+Trade name and other intangible assets, net | 7,774 | 7,824
+Deferred tax assets | 278 | —
+Other current and noncurrent assets | 52 | 61
+Total assets | $ | 8,471 | $ | 8,181
+Liabilities and equity
+Total debt | $ | 1,798 | $ | 2,084
+Other current liabilities | 134 | 129
+Other non-current liabilities | 300 | 65
+TRA liability | 1,369 | —
+Total liabilities | 3,601 | 2,278
+Total stockholders’ equity attributable to Jersey Mike's Subs Inc. | 3,298 | —
+Members’ equity (pre-Reorganization) | — | 5,903
+Noncontrolling interest | 1,572 | —
+Total equity | 4,870 | 5,903
+Total liabilities and equity | $ | 8,471 | $ | 8,181
+8
+Table 4
+JERSEY MIKE’S SUBS INC. AND SUBSIDIARIES
+Non-GAAP Reconciliations
+(in millions)
+(Unaudited)
+The following table sets forth a reconciliation of net income (loss) to Adjusted EBITDA for the periods presented. Adjusted EBITDA is not a measure that is required to be disclosed by U.S. generally accepted accounting principles (“GAAP”) and should not be considered in isolation, or as a substitute for our results as reported under GAAP. The Company believes this non-GAAP measure provides useful information to investors about the financial condition and results of operations because this measure is used by its management team to assess operating performance, evaluate trends, and compare results with those of other restaurant companies. We believe this measure provides useful insight into our ability to generate earnings from core operations and to inform decisions related to budgeting, capital allocation, and debt servicing. The table also sets forth a reconciliation of general and administrative expenses to Adjusted G&A, which excludes the items described in footnotes (a) through (f) that are included within general and administrative expenses presented on the Condensed Statement of Operations. Management believes Adjusted G&A provides useful information about the ongoing cost of our corporate support structure, excluding items it does not consider indicative of ongoing operating performance.
+Successor | Predecessor
+Thirteen Weeks Ended | Thirty-Nine Weeks Ended September 27, 2026 | Period from January 16 to September 28, 2025 | Period from January 1 to January 15, 2025
+(in millions) | September 27, 2026 | September 28, 2025
+Net income (loss) | $ | 10 | $ | 32 | $ | 23 | $ | 105 | $ | (4)
+Add back:
+Interest expense | 28 | 29 | 89 | 71 | 5
+Interest income | (3) | (3) | (6) | (8) | (1)
+Income tax expense | 7 | — | 7 | — | —
+Depreciation and amortization | 26 | 25 | 77 | 71 | —
+Equity-based compensation expense(a) | 37 | 7 | 43 | 7 | —
+Acquisition-related expenses(b) | — | — | — | — | 1
+IPO-related expenses(c) | 17 | 1 | 30 | 1 | —
+Founder-related discretionary expenses(d) | — | — | — | — | 11
+Area Director buyouts(e) | — | 10 | 52 | 14 | —
+Corporate transition and other expenses(f) | 2 | 3 | 14 | 6 | —
+Loss on debt extinguishment | 6 | — | 13 | — | —
+Revaluation of contingent liability(g) | 2 | — | 2 | — | —
+Gain on sale of company-owned stores | (7) | — | (21) | — | —
+Adjusted EBITDA | $ | 125 | $ | 104 | $ | 323 | $ | 267 | $ | 12
+9
+Table 4 (continued)
+JERSEY MIKE’S SUBS INC. AND SUBSIDIARIES
+Non-GAAP Reconciliations
+(in millions)
+(Unaudited)
+Successor | Predecessor
+Thirteen Weeks Ended | Thirty-Nine Weeks Ended September 27, 2026 | Period from January 16 to September 28, 2025 | Period from January 1 to January 15, 2025
+(in millions) | September 27, 2026 | September 28, 2025
+General and administrative expenses | 87 | 54 | 231 | 127 | 19
+Less:
+Equity-based compensation expense(a) | (37) | (7) | (43) | (7) | —
+Acquisition-related expenses(b) | — | — | — | — | (1)
+IPO-related expenses(c) | (17) | (1) | (30) | (1) | —
+Founder-related discretionary expenses(d) | — | — | — | — | (11)
+Area Director buyouts(e) | — | (10) | (52) | (14) | —
+Corporate transition and other expenses(f) | (2) | (3) | (14) | (6) | —
+Adjusted G&A | $ | 31 | $ | 33 | $ | 92 | $ | 99 | $ | 7
+(a)Represents non-cash expense and related payroll taxes associated with equity incentive compensation; included within G&A.
+(b)Represents costs incurred in connection with the Sponsor Acquisition (as defined in our filings with the SEC), included within G&A.
+(c)Represents legal, consulting, accounting and other professional fees associated with preparing for the IPO, included within G&A. These expenses do not include ongoing public-company compliance or operational costs.
+(d)Represents certain historical expenses that are a legacy of the Company’s operations as a private, founder-led organization, including large, founder-directed discretionary bonuses paid to certain individuals and charitable donations, that by their nature have not recurred and are not expected to recur after the Sponsor Acquisition. Included in G&A.
+(e)Represents payments made to third-party Area Directors to terminate certain contracts that mandated payment of a percentage of gross sales for a geographic region. The final Area Director buyout was completed in the second quarter of fiscal 2026. Included in G&A.
+(f)Represents expenses incurred in connection with restructuring our operations to a corporate-led business, including severance and settlement payments. Included in G&A.
+(g)Represents the change in the value of the contingent consideration liability for the earnout related to the Sponsor Acquisition that is payable when Jersey Mike’s worldwide store count reaches 4,000 stores or upon a change of control event. The liability is remeasured each period until the earnout is paid, and the revaluation is recorded in operating income and presented separately in the Condensed Statement of Operations.
+10
+Table 5
+JERSEY MIKE’S SUBS INC. AND SUBSIDIARIES
+Adjusted Net Income, Adjusted Diluted Share Count and Adjusted EPS
+(in millions, except per share data)
+(Unaudited)
+The following tables set forth reconciliations of net income (loss) to Adjusted Net Income, and of diluted earnings per share of Class A common stock to Adjusted EPS, together with a reconciliation of weighted-average shares of Class A common stock outstanding to Adjusted Diluted Share Count, for the periods presented. Adjusted Net Income, Adjusted Diluted Share Count and Adjusted EPS are not measures required by GAAP and should not be considered in isolation or as substitutes for net income, diluted earnings per share or weighted-average shares of Class A common stock, as reported under GAAP. We believe these non-GAAP measures provide useful information to investors because they present our results on a fully exchanged and fully taxed basis, without regard to changes in our ownership interest in Jersey Mike’s Holdings, and exclude items management does not consider indicative of ongoing operating performance. Management uses these measures, together with Adjusted EBITDA, to evaluate our operating performance.
+Successor | Predecessor
+Thirteen Weeks Ended | Thirty-Nine Weeks Ended September 27, 2026 | Period from January 16 to September 28, 2025 | Period from January 1 to January 15, 2025
+(in millions) | September 27, 2026 | September 28, 2025
+Net income (loss) | 10 | 32 | 23 | 105 | (4)
+Add back:
+Income tax expense | 7 | — | 7 | — | —
+Equity-based compensation expense(a) | 37 | 7 | 43 | 7 | —
+Acquisition-related expenses(b) | — | — | — | — | 1
+IPO-related expenses(c) | 17 | 1 | 30 | 1 | —
+Founder-related discretionary expenses(d) | — | — | — | — | 11
+Area Director buyouts(e) | — | 10 | 52 | 14 | —
+Corporate transition and other expenses(f) | 2 | 3 | 14 | 6 | —
+Loss on debt extinguishment | 6 | — | 13 | — | —
+Revaluation of contingent liability(g) | 2 | — | 2 | — | —
+Amortization of acquired intangible assets(h) | 25 | 24 | 74 | 68 | —
+Gain on sale of company-owned stores | (7) | — | (21) | — | —
+Adjusted income before income taxes | 99 | 77 | 237 | 201 | 8
+Less: adjusted income tax expense(i) | 25 | 19 | 59 | 50 | 2
+Adjusted Net Income | $ | 74 | $ | 58 | $ | 178 | $ | 151 | $ | 6
+Share count (in millions):
+Weighted-average shares of Class A common stock outstanding – basic(j) | 233.1 | N/A | 233.1 | N/A | N/A
+Exchange of Common Units(k) | 84.5 | N/A | 84.5 | N/A | N/A
+Weighted-average shares of Class A common stock, assuming exchange of all Common Units | 317.6 | N/A | 317.6 | N/A | N/A
+Dilutive effect of Incentive Units, on a net-converted basis(l) | 0.8 | N/A | 0.8 | N/A | N/A
+Adjusted diluted share count(m) | 318.4 | N/A | 318.4 | N/A | N/A
+Per share of Class A common stock – diluted:
+Diluted EPS of Class A common stock (GAAP) | $ | (0.05) | N/A | $ | (0.05) | N/A | N/A
+Reallocation of pre-Reorganization net income | $ | 0.07 | N/A | $ | 0.11 | N/A | N/A
+Non-GAAP adjustments, net of adjusted income taxes | $ | 0.21 | N/A | $ | 0.50 | N/A | N/A
+Adjusted EPS | $ | 0.23 | N/A | $ | 0.56 | N/A | N/A
+11
+Table 5 (continued)
+JERSEY MIKE’S SUBS INC. AND SUBSIDIARIES
+Adjusted Net Income, Adjusted Diluted Share Count and Adjusted EPS
+(in millions, except per share data)
+(Unaudited)
+(a)Represents non-cash expense and related payroll taxes associated with equity incentive compensation; included within G&A.
+(b)Represents costs incurred in connection with the Sponsor Acquisition (as defined in our filings with the SEC), included within G&A.
+(c)Represents legal, consulting, accounting and other professional fees associated with preparing for the IPO, included within G&A. These expenses do not include ongoing public-company compliance or operational costs.
+(d)Represents certain historical expenses that are a legacy of the Company’s operations as a private, founder-led organization, including large, founder-directed discretionary bonuses paid to certain individuals and charitable donations, that by their nature have not recurred and are not expected to recur after the Sponsor Acquisition. Included in G&A.
+(e)Represents payments made to third-party Area Directors to terminate certain contracts that mandated payment of a percentage of gross sales for a geographic region. The final Area Director buyout was completed in the second quarter of fiscal 2026. Included in G&A.
+(f)Represents expenses incurred in connection with restructuring our operations to a corporate-led business, including severance and settlement payments. Included in G&A.
+(g)Represents the change in the value of the contingent consideration liability for the earnout related to the Sponsor Acquisition that is payable when Jersey Mike’s worldwide store count reaches 4,000 stores or upon a change of control event. The liability is remeasured each period until the earnout is paid, and the revaluation is recorded in operating income and presented separately in the Condensed Statement of Operations.
+(h)Represents non-cash amortization of acquired intangible assets, consisting of franchise agreements recognized in connection with the Sponsor Acquisition and reacquired franchise rights recognized in connection with purchases of stores from franchise owners; included within depreciation and amortization. Although we exclude amortization of acquired intangible assets from Adjusted Net Income, these intangible assets contribute to revenue generation, and the related amortization will recur in future periods until the assets are fully amortized. Revenue generated by these assets is not excluded from Adjusted Net Income.
+(i)Represents income taxes at an assumed blended effective tax rate of 25%, applied to adjusted income before income taxes. The 25% rate reflects our estimated long-term effective tax rate, considering blended U.S. federal and state statutory rates, as if Jersey Mike’s Subs Inc. owned 100% of Jersey Mike’s Holdings and were subject to corporate income taxes on all of its income for all periods presented, including periods prior to the Reorganization Transactions, when Jersey Mike’s Holdings was treated as a partnership for U.S. federal income tax purposes. The assumed rate excludes the impact of the tax receivable agreement and the tax attributes it covers, including our allocable share of existing tax basis in certain assets of Jersey Mike’s Holdings, tax basis adjustments resulting from sales or exchanges of Common Units and certain tax attributes of the entities through which pre-IPO owners held their interests, as well as other discrete items. As a result of these tax attributes, we expect our cash income taxes to be significantly lower than the assumed rate for a number of years. Although we are required to pay 90% of certain of those tax benefits that we actually realize to certain of our pre-IPO owners under the tax receivable agreement, we retain the remaining 10%. Reflecting that retained benefit could result in a lower assumed rate. Because the amount and timing of that benefit depend on future exchanges of Common Units, we cannot yet reasonably estimate our future taxable income and other factors; therefore, it is not reflected in the assumed rate. We believe a long-term effective tax rate provides a more consistent measure of our core operating profitability across periods.
+(j)Represents weighted-average shares of Class A common stock outstanding as reported under GAAP for the period from July 31, 2026 through September 27, 2026, the period following the Reorganization Transactions and IPO, which is the same for the thirteen and thirty-nine weeks ended September 27, 2026.
+(k)Assumes the exchange of all outstanding Common Units held by the Continuing Common Unitholders, and the cancellation of the corresponding shares of Class B common stock, for shares of Class A common stock on a one-for-one basis under the amended and restated limited liability company agreement of Jersey Mike’s Holdings, as of the beginning of fiscal 2026.
+(l)Assumes that all 13.5 million outstanding Incentive Units, vested and unvested, with a weighted-average participation threshold of $19.74 per unit, were converted into Common Units based on the average closing price of the Class A common stock since the IPO of $21.50, and that those Common Units were exchanged for shares of Class A common stock, whether or not the Incentive Units are dilutive under GAAP.
+(m)Because the IPO and the Reorganization Transactions were completed during the third quarter of fiscal 2026, Adjusted EPS for both the thirteen and thirty-nine weeks ended September 27, 2026 is calculated using a single share count that assumes the IPO and the Reorganization Transactions occurred at the beginning of fiscal 2026. The shares of Class A common stock issued in the IPO and the Reorganization Transactions are therefore treated as outstanding for the entire period. A reconciliation of this share count to weighted-average shares of Class A common stock outstanding as reported under GAAP is presented in the table above.
+12
+Table 6
+JERSEY MIKE’S SUBS INC. AND SUBSIDIARIES
+Terms and Definitions
+Adjusted Diluted Share Count - Represents weighted-average shares of Class A common stock outstanding – diluted, adjusted to (i) treat the shares of Class A common stock issued in the IPO and the Reorganization Transactions as outstanding from the beginning of each period presented; (ii) assume the exchange of all outstanding Common Units (and the cancellation of the corresponding shares of Class B common stock) for shares of Class A common stock; and (iii) include the dilutive effect of all outstanding vested and unvested Incentive Units on a net-converted basis using the average closing price of the Class A common stock for the period, and of restricted stock units and stock options using the treasury stock method, in each case whether or not such securities are dilutive under GAAP.
+Adjusted EBITDA - Defined as net income plus (i) interest expense, net of interest income; (ii) income tax expense; (iii) depreciation and amortization; (iv) equity-based compensation and related payroll taxes; (v) acquisition-related expenses; (vi) IPO-related expenses; (vii) founder-related discretionary expenses that by their nature have not recurred and are not expected to recur in periods following the Sponsor Acquisition; (viii) Area Director buyouts; (ix) corporate transition (severance, early contract termination, etc.) and other expenses; (x) loss on debt extinguishment; and (xi) the revaluation of the contingent liability; less (xii) gain on sale of company-owned stores. Adjusted EBITDA is a non-GAAP financial measure.
+Adjusted EPS - Defined as Adjusted Net Income divided by Adjusted Diluted Share Count. Adjusted EPS is a non-GAAP financial measure.
+Adjusted G&A - Defined as general and administrative expenses excluding (i) equity-based compensation and related payroll taxes; (ii) acquisition-related expenses; (iii) IPO-related expenses; (iv) founder-related discretionary expenses; (v) Area Director buyouts; and (vi) corporate transition and other expenses, in each case to the extent included within general and administrative expenses. Adjusted G&A is a non-GAAP financial measure.
+Adjusted Net Income - Defined as net income plus (i) income tax expense; (ii) amortization of acquired intangible assets; and (iii) the other items excluded from Adjusted EBITDA, except for interest expense, net and depreciation; less adjusted income tax expense, computed at an assumed blended effective tax rate of 25% applied to adjusted income before income taxes, as if Jersey Mike’s Subs Inc. owned 100% of Jersey Mike’s Holdings and were subject to corporate income taxes on all of its income for all periods presented. Adjusted Net Income is a non-GAAP financial measure.
+Average Unit Volume (AUV) - Represents (i) the trailing 364 days sales of stores in the comparable store base, divided by (ii) the number of operating days of comparable stores in the same period, multiplied by (iii) 364. Operating days is equal to the number of days the store was open for business. The calculation of Average Unit Volume excludes both non-traditional stores and any traditional stores that have been open for less than 425 days.
+Common Units, Incentive Units and Continuing Unitholders - Common Units refers to the common units of Jersey Mike’s Holdings, which, together with an equal number of shares of Class B common stock, are exchangeable for shares of Class A common stock on a one-for-one basis. Incentive Units refers to the incentive units of Jersey Mike’s Holdings, which have economic characteristics similar to stock appreciation rights and share in the equity value of Jersey Mike’s Holdings above specified participation thresholds, and which may be converted into Common Units based on that value. Continuing Unitholders refers collectively to the Continuing Common Unitholders and the Continuing Incentive Unitholders, the pre-IPO owners that continue to hold Common Units or Incentive Units, respectively, following the Reorganization Transactions.
+Digital Sales Mix - Represents the percentage of Systemwide Sales that are generated through our digital channels (mobile app, online ordering, and third-party delivery) and measures the performance of our investments made in the digital platform and partnerships with third-party delivery partners.
+IPO - Refers to the initial public offering of Class A common stock of Jersey Mike’s Subs Inc., which closed on July 31, 2026.
+13
+Table 6 (continued)
+JERSEY MIKE’S SUBS INC. AND SUBSIDIARIES
+Terms and Definitions
+Jersey Mike’s Holdings - Refers to Jersey Mike’s HoldCo, LLC, of which Jersey Mike’s Subs Inc. is the sole managing member following the Reorganization Transactions.
+Net Store Growth - Represents (i) the total number of open stores as of a specific date divided by (ii) total number of open stores in the prior annual period, (iii) minus one.
+New Store Openings - Represents the number of gross store openings in a period including franchised and company-owned stores.
+Reorganization Transactions - Refers to the series of transactions completed in connection with the IPO, as described in our final prospectus, as a result of which Jersey Mike’s Subs Inc. became the sole managing member of, and consolidates, Jersey Mike’s Holdings.
+Same-Store Sales Growth – Represents the change in year-over-year sales for the same store base on a constant-currency basis. We define the same-store base to include those traditional stores (whether company-owned or franchised) open for at least 425 days (14 calendar months). This measure highlights the performance of existing traditional stores, while excluding the impact of new traditional store openings and permanent closures. Same-Store Sales Growth is driven by increases in transactions and average check. Average check increases are driven by price increases or favorable mix shift from either an increase in items purchased or shifts into higher-priced items. Non-traditional stores, which are not included in Same-Store Sales Growth, include locations or operating models materially different than a standard Jersey Mike’s location, including kiosks, airports, colleges, commissaries, food courts, entertainment venues, etc., which make comparability year-over-year difficult or not meaningful.
+Sponsor - Refers to investment funds associated with Blackstone Inc.
+Sponsor Acquisition - Refers to the acquisition on January 16, 2025 by our Sponsor of a majority interest in Jersey Mike’s Holdings, including to indirectly hold 100% of the equity interests of Jersey Mike’s Franchise Systems, LLC.
+Systemwide Sales – Represents net sales for all Jersey Mike’s stores. This measure allows management to better assess our overall store performance, the health of our brand and the strength of our market position compared to competitors. Our systemwide sales growth is driven by the number and sales volume of new store openings as well as Same-Store Sales Growth. Note that Systemwide Sales do not reflect our revenue and should not be viewed as a substitute for Total revenues discussed below.
+Tax Receivable Agreement (“TRA”) - Refers to the tax receivable agreement we entered into in connection with the IPO, under which we are required to pay certain of our pre-IPO owners 90% of certain tax benefits, if any, that we actually realize.
+Total Revenues - Reflects royalty and advertising revenue derived from Systemwide Sales across our franchised store base, supplemented by contributions from company-operated locations, as well as other revenues such as supplier program payments, upfront development and franchise fees, technology fees and gift card income.
+Total Stores - Represents the number of stores in our system as of the relevant measurement date, including both company-owned and franchised stores and traditional and non-traditional stores.
+14
