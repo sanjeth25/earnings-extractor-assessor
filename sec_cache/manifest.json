@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-04T09:15:18+08:00",
+  "fetched_at": "2026-11-04T09:38:14+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,109 +16,109 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-03",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 87 ms"
+      "detail": "HTTP 200, 60 KB in 34 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-03&from=100",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 68 ms"
+      "detail": "HTTP 200, 59 KB in 17 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-03&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 94 ms"
+      "detail": "HTTP 200, 60 KB in 19 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-03&from=300",
       "ok": true,
-      "detail": "HTTP 200, 44 KB in 87 ms"
+      "detail": "HTTP 200, 44 KB in 17 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 52 ms"
+      "detail": "HTTP 200, 148 KB in 22 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 22 ms"
+      "detail": "HTTP 200, 156 KB in 18 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 23 ms"
+      "detail": "HTTP 200, 154 KB in 18 ms"
     },
     {
       "name": "FISERV INC filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000039/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 88 ms"
+      "detail": "HTTP 200, 1 KB in 142 ms"
     },
     {
       "name": "FISERV INC filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000039/0000798354-26-000039-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 85 ms"
+      "detail": "HTTP 200, 10 KB in 88 ms"
     },
     {
       "name": "FISERV INC press release",
       "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000039/fisvq326earningsrelease.htm",
       "ok": true,
-      "detail": "HTTP 200, 642 KB in 60 ms"
+      "detail": "HTTP 200, 642 KB in 136 ms"
     },
     {
       "name": "GARTNER INC filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/749251/000074925126000305/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 82 ms"
+      "detail": "HTTP 200, 1 KB in 98 ms"
     },
     {
       "name": "GARTNER INC press release",
       "url": "https://www.sec.gov/Archives/edgar/data/749251/000074925126000305/it-09302026xex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 170 KB in 80 ms"
+      "detail": "HTTP 200, 170 KB in 141 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,173 KB in 122 ms"
+      "detail": "HTTP 200, 3,173 KB in 32 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 80 ms"
+      "detail": "HTTP 200, 4,447 KB in 27 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,743 KB in 37 ms"
+      "detail": "HTTP 200, 2,743 KB in 23 ms"
     },
     {
       "name": "FISERV INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000798354.json",
       "ok": true,
-      "detail": "HTTP 200, 3,779 KB in 967 ms"
+      "detail": "HTTP 200, 3,779 KB in 21 ms"
     },
     {
       "name": "GARTNER INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000749251.json",
       "ok": true,
-      "detail": "HTTP 200, 3,594 KB in 462 ms"
+      "detail": "HTTP 200, 3,594 KB in 30 ms"
     },
     {
       "name": "LATTICE SEMICONDUCTOR CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000855658.json",
       "ok": true,
-      "detail": "HTTP 200, 2,991 KB in 138 ms"
+      "detail": "HTTP 200, 2,991 KB in 136 ms"
     }
   ],
   "files": [
