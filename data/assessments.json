@@ -3632,5 +3632,213 @@
     "filing_found": false,
     "recheck": true,
     "assessed_at": "2026-11-05T06:37:52+08:00"
+  },
+  {
+    "accession": "0001437749-26-034452",
+    "cik": "855658",
+    "company": "LATTICE SEMICONDUCTOR CORP",
+    "period_end": "2026-10-03",
+    "period_label": "quarter ended 3 October 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure could be read today (data.sec.gov blocked). The quote is in the release and holds 291,035 (USD thousands)."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure could be read today (data.sec.gov blocked). The quote is in the release and holds 23,968 (USD thousands)."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure could be read today (data.sec.gov blocked). The quote is in the release and holds 11,206 (USD thousands)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure could be read today (data.sec.gov blocked). The quote is in the release and holds 0.08 per share."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four quotes are in the release and hold their numbers. The 10-Q check is still to come, as the SEC could not be read today."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are present, with the fourth quarter guidance of $325m to $345m and three management claims."
+      },
+      "S3": {
+        "score": 5,
+        "reason": "Figures, quotes, guidance and claims could be used as they stand; the 10-Q check is the only step left."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "291.035 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "operating_income": {
+        "extracted": "23.968 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "net_income": {
+        "extracted": "11.206 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "0.08 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Release table: revenue 291,035 against 133,349 a year ago (+118.3%) and 201,079 last quarter (+44.7%). Record is the release's own headline. The 90% FPGA growth cannot be tested here."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Outlook of about $335m is above the $291.0m just reported and within the $325m to $345m guidance. Revenue grew 44.7% on the previous quarter, so the outlook fits the trend."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "On a year ago (release table): operating income 23,968 against (1,534), net income 11,206 against 2,794. Not on the previous quarter: operating margin 8.2% against 11.1%, net income down 42.1%."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Revenue rose 118.3% on a year ago and 44.7% on the previous quarter (release table), and operating income turned from a loss to 23,968."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 291.035,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 23.968,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 11.206,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.08,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 8.235435600529145,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 3.8503960004810414,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says third quarter revenue was a record and FPGA revenue grew about 90%.",
+        "quote": "We delivered record third quarter revenue of $291 million and non-GAAP EPS of $0.72",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says bookings, backlog and design wins support the fourth quarter outlook.",
+        "quote": "Strong bookings, backlog and design wins support our fourth-quarter revenue outlook of approximately $335 million",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The CFO says operating leverage was evident in the quarter.",
+        "quote": "Lattice’s operating leverage was evident in the third quarter",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO reports record revenue and confidence in growth into 2027 and beyond."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-06T06:37:46+08:00"
   }
 ]
