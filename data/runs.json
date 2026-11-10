@@ -2329,5 +2329,86 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-11T06:37:54+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-11-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 3,
+      "total": 3,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 3,
+      "checked": 3,
+      "rechecks": 1,
+      "confirmed": 12,
+      "mismatch": 0,
+      "cannot_check": 0
+    },
+    "companies": [
+      {
+        "cik": "855658",
+        "company": "LATTICE SEMICONDUCTOR CORP",
+        "accession": "0001437749-26-034452",
+        "period_label": "quarter ended 3 October 2026",
+        "recheck": true,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1802665",
+        "company": "Harmony Biosciences Holdings, Inc.",
+        "accession": "0001104659-26-122377",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 4,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1076930",
+        "company": "NOVANTA INC",
+        "accession": "0001193125-26-453760",
+        "period_label": "quarter ended 2 October 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 3 extractions: 12 figures confirmed, 0 mismatches, 0 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-11T06:15:13+08:00",
+      "watch_brief": "briefs/2026-11-11-watch.md",
+      "brief_says": 1369,
+      "saved_for_run": 1369,
+      "match": true
+    },
+    "offline": false
   }
 ]
