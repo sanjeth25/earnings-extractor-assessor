@@ -525,5 +525,137 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/2127043/000212704326000015/q32026earningsrelease.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/2127043/000212704326000015/0002127043-26-000015-index.htm",
     "saved_at": "2026-11-04T06:07:57+08:00"
+  },
+  {
+    "cik": "1802665",
+    "company": "Harmony Biosciences Holdings, Inc.",
+    "accession": "0001104659-26-122377",
+    "release_date": "2026-11-04",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 268.917,
+        "unit": "USD millions",
+        "quote": "Net product revenue | $ | 268,917"
+      },
+      "operating_income": {
+        "value": 54.197,
+        "unit": "USD millions",
+        "quote": "Operating income | 54,197"
+      },
+      "net_income": {
+        "value": 48.196,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 48,196"
+      },
+      "diluted_eps": {
+        "value": 0.81,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.81"
+      }
+    },
+    "guidance": {
+      "text": "Harmony reiterated its full-year 2026 WAKIX net revenue guidance of $1.0 billion to $1.04 billion.",
+      "quote": "Reiterated full year guidance of $1.0 billion to $1.04 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "WAKIX net revenue for the quarter was $268.9 million, up 12% on a year earlier, driven by patient demand.",
+        "quote": "Harmony Biosciences reported WAKIX net revenue of $268.9 million for the quarter ended September 30, 2026, compared to $239.5 million for the quarter ended September 30, 2025, representing a 12% increase over the same period."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Cost of product sold rose to 30% of WAKIX net revenue from 25%, mainly because of new royalties under the Novitium licence.",
+        "quote": "The increase in cost of product sold as a percentage of net product revenue was primarily driven by new royalties related to the Novitium license agreement."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Earnings declined, mainly because of higher milestone charges and new MSN royalty charges.",
+        "quote": "The decline in earnings was primarily driven by an increase in milestone charges and the new MSN royalty charges during the third quarter of 2026 as compared to the same quarter in 2025."
+      },
+      {
+        "id": "M4",
+        "topic": "other",
+        "claim": "The outgoing CEO says Harmony operates from a position of strength, with a growing WAKIX franchise and financial flexibility.",
+        "quote": "I believe Harmony is operating from a position of strength, with a durable and growing WAKIX franchise, the financial flexibility to invest in innovation"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of a position of strength and a growing franchise; the release also explains the fall in earnings by higher charges."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1802665-0001104659-26-122377.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1802665/000110465926122377/hrmy-ex99d1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1802665/000110465926122377/0001104659-26-122377-index.htm",
+    "saved_at": "2026-11-11T06:15:13+08:00"
+  },
+  {
+    "cik": "1076930",
+    "company": "NOVANTA INC",
+    "accession": "0001193125-26-453760",
+    "release_date": "2026-11-09",
+    "period_end": "2026-10-02",
+    "period_label": "quarter ended 2 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 305.008,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 305,008"
+      },
+      "operating_income": {
+        "value": 13.911,
+        "unit": "USD millions",
+        "quote": "Operating income | 13,911"
+      },
+      "net_income": {
+        "value": 2.017,
+        "unit": "USD millions",
+        "quote": "Net Income | $ | 2,017"
+      },
+      "diluted_eps": {
+        "value": 0.05,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.05"
+      }
+    },
+    "guidance": {
+      "text": "For the fourth quarter of 2026 Novanta expects GAAP revenue of $306 million to $312 million, reported growth of more than 18%.",
+      "quote": "For the fourth quarter of 2026, the Company expects GAAP revenue to be in the range of $306 million to $312 million, reflecting reported revenue growth of more than 18%."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenue rose 23% in the quarter and customer bookings rose 29%, taking the backlog to $543 million.",
+        "quote": "Momentum continued in the third quarter as revenue advanced 23% and we achieved an Adjusted EBITDA margin of 26%, which improved 290 basis points year-over-year. Customer bookings increased 29%"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says the quarter's results exceeded the company's expectations after it closed its largest acquisition.",
+        "quote": "The third quarter marked a significant milestone for Novanta as we closed the largest acquisition in our history and delivered strong financial results that exceeded our expectations"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The company expects reported revenue growth of more than 15% in 2027.",
+        "quote": "Looking ahead to 2027, we expect reported revenue growth of more than 15%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes strong results that exceeded expectations, continued momentum and a solid foundation for growth."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1076930-0001193125-26-453760.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1076930/000119312526453760/novt-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1076930/000119312526453760/0001193125-26-453760-index.htm",
+    "saved_at": "2026-11-11T06:15:13+08:00"
   }
 ]
