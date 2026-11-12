@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T10:13:04+08:00",
+  "fetched_at": "2026-11-12T10:29:38+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,67 +16,67 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 122 ms"
+      "detail": "HTTP 200, 60 KB in 449 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 142 ms"
+      "detail": "HTTP 200, 60 KB in 117 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 146 ms"
+      "detail": "HTTP 200, 60 KB in 110 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=300",
       "ok": true,
-      "detail": "HTTP 200, 53 KB in 160 ms"
+      "detail": "HTTP 200, 53 KB in 180 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 79 ms"
+      "detail": "HTTP 200, 148 KB in 61 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 165 ms"
+      "detail": "HTTP 200, 156 KB in 35 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 37 ms"
+      "detail": "HTTP 200, 153 KB in 92 ms"
     },
     {
       "name": "Xilio Therapeutics, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1840233/000119312526454449/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 89 ms"
+      "detail": "HTTP 200, 1 KB in 70 ms"
     },
     {
       "name": "Xilio Therapeutics, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1840233/000119312526454449/xlo-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 182 KB in 104 ms"
+      "detail": "HTTP 200, 182 KB in 592 ms"
     },
     {
-      "name": "iBio, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1420720/000142072026000035/index.json",
+      "name": "Inhibikase Therapeutics, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1750149/000119312526455560/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 55 ms"
+      "detail": "HTTP 200, 1 KB in 76 ms"
     },
     {
-      "name": "iBio, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1420720/000142072026000035/ibio-ex99d1.htm",
+      "name": "Inhibikase Therapeutics, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1750149/000119312526455560/d95716dex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 176 KB in 72 ms"
+      "detail": "HTTP 200, 101 KB in 121 ms"
     },
     {
       "name": "Alphabet company facts",
@@ -88,32 +88,32 @@
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 119 ms"
+      "detail": "HTTP 200, 4,447 KB in 66 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 133 ms"
+      "detail": "HTTP 200, 2,745 KB in 122 ms"
     },
     {
       "name": "Xilio Therapeutics, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001840233.json",
       "ok": true,
-      "detail": "HTTP 200, 685 KB in 105 ms"
+      "detail": "HTTP 200, 685 KB in 109 ms"
     },
     {
-      "name": "iBio, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001420720.json",
+      "name": "Inhibikase Therapeutics, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001750149.json",
       "ok": true,
-      "detail": "HTTP 200, 2,590 KB in 395 ms"
+      "detail": "HTTP 200, 698 KB in 344 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001420720.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001750149.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001840233.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
@@ -122,8 +122,8 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1420720_000142072026000035_ibio-ex99d1.htm",
-    "www.sec.gov_Archives_edgar_data_1420720_000142072026000035_index.json",
+    "www.sec.gov_Archives_edgar_data_1750149_000119312526455560_d95716dex991.htm",
+    "www.sec.gov_Archives_edgar_data_1750149_000119312526455560_index.json",
     "www.sec.gov_Archives_edgar_data_1840233_000119312526454449_index.json",
     "www.sec.gov_Archives_edgar_data_1840233_000119312526454449_xlo-ex99_1.htm"
   ]
