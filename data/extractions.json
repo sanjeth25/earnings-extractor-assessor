@@ -657,5 +657,133 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1076930/000119312526453760/novt-ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1076930/000119312526453760/0001193125-26-453760-index.htm",
     "saved_at": "2026-11-11T06:15:13+08:00"
+  },
+  {
+    "cik": "1840233",
+    "company": "Xilio Therapeutics, Inc.",
+    "accession": "0001193125-26-454449",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 9.984,
+        "unit": "USD millions",
+        "quote": "Collaboration and license revenue | $ | 9,984"
+      },
+      "operating_income": {
+        "value": -11.749,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (11,749)"
+      },
+      "net_income": {
+        "value": -5.948,
+        "unit": "USD millions",
+        "quote": "Net loss and comprehensive loss | $ | (5,948)"
+      },
+      "diluted_eps": {
+        "value": -0.3,
+        "unit": "USD per share",
+        "quote": "Net loss per share, basic and diluted | $ | (0.30)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "In the third quarter the company started its Phase 1/2 clinical trial for XTX501.",
+        "quote": "In the third quarter, we initiated our Phase 1/2 clinical trial for XTX501, a PD-1/masked IL-2 bispecific"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Collaboration and license revenue fell from $19.1 million to $10.0 million, driven by lower revenue under the AbbVie and Gilead agreements.",
+        "quote": "The decrease was driven by a decrease in collaboration and license revenue recognized under the company’s collaboration and license agreements with AbbVie and Gilead."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "R&D expenses rose to $14.8 million, mainly from preclinical work on the masked TCE programmes, trial start-up for XTX501 and more staff.",
+        "quote": "R&D expenses were $14.8 million for the quarter ended September 30, 2026, compared to $14.3 million for the quarter ended September 30, 2025."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The company expects its cash to fund operating expenses and capital expenditure into the first quarter of 2028.",
+        "quote": "Xilio anticipates that its existing cash and cash equivalents will be sufficient to enable it to fund its operating expenses and capital expenditure requirements into the first quarter of 2028."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes the start of the XTX501 trial and continued progress across the preclinical pipeline, with no setback mentioned."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1840233-0001193125-26-454449.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1840233/000119312526454449/xlo-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1840233/000119312526454449/0001193125-26-454449-index.htm",
+    "saved_at": "2026-11-13T06:08:18+08:00"
+  },
+  {
+    "cik": "1750149",
+    "company": "Inhibikase Therapeutics, Inc.",
+    "accession": "0001193125-26-455560",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": {
+        "value": -22.229057,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (22,229,057 | )"
+      },
+      "net_income": {
+        "value": -20.467334,
+        "unit": "USD millions",
+        "quote": "Net loss | (20,467,334 | )"
+      },
+      "diluted_eps": {
+        "value": -0.1,
+        "unit": "USD per share",
+        "quote": "Net loss per share – basic and diluted | $ | (0.10 | )"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The Phase 3 IMPROVE-PAH study has 28 country regulatory approvals and 79 clinical sites activated.",
+        "quote": "we continued to advance our Phase 3 IMPROVE-PAH study, for which we have obtained 28 country regulatory approvals in the U.S. and E.U., with 79 clinical sites activated across a range of countries"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says the company is well placed to advance IKT-001, supported by $50 million from the July share sale to RA Capital.",
+        "quote": "Supported by the $50 million proceeds from the sale of shares to RA Capital in July, Inhibikase is well-positioned to advance IKT-001"
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "Research and development expenses roughly doubled to $15.0 million from $7.6 million a year earlier.",
+        "quote": "Research and development expenses were $15.0 million for the quarter ended September 30, 2026, compared to $7.6 million for the quarter ended September 30, 2025."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The company expects its cash to support operations through the Part B topline readout, if the Series A and B warrants are exercised in full and on time.",
+        "quote": "will support operations through topline data readout in Part B of the ongoing global Phase 3 IMPROVE-PAH clinical study, assuming the full and timely exercise of the outstanding Series A and B Warrants"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of continued progress in the Phase 3 study and says the company is well positioned, supported by new funding."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1750149-0001193125-26-455560.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1750149/000119312526455560/d95716dex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1750149/000119312526455560/0001193125-26-455560-index.htm",
+    "saved_at": "2026-11-13T06:08:18+08:00"
   }
 ]
