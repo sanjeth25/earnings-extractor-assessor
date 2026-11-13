@@ -5745,5 +5745,443 @@
     "filing_found": false,
     "recheck": false,
     "assessed_at": "2026-11-13T06:38:01+08:00"
+  },
+  {
+    "accession": "0001193125-26-454449",
+    "cik": "1840233",
+    "company": "Xilio Therapeutics, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The filed figures could not be read today (data.sec.gov blocked, 403). The quote is in the release and holds 9,984 thousand, which is 9.984 million."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The filed figures could not be read today (data.sec.gov blocked, 403). The quote is in the release and holds (11,749) thousand, which is -11.749 million."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The filed figures could not be read today (data.sec.gov blocked, 403). The quote is in the release and holds (5,948) thousand, which is -5.948 million."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The filed figures could not be read today (data.sec.gov blocked, 403). The quote is in the release and holds (0.30) per share."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four quotes are in the release and hold their numbers (9,984; (11,749); (5,948); (0.30)). The 10-Q check is still to come, as the SEC could not be read today."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are present. The release gives a cash runway but no revenue or earnings guidance, so nothing is missing."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands, with exact quotes and four claims. The figures are not yet checked against the 10-Q, and the positive tone hides a 47.6% fall in revenue."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "9.984 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "operating_income": {
+        "extracted": "-11.749 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "net_income": {
+        "extracted": "-5.948 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "-0.30 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "cannot check",
+        "reason": "A claim about a clinical trial. The fundamentals cannot test it; the quote is in the release."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Release tables: revenue 9,984 vs 19,066 thousand a year ago, down 47.6%, as claimed ($19.1m to $10.0m). The fundamentals hold no year-ago figure. The cause (AbbVie and Gilead) was not tested."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Release tables: R&D 14,805 vs 14,321 thousand a year ago, up 3.4%, as claimed. Operating loss widened from 1,929 to 11,749 thousand. The causes named were not tested."
+      },
+      "M4": {
+        "verdict": "matches",
+        "reason": "Outlook, judged on the release tables: cash fell from 137.5m to 122.2m in nine months, and quarterly operating expenses were 21.7m, so cash covers about 5.6 quarters. Runway into Q1 2028 is consistent with that trend."
+      }
+    },
+    "tone": {
+      "verdict": "not supported",
+      "reason": "Release tables: revenue fell 47.6% (9,984 vs 19,066 thousand) and the operating loss grew from 1,929 to 11,749. Net loss narrowed to 5,948 from 16,287, helped by a 4,820 warrant gain. The numbers are mixed, not plainly positive."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 9.984,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": -11.749,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": -5.948,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": -0.3,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": -117.67828525641026,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": -59.57532051282052,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "In the third quarter the company started its Phase 1/2 clinical trial for XTX501.",
+        "quote": "In the third quarter, we initiated our Phase 1/2 clinical trial for XTX501, a PD-1/masked IL-2 bispecific",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Collaboration and license revenue fell from $19.1 million to $10.0 million, driven by lower revenue under the AbbVie and Gilead agreements.",
+        "quote": "The decrease was driven by a decrease in collaboration and license revenue recognized under the company’s collaboration and license agreements with AbbVie and Gilead.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "R&D expenses rose to $14.8 million, mainly from preclinical work on the masked TCE programmes, trial start-up for XTX501 and more staff.",
+        "quote": "R&D expenses were $14.8 million for the quarter ended September 30, 2026, compared to $14.3 million for the quarter ended September 30, 2025.",
+        "quote_found": true
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The company expects its cash to fund operating expenses and capital expenditure into the first quarter of 2028.",
+        "quote": "Xilio anticipates that its existing cash and cash equivalents will be sufficient to enable it to fund its operating expenses and capital expenditure requirements into the first quarter of 2028.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO describes the start of the XTX501 trial and continued progress across the preclinical pipeline, with no setback mentioned."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-14T06:38:11+08:00"
+  },
+  {
+    "accession": "0001193125-26-455560",
+    "cik": "1750149",
+    "company": "Inhibikase Therapeutics, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left revenue empty. That is right: the release's statement of operations shows costs and expenses only, with no revenue line."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The filed figures could not be read today (data.sec.gov blocked, 403). The quote is in the release; the table is in whole dollars, so (22,229,057) is -22.229 million, the extracted number. The tool's flag is a units issue."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The filed figures could not be read today (data.sec.gov blocked, 403). The quote is in the release; the table is in whole dollars, so (20,467,334) is -20.467 million, the extracted number. The tool's flag is a units issue."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The filed figures could not be read today (data.sec.gov blocked, 403). The quote is in the release and holds (0.10) per share."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All three quotes are in the release and hold their numbers ((22,229,057), (20,467,334) in whole dollars; (0.10)). The 10-Q check is still to come, as the SEC could not be read today."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "Operating income, net income and EPS are present. The release has no revenue line and no guidance, so the empty revenue is not a fault."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands. The figures are not yet checked against the 10-Q, and the reader should note the release's tables are in whole dollars, not thousands."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": "-22.229 USD millions",
+        "quote_found": true,
+        "number_in_quote": false,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "net_income": {
+        "extracted": "-20.467 USD millions",
+        "quote_found": true,
+        "number_in_quote": false,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "diluted_eps": {
+        "extracted": "-0.10 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "cannot check",
+        "reason": "A claim about trial approvals and sites. The fundamentals cannot test it; the quote is in the release."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Release tables: financing brought in 52,011,159 net in nine months, and cash, equivalents and marketable securities were $193.3m, against an operating loss of 22,229,057 in the quarter. The claim is consistent with that."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Release tables: R&D 14,999,866 vs 7,649,697 a year ago, up 96.1%, so roughly doubled, as claimed. Operating loss widened 74.1%, from 12,768,373 to 22,229,057."
+      },
+      "M4": {
+        "verdict": "cannot check",
+        "reason": "Outlook. The release gives no date for the Part B readout and no warrant amounts, so the runway cannot be tested. It gives $193.3m of cash and securities against an operating loss of 22.229m in the quarter, up 74.1%."
+      }
+    },
+    "tone": {
+      "verdict": "not supported",
+      "reason": "Release tables: net loss widened 71.6% (20,467,334 vs 11,930,280) and operating loss 74.1%, as R&D rose 96.1%. The progress is in the trial, not in the numbers, which show larger losses."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": -22.229057,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": -20.467334,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": -0.1,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The Phase 3 IMPROVE-PAH study has 28 country regulatory approvals and 79 clinical sites activated.",
+        "quote": "we continued to advance our Phase 3 IMPROVE-PAH study, for which we have obtained 28 country regulatory approvals in the U.S. and E.U., with 79 clinical sites activated across a range of countries",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says the company is well placed to advance IKT-001, supported by $50 million from the July share sale to RA Capital.",
+        "quote": "Supported by the $50 million proceeds from the sale of shares to RA Capital in July, Inhibikase is well-positioned to advance IKT-001",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "Research and development expenses roughly doubled to $15.0 million from $7.6 million a year earlier.",
+        "quote": "Research and development expenses were $15.0 million for the quarter ended September 30, 2026, compared to $7.6 million for the quarter ended September 30, 2025.",
+        "quote_found": true
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The company expects its cash to support operations through the Part B topline readout, if the Series A and B warrants are exercised in full and on time.",
+        "quote": "will support operations through topline data readout in Part B of the ongoing global Phase 3 IMPROVE-PAH clinical study, assuming the full and timely exercise of the outstanding Series A and B Warrants",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of continued progress in the Phase 3 study and says the company is well positioned, supported by new funding."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-14T06:38:11+08:00"
   }
 ]
