@@ -1,0 +1,187 @@
+Company: Cineverse Corp. (CIK 1173204)
+Accession: 0001193125-26-459364
+Results released: 2026-11-13
+Press release: https://www.sec.gov/Archives/edgar/data/1173204/000119312526459364/cnvs-ex99_1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1173204/000119312526459364/0001193125-26-459364-index.htm
+Saved: 2026-11-18T06:07:57+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 cnvs-ex99_1.htm EX-99.1
+Exhibit 99.1
+Cineverse Reports Second Quarter Fiscal Year 2027 Results
+•
+Revenue of $26.0 Million, a $13.6 Million or 110% Increase Over the Prior Year Quarter, With More Than 50% From Technology Related Revenue Streams.
+•
+Net Income of $3.2 Million, or $0.11 per Diluted Share, an $8.8 Million, or $0.42 per Diluted Share Increase Over Prior Year Quarter.
+•
+Adjusted EBITDA of $1.7 Million, a $5.4 Million Increase Over the Prior Year Quarter and the Third Consecutive Quarter With Positive and Growing EBITDA.
+•
+Cash Flow From Operations Increased $17.8 million Year-Over-Year, Despite a $4 Million Increase in Content Advances.
+•
+$9 Million of Annualized Cost Reductions and Synergies Implemented to Date, Achieving 90% of Previously Announced $10 Million Efficiency Program; Additional Annualized Savings Opportunity of Up to $4 Million Identified.
+•
+Cineverse Reaffirms Fiscal Year 2027 Guidance of $115 to $120 Million of Revenue and $10 to $20 Million of Adjusted EBITDA, with Technology Revenue Expected to Represent More Than 50% of Total Revenue
+LOS ANGELES, November 13, 2026 – Cineverse Corp. (“Cineverse” or the “Company”) (NASDAQ: CNVS), a global streaming technology and entertainment company, today announced its financial results for its second quarter ended September 30, 2026 (“Q2 FY 2027”):
+Q2 FY 2027 Highlights (all comparisons are to the prior year fiscal quarter ended September 30, 2025, or Q2 FY 2026, unless otherwise noted):
+Total quarterly revenue was $26.0 million versus $12.4 million in the prior-year quarter, a $13.6 million or 110% increase, driven in large part by the Company's Technology and Media Services revenue streams, which now account for 55% of revenue, compared to the prior year quarter of less than 5% of revenue.
+As anticipated, following the fiscal fourth quarter 2026's acquisitions of IndiCue, Inc. and Giant Worldwide, the Company's direct operating margin of 38% decreased from the prior year quarter's 58%. However, the Company continues to generate margin improvements post-acquisition, stemming from integration and operational efficiencies. Accordingly, despite the $4.6 million quarter-over-quarter seasonal decline in revenue, the Company's direct operating margin improved by 300 basis points over last quarter's direct operating margin of 35%.
+Notably, SG&A expenses of $10.1 million reflected a $1.3 million improvement over the $11.4 million in the prior year quarter - even with the overhead of the two acquisitions in the fourth quarter of fiscal year 2026 added to the total. This decrease is primarily driven by a $1.6 million reduction in marketing costs, and a $0.1 million reduction in compensation expenses. The Company has also continued to rationalize recurring
+1
+professional consulting fees, mostly incurred due to the acquisition integration, which decreased $0.3 million as compared to both the prior year quarter and the first quarter of fiscal year 2027.
+Adjusted EBITDA was $1.7 million, an increase of $5.4 million over the prior year. Net income attributable to common stockholders was $3.2 million, or $0.11 per diluted share, compared to a $(5.7) million net loss, or $(0.31) per share, in the prior year quarter. In addition to the factors which contributed to improved Adjusted EBITDA, this improvement was primarily driven by a non-recurring $7.0 million decrease in the valuation of the Company's acquisition-related liabilities and partially offset by a $0.6 million increase in interest expense from the Company's term loan and increased utilization of the Company's line of credit.
+Year-to-Date FY 2027 Highlights (all comparisons are to the prior year fiscal YTD ended September 30, 2025, unless otherwise noted):
+Year-to-date revenue was $56.6 million versus $23.5 million in the prior year, a 141% increase, driven by the Company's Advertising Technology and Media Services revenue streams which totaled $33.7 million in revenue or 60% of the consolidated total. Year-to-date direct operating margins were 36%. We anticipate continued margin improvement throughout the year.
+Year-to-date SG&A expenses of $21.8 million exceeded the prior year of $20.4 million by $1.4 million, which were primarily due to increases in stock-based compensation costs of $0.8 million and integration-related consulting fees of $0.7 million, partially offset by a $1.1 million decrease in marketing spend. SG&A cost increases, due to the two acquisitions the Company transacted in the fiscal fourth quarter of 2026, have been largely offset by our cost streamlining initiatives.
+Financial Condition Overview:
+•
+Cash and Cash Equivalents of $3.6 million, with our Line of Credit Facility still active and available as of September 30, 2026.
+•
+As of September 30, 2026, our reported net working capital is negative $9.7 million; however, the Company has the right to settle $8.0 million of its acquisition-related IndiCue earnout and deferred consideration in equity.
+•
+The Company’s content library was valued as of March 31, 2026 with a Valuation Indication of $45 million, significantly above the $6.0 million book value of the library as of September 30, 2026.
+Operational Developments During the Quarter:
+•
+Completed the business and operational integration of Giant Worldwide, with Media Services revenue of $3.1 million in its second full quarter and a record monthly total of $1.8 million in September. The combined technology and media services offering now pairs Giant’s established studio relationships with Matchpoint’s automated distribution, spanning content preparation, packaging and delivery to streaming platforms, and now includes a newly launched aggregation service.
+•
+Consolidated the Company’s product portfolio into the Matchpoint platform, integrating key standalone products as platform features, simplifying the offering for customers and reducing engineering, sales and marketing expense.
+•
+Streaming engagement continued to grow on the channels the Company is investing in. Total minutes streamed rose 8% year over year to 4.05 billion and FAST minutes rose 7% to 3.84 billion; excluding three channels which were wound down during the quarter, total minutes grew 36% and FAST minutes grew 37%. Dove, The Dog Whisperer and Yu-Gi-Oh each delivered their most watched quarter on record, led by Dove, up 80% year over year to 854 million minutes as its audience grew 43% and minutes per viewer rose 26%. SVOD subscribers ended the quarter at 1.44 million, up 2% year over year, with the flagship Cineverse channel and anime channel RetroCrush at all-time subscriber highs for the second consecutive quarter; Cineverse channel subscribers grew 62% year over year and Roku SVOD subscribers across all channels grew 62%.
+2
+•
+Launched the VAUDIO advertising platform, which extends brands’ audio campaigns onto connected TV, developed by the executive team that joined with the IndiCue acquisition.
+•
+Launched video podcasts Mohr Stories with Jay Mohr and The Stand Presents: 10 for 10, along with tentpole FAST channels The Dog Whisperer and The Bob Ross Channel, all now available on Amazon Fire TV.
+•
+Announced a sponsorship with PEDIGREE and Air Bud Entertainment for a multi-city summer movie series across Los Angeles, Chicago and Kansas City, featuring an exclusive first look at Air Bud Returns ahead of its January 2027 theatrical release.
+Operational Developments Subsequent to Quarter-End:
+•
+Kicked off the FY 2028 release slate on Friday, November 13th 2026 by announcing that the Company has secured long term North American distribution rights in theatrical and all other entertainment media to the 13th feature film in the Jason Universe franchise from Horror, Inc., returning legendary horror icon Jason Voorhees to theaters. Also announced a development partnership with creator Trevor Henderson (Siren Head, Cartoon Cat) to adapt the hit horror podcast Mayfair Watchers Society for theatrical release.
+•
+Completed the migration of the first Giant Worldwide customer workflow onto the Matchpoint platform, delivering approximately 5,000 files in hours with roughly 40% less processing time than the manual workflow it replaced. Two additional longstanding Giant customers are scheduled to transition onto Matchpoint, extending automation across the existing customer base and positioning Media Services for higher gross margins and greater capacity.
+•
+Benefiting from the political season in October 2026, the Company's Ad-Tech revenue had its best month since the acquisition of IndiCue.
+•
+Recorded the largest pre-orders in Company history for the home entertainment release of Guillermo del Toro’s Pan’s Labyrinth 20th Anniversary, available in 4K for digital ownership and as physical collectors’ editions, as Cineverse Motion Pictures Group grew EST revenue 18.8% and VOD revenue 16.7% year over year.
+•
+Announced the nomination of Dr. Samrat Ganguly for election to the Board of Directors. Dr. Ganguly, a former Apple global infrastructure leader, is the technology founder behind the Matchpoint platform and an AI infrastructure entrepreneur.
+•
+Expanded monetization of the Company’s premium content library, independently valued at $45 million, through new licensing partnerships, including the license of indie hit Hundreds of Beavers to comedy streaming service Dropout.
+•
+Launched new FAST channels extending the Company into live sports and comedy, including the German Soccer Network, in partnership with the German Football Association (DFB), streaming live matches on LG Channels, and The Ed Bassmaster Channel, in partnership with Witz Comedy Network, streaming on VIZIO WatchFree+.
+Management Commentary
+Chris McGurk, Cineverse Chairman and CEO, stated: "We had a very strong quarter again both operationally and financially. Our revenues increased by 110% versus the prior year quarter, driven largely by the significant positive impact of the two acquisitions we closed in the fourth quarter of fiscal 2026, IndiCue and Giant Worldwide. Adjusted EBITDA was $1.7 million, a $5.4 million increase and our third consecutive quarter with positive and growing results. Net income was $3.2 million or $0.11 per diluted share, a $0.42 increase over the prior year quarter. Importantly, we generated these results in one of our slowest seasonal quarters. And this momentum is continuing: We generated over $10 million in revenues in September and preliminarily estimate total revenues of approximately $15 million in October, our biggest revenue month since the release of Terrifier 3 two years ago. October’s revenues will be recorded in our next fiscal quarter.
+3
+Clearly, the positive impact of the acquisitions of Giant Worldwide and IndiCue is being significantly registered this quarter across the entire Company, as our technology business now represents the majority of Cineverse’s revenue. We have seen enormous value from the technology platforms, customer relationships, and expert leadership brought to Cineverse through these acquisitions, with Advertising Technology and Media Services being the largest factor in more than doubling our quarterly revenue compared to the same period last year. Add to that our successful, targeted content acquisition and distribution strategy, the growth of our streaming channels and podcast businesses, and the significant cost saving initiatives we continue to implement, and we are very excited about our competitive positioning in the evolving entertainment and media ecosystem.
+“On the entertainment content side of the business, just this morning, which happens to be Friday the 13th, we announced that we have secured North American rights to the newest feature film in the Jason Universe, bringing one of the greatest horror film icons of all time, the legendary Jason Voorhees, back to theaters for the 13th installment of this hugely successful film series. This should be another high impact theatrical release for us, and a tremendous addition to our library of film rights for decades to come. Our library was also just valued at approximately $45 million, more than seven times higher than its current book value. Importantly, despite the high profile and highly anticipated nature of this new Jason franchise property, which we plan to widely release in the theatrical market, we intend to fully fund it internally with no third-party capital. That is because of the unique aspects of our theatrical business model, the low risk, high potential return investment approach we employ, and also the low out-of-pocket economics of our marketing ecosystem. Expect more news with additional specifics on this exciting high potential franchise film release over the next few weeks.
+Based on this quarter’s results and clear forward momentum, we reaffirm our full year Fiscal 2027 guidance of $115 to $120 million in total revenues and $10 to $20 million in Adjusted EBITDA.
+Finally, we are very pleased to nominate Dr. Samrat Ganguly for election to our Board of Directors. Dr. Ganguly, a former long term Apple global infrastructure leader, is a technology pioneer and the founder behind the Matchpoint platform. Dr. Ganguly is now an AI infrastructure entrepreneur who will help Cineverse plan and execute our technology and AI future.”
+Erick Opeka, Cineverse President and Chief Strategy Officer, stated: "This quarter exactly demonstrates the strong operating leverage we built the new Cineverse to deliver. Revenue was seasonally lower by $4.6 million from the first quarter, and yet Adjusted EBITDA still more than tripled to $1.7 million. The clearest proof is SG&A. We are now carrying the overhead of two acquired companies along with the marketing spend behind our theatrical slate, and SG&A still came in at $10.1 million, $1.3 million below the prior year quarter and roughly $1.5 million below the first quarter of fiscal 2027. Direct operating margin expanded 300 basis points sequentially on top of that. Costs are coming down ahead of our strongest revenue quarters of the year, which is exactly the sequence we planned for.”
+“All three of our integration priorities are delivering: Our product portfolio has been consolidated into Matchpoint, and the standalone products we combined or pared are now out of our cost base. Giant Worldwide’s packaging and delivery work is moving onto Matchpoint: the first customer migration is complete, delivering roughly 5,000 files in hours with about 40% less processing time than the manual workflow, and two more longstanding customers are next. Our cost reduction and synergy program has been increased to $14 million annualized, with more than $9 million implemented. Most of what remains is contract wind-downs, where the timing is set by negotiated exit terms, and we expect to exit the fiscal year at the full run rate. As a result, our studio and streaming operations, inclusive of corporate overhead, are now operating at near run-rate profitability. With political advertising in the current quarter, record home entertainment presales on Pan’s Labyrinth, Air Bud Returns in January, and all-time horror icon Jason Voorhees joining our go forward slate, the second half of the fiscal year is where the earnings power of this Company should become fully visible."
+4
+Conference Call
+Cineverse will host a conference call at 8:30 a.m. EST / 5:30 a.m. PST on Friday, November 13, 2026, during which management will discuss the results of its fiscal second quarter ended September 30, 2026. The conference call can be accessed by webcast at the Investors section of the Company’s website at https://events.q4inc.com/attendee/421494946. Those who are unable to attend the live conference call may access the recording at the above webcast link, which will be made available shortly after the conclusion of the call.
+About Cineverse
+Cineverse (Nasdaq: CNVS) is an entertainment technology company and studio. Fiercely innovative and independent, Cineverse develops and invests in technology and content that drives the future of the industry. Core to its business is Matchpoint® – a growing tech ecosystem designed to prepare, distribute, monetize, and continuously improve content across any platform. Matchpoint helps studios large and small operate at scale and improve performance and efficiency in an increasingly fragmented distribution environment. Additionally, Cineverse distributes a vast library of premium films, series, and podcasts, across theatrical, home entertainment, and streaming; operates dozens of digital properties that super serve passionate fandoms around the world; and works with leading brands to connect them with audiences they value. From award-winning technology to the highest-grossing unrated film in U.S. history, Cineverse has created a playbook that marries tech and content to redefine the next era of entertainment. For more information, visit cineverse.com.
+Safe Harbor Statement
+Investors and readers are cautioned that certain statements contained in this document, as well as some statements in periodic press releases and some oral statements of Cineverse officials during presentations about Cineverse, along with Cineverse’s filings with the Securities and Exchange Commission, including Cineverse’s registration statements, quarterly reports on Form 10-Q and annual report on Form 10-K, are “forward-looking” statements within the meaning of the Private Securities Litigation Reform Act of 1995 (the “Act”). Forward-looking statements include statements that are predictive in nature, which depend upon or refer to future events or conditions, which include words such as “expects,” “anticipates,” “intends,” “plans,” “could,” “might,” “believes,” “seeks,” “estimates” or similar expressions. In addition, any statements concerning future financial performance (including future revenues, earnings, or growth rates), ongoing business strategies or prospects, and possible future actions, which may be provided by Cineverse’s management, are also forward-looking statements as defined by the Act. Forward-looking statements are based on current expectations and projections about future events and are subject to various risks, uncertainties, and assumptions about Cineverse, its technology, economic and market factors, and the industries in which Cineverse does business, among other things. These statements are not guarantees of future performance, and Cineverse undertakes no specific obligation or intention to update these statements after the date of this release.
+For additional information, please contact:
+Michael McHugh
+investorrelations@cineverse.com
+5
+CINEVERSE CORP.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(in thousands)
+As of
+September 30, 2026 | March 31, 2026
+ASSETS
+Current Assets
+Cash | $ | 3,552 | $ | 3,387
+Accounts receivable, net | 34,322 | 38,604
+Content advances, net | 9,043 | 7,507
+Other current assets | 1,917 | 1,280
+Total Current Assets | 48,834 | 50,778
+Property and equipment, net | 4,397 | 3,906
+Intangible assets, net | 41,418 | 44,114
+Goodwill | 21,293 | 21,218
+Content advances, net of current portion | 10,862 | 8,215
+Other long-term assets, net | 3,537 | 2,050
+Total Assets | $ | 130,341 | $ | 130,281
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current Liabilities
+Accounts payable and accrued expenses | $ | 36,951 | $ | 39,351
+Line of credit | 11,499 | 9,435
+Deferred consideration | 7,123 | 13,800
+Current portion of earnout consideration | 1,682 | —
+Current portion of operating lease liabilities | 908 | 298
+Deferred revenue | 372 | 125
+Total Current Liabilities | 58,535 | 63,009
+Operating lease liabilities, net of current portion | 1,113 | 105
+Term loan, net | 3,007 | —
+Convertible notes payable, net | 11,311 | 12,545
+Earnout consideration, net of current portion | 5,618 | 11,250
+Total Liabilities | 79,584 | 86,909
+Stockholders’ Equity
+Preferred stock | 2,928 | 3,559
+Common stock | 836 | 199
+Additional paid-in capital | 573,159 | 564,105
+Treasury stock, at cost | (13,158 | ) | (13,158 | )
+Accumulated deficit | (512,702 | ) | (510,099 | )
+Accumulated other comprehensive loss | (306 | ) | (282 | )
+Total stockholders’ equity of Cineverse Corp. | 50,757 | 44,324
+Deficit attributable to noncontrolling interest | — | (952 | )
+Total equity | 50,757 | 43,372
+Total Liabilities and Equity | 130,341 | $ | 130,281
+6
+CINEVERSE CORP.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(In thousands, except for per share data)
+(Unaudited)
+Three Months Ended September 30, | Six Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenues | $ | 25,955 | $ | 12,357 | $ | 56,550 | $ | 23,476
+Operating expenses
+Direct operating | 16,053 | 5,214 | 35,989 | 10,021
+Selling, general and administrative | 10,139 | 11,407 | 21,757 | 20,359
+Depreciation and amortization | 2,755 | 1,146 | 5,570 | 2,208
+Change in fair value of acquisition-related deferred consideration | (3,746 | ) | — | (1,746 | ) | —
+Change in fair value of acquisition-related earnout consideration | (3,300 | ) | — | (3,950 | ) | —
+Total operating expenses | 21,901 | 17,767 | 57,620 | 32,588
+Operating profit (loss) | 4,054 | (5,410 | ) | (1,070 | ) | (9,112 | )
+Interest (expense) income | (699 | ) | (147 | ) | (1,257 | ) | 131
+Other income (expense), net | 6 | 32 | 17 | (46 | )
+Net income (loss) before income taxes | 3,361 | (5,525 | ) | (2,310 | ) | (9,027 | )
+Income tax expense | (112 | ) | (20 | ) | (131 | ) | (34 | )
+Net income (loss) | 3,249 | (5,545 | ) | (2,441 | ) | (9,061 | )
+Net loss attributable to noncontrolling interest | — | (44 | ) | — | (88 | )
+Net income (loss) attributable to controlling interests | 3,249 | (5,589 | ) | (2,441 | ) | (9,149 | )
+Preferred stock dividends | (81 | ) | (89 | ) | (162 | ) | (178 | )
+Net income (loss) attributable to common stockholders | $ | 3,168 | $ | (5,678 | ) | $ | (2,603 | ) | $ | (9,327 | )
+Net income (loss) per share attributable to common stockholders:
+Basic | $ | 0.13 | $ | (0.31 | ) | $ | (0.11 | ) | $ | (0.53 | )
+Diluted | $ | 0.11 | $ | (0.31 | ) | $ | (0.11 | ) | $ | (0.53 | )
+Weighted average shares of common stock outstanding:
+Basic | 24,277 | 18,447 | 23,497 | 17,720
+Diluted | 32,340 | 18,447 | 23,497 | 17,720
+7
+Adjusted EBITDA
+We define Adjusted EBITDA as earnings before interest, taxes, depreciation and amortization, stock-based compensation expense, merger and acquisition costs, restructuring, transition and acquisitions expense, net, goodwill impairment and certain other items.
+Adjusted EBITDA is not a measurement of financial performance under GAAP and may not be comparable to other similarly titled measures of other companies. We use Adjusted EBITDA as a financial metric to measure the financial performance of the business, because management believes it provides additional information with respect to the performance of its fundamental business activities. For this reason, we believe Adjusted EBITDA will also be useful to others, including our stockholders, as a valuable financial metric.
+We present Adjusted EBITDA because we believe that Adjusted EBITDA is a useful supplement to net income (loss) from continuing operations as an indicator of operating performance. We also believe that Adjusted EBITDA is a financial measure that is useful both to management and investors when evaluating our performance and comparing our performance with that of our competitors. We also use Adjusted EBITDA for planning purposes, and to evaluate our financial performance because Adjusted EBITDA excludes certain incremental expenses or non-cash items, such as stock-based compensation charges, that we believe are not indicative of our ongoing operating performance.
+We believe that Adjusted EBITDA is a performance measure and not a liquidity measure, and therefore a reconciliation between net income (loss) from operations and Adjusted EBITDA has been provided in the financial results. Adjusted EBITDA should not be considered as an alternative to net income (loss) from operations as an indicator of performance, or as an alternative to cash flows from operating activities as an indicator of cash flows, in each case as determined in accordance with GAAP, or as a measure of liquidity. In addition, Adjusted EBITDA does not take into account changes in certain assets and liabilities as well as interest and income taxes that can affect cash flows. We do not intend the presentation of these non-GAAP measures to be considered in isolation or as a substitute for results prepared in accordance with GAAP. These non-GAAP measures should be read only in conjunction with our consolidated financial statements prepared in accordance with GAAP.
+Following is the reconciliation of our consolidated net income (loss) to Adjusted EBITDA (in thousands):
+Three Months Ended September 30, | Six Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Net income (loss) | $ | 3,249 | $ | (5,545 | ) | $ | (2,441 | ) | $ | (9,061 | )
+Add Back:
+Income tax expense | 112 | 20 | 131 | 34
+Depreciation and amortization | 2,799 | 1,275 | 5,658 | 2,422
+Interest expense (income) | 699 | 147 | 1,257 | (131 | )
+Change in fair value of acquisition-related deferred consideration | (3,746 | ) | — | (1,746 | ) | —
+Change in fair value of acquisition-related earnout consideration | (3,300 | ) | — | (3,950 | ) | —
+Stock-based compensation | 793 | 494 | 1,741 | 912
+Other (income) expense, net | (6 | ) | (32 | ) | (17 | ) | 46
+Net loss attributable to noncontrolling interest | — | (44 | ) | — | (88 | )
+Acquisition-related costs | 648 | — | 726 | —
+Employee severance costs | 479 | — | 864 | 47
+Adjusted EBITDA | $ | 1,727 | $ | (3,685 | ) | $ | 2,223 | $ | (5,819 | )
+8
