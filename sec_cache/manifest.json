@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-17T11:43:24+08:00",
+  "fetched_at": "2026-11-17T12:09:45+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,131 +16,131 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 180 ms"
+      "detail": "HTTP 200, 60 KB in 157 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 88 ms"
+      "detail": "HTTP 200, 60 KB in 97 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=200",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 1223 ms"
+      "detail": "HTTP 200, 59 KB in 91 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=300",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 122 ms"
+      "detail": "HTTP 200, 60 KB in 95 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=400",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 82 ms"
+      "detail": "HTTP 200, 60 KB in 89 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=500",
       "ok": true,
-      "detail": "HTTP 200, 15 KB in 118 ms"
+      "detail": "HTTP 200, 15 KB in 126 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 92 ms"
+      "detail": "HTTP 200, 148 KB in 135 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 124 ms"
+      "detail": "HTTP 200, 156 KB in 114 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 62 ms"
+      "detail": "HTTP 200, 154 KB in 91 ms"
     },
     {
-      "name": "FLOWERS FOODS INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1128928/000119312526458445/index.json",
+      "name": "Legence Corp. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/2052568/000119312526456940/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 178 ms"
+      "detail": "HTTP 200, 1 KB in 327 ms"
     },
     {
-      "name": "FLOWERS FOODS INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1128928/000119312526458445/flo-ex99_1.htm",
+      "name": "Legence Corp. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/2052568/000119312526456940/d134924dex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 1,051 KB in 186 ms"
+      "detail": "HTTP 200, 279 KB in 211 ms"
     },
     {
-      "name": "Contango Silver & Gold Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1502377/000119312526459443/index.json",
+      "name": "Cineverse Corp. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1173204/000119312526459364/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 162 ms"
+      "detail": "HTTP 200, 1 KB in 372 ms"
     },
     {
-      "name": "Contango Silver & Gold Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1502377/000119312526459443/ctgo-ex99_1.htm",
+      "name": "Cineverse Corp. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1173204/000119312526459364/cnvs-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 147 KB in 187 ms"
+      "detail": "HTTP 200, 450 KB in 138 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 97 ms"
+      "detail": "HTTP 200, 3,174 KB in 167 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 88 ms"
+      "detail": "HTTP 200, 4,447 KB in 161 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 131 ms"
+      "detail": "HTTP 200, 2,745 KB in 168 ms"
     },
     {
-      "name": "FLOWERS FOODS INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001128928.json",
+      "name": "Legence Corp. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002052568.json",
       "ok": true,
-      "detail": "HTTP 200, 4,272 KB in 110 ms"
+      "detail": "HTTP 200, 366 KB in 118 ms"
     },
     {
-      "name": "Contango Silver & Gold Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001502377.json",
+      "name": "Cineverse Corp. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001173204.json",
       "ok": true,
-      "detail": "HTTP 200, 1,547 KB in 138 ms"
+      "detail": "HTTP 200, 2,838 KB in 479 ms"
     },
     {
       "name": "Xilio Therapeutics, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001840233.json",
       "ok": true,
-      "detail": "HTTP 200, 685 KB in 159 ms"
+      "detail": "HTTP 200, 685 KB in 224 ms"
     },
     {
       "name": "Inhibikase Therapeutics, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001750149.json",
       "ok": true,
-      "detail": "HTTP 200, 698 KB in 186 ms"
+      "detail": "HTTP 200, 698 KB in 277 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001128928.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001173204.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001502377.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001750149.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001840233.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0002052568.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -150,9 +150,9 @@
     "efts.sec.gov_search-index_from300.json",
     "efts.sec.gov_search-index_from400.json",
     "efts.sec.gov_search-index_from500.json",
-    "www.sec.gov_Archives_edgar_data_1128928_000119312526458445_flo-ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_1128928_000119312526458445_index.json",
-    "www.sec.gov_Archives_edgar_data_1502377_000119312526459443_ctgo-ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_1502377_000119312526459443_index.json"
+    "www.sec.gov_Archives_edgar_data_1173204_000119312526459364_cnvs-ex99_1.htm",
+    "www.sec.gov_Archives_edgar_data_1173204_000119312526459364_index.json",
+    "www.sec.gov_Archives_edgar_data_2052568_000119312526456940_d134924dex991.htm",
+    "www.sec.gov_Archives_edgar_data_2052568_000119312526456940_index.json"
   ]
 }
