@@ -1,0 +1,177 @@
+Company: Expion Energy, Inc. (CIK 1894954)
+Accession: 0001903596-26-000435
+Results released: 2026-11-17
+Press release: https://www.sec.gov/Archives/edgar/data/1894954/000190359626000435/ex99_1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1894954/000190359626000435/0001903596-26-000435-index.htm
+Saved: 2026-11-19T06:08:17+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex99_1.htm EXPION ENERGY REPORTS THIRD QUARTER 2026 FINANCIAL AND OPERATIONAL RESULTS
+Exhibit 99.1
+Expion Energy Reports Third Quarter 2026 Financial and Operational Results
+Enters Oil and Gas Sector with Eastern Louisiana Exploration Prospect Acquisition;
+Enhances Balance Sheet with $9.0 Million Financing;
+Strengthens Leadership with Appointments of Chief Executive Officer Kevin Sellers, Chief Financial Officer Robert Winspear, and Director Marc Jarvis
+Battery Business Drives Third Quarter Gross Margin to 43.4%; Operating Loss Narrows 54.8% to $1.4 Million
+REDMOND, OR – November 16, 2026 – Expion Energy, Inc., formerly known as Expion360 Inc. (Nasdaq: XPON) (“Expion” or the “Company”), today reported its financial and operational results for the third quarter and nine months ended September 30, 2026.
+Third Quarter 2026 and Subsequent Operational Highlights
+• | Acquired an oil and gas exploration prospect of approximately 3,000 net acres in Eastern Louisiana for total consideration of $3.6 million, establishing the Company’s oil and gas platform alongside its lithium battery business.
+• | Entered into an Exploration Agreement that contemplates the drilling and testing of a new lateral wellbore no later than February 15, 2027, subject to customary exceptions, and began a leasing program to expand the Company’s acreage position within the prospect area.
+• | Closed a $9.0 million private placement of 8% Convertible Debentures and warrants. The investors have the right, but not the obligation, to purchase up to an additional $91.0 million of convertible debentures.
+• | Appointed Kevin Sellers, founder of oil and gas investment banking firm Cynergy Advisors, LLC, as President, Chief Executive Officer and a member of the Board of Directors; Robert “Bob” Winspear, who brings more than 30 years of public company and capital markets experience, as Chief Financial Officer; and Marc W. Jarvis, a petroleum engineer with more than 45 years of industry experience, as a director.
+• | Changed the Company’s corporate name from Expion360 Inc. to Expion Energy, Inc., effective August 20, 2026, to align with its expanded energy platform.
+• | Completed the final requirements to obtain UL Safety Certification on the Company’s new 12V Group 27 140Ah battery, submitted two additional batteries in the GC2H and EX1 form factors for UL certification, and released the Integrated Power System, a preconfigured power board designed for turnkey integration with the Company’s batteries.
+Third Quarter and Nine Month 2026 Financial Highlights
+• | Q3 2026 net sales totaled $2.1 million, down 10.4% from Q3 2025, and up 5.6% from Q2 2026.
+• | Q3 2026 gross profit increased 71.5% to $0.9 million, compared to $0.5 million in Q3 2025.
+• | Q3 2026 gross margin expanded to 43.4% of net sales, compared to 22.7% in Q3 2025, reflecting a more favorable product mix and tariff refunds of approximately $0.3 million.
+• | Q3 2026 selling, general, and administrative expenses decreased 35.5% to $2.3 million, compared to $3.5 million in Q3 2025.
+• | Q3 2026 loss from operations improved 54.8% to $1.4 million, compared to $3.0 million in Q3 2025.
+• | Nine month 2026 net sales of $5.7 million, down 22.8% from the nine months ended September 30, 2025.
+• | Nine month 2026 gross profit increased 19.1% to $2.0 million, with gross margin of 34.6% of net sales, compared to 22.4% in the nine months ended September 30, 2025.
+• | Nine month 2026 cash used for operations of $2.5 million, compared to $3.7 million in the nine months ended September 30, 2025.
+• | Cash and cash equivalents of $5.2 million as of September 30, 2026, compared to $1.5 million as of June 30, 2026.
+Management Commentary
+“The third quarter marked Expion’s entry into upstream oil and gas,” said Kevin Sellers, Chief Executive Officer of Expion Energy. “We acquired an exploration prospect in Eastern Louisiana, funded the acquisition through a $9.0 million private placement, and added oil and gas operating, technical, and capital markets experience to our management team and Board. We firmly believe the project gives Expion a defined natural gas prospect with potential for significant scale and upon success, a long-term development opportunity. Not only is the prospect located within a prolific regional trend with numerous analog field discoveries, but also strategically near hyperscale AI data center and power infrastructure development, with direct access to Gulf Coast LNG infrastructure.
+“Since closing the acquisition, we have been advancing the prospect toward drilling and testing. Our near-term focus is on continuing to expand our acreage footprint beyond the approximately 3,000 net acres we control within the area of mutual interest and to continue acquiring new leases. We have simultaneously performed extensive technical analysis and are working to secure necessary permits as we prepare to drill and test a new lateral from the existing vertical wellbore.
+“Our battery business delivered its highest gross margin of the year in the third quarter as we continued to focus on higher-margin products and benefited from tariff refunds. We also completed the UL certification requirements for the first of our next-generation batteries and submitted two more for certification. Looking ahead, our priorities are to complete our leasing program, execute our planned test well, and continue improving the margin profile of our battery business,” concluded Mr. Sellers.
+Oil and Gas Exploration Platform
+As previously announced, on August 21, 2026, the Company acquired an oil and gas exploration prospect in Eastern Louisiana for total consideration of $3.6 million. The acquired assets include an existing oil and gas leasehold of approximately 3,000 net acres, a wellbore, mineral title research, and intellectual property developed in connection with the prospect. The prospect encompasses an area of mutual interest targeting multiple stacked benches located in a prolific regional trend with numerous analog field discoveries.
+Concurrent with the acquisition, the Company entered into an Exploration Agreement governing the leasing, drilling, and testing of the prospect. The Exploration Agreement contemplates the drilling and testing of a new lateral wellbore from the existing well no later than February 15, 2027, subject to customary exceptions. The Company has committed between $2.5 million and $4.0 million to a leasing program intended to increase its acreage under lease from the initial 3,000 net acres to between 15,000 and 20,000 acres, and it invested $0.9 million in the prospect from the closing of the acquisition through September 30, 2026, primarily related to leasing activities.
+The Company funded the acquisition with proceeds from a private placement of $9.0 million in aggregate principal amount of 8% Convertible Debentures due August 21, 2029 and warrants to purchase up to 2,117,219 shares of common stock at an initial exercise price of $4.25 per share. The private placement closed on August 21, 2026 and resulted in net proceeds of approximately $8.3 million. In October 2026, the Company and the investors amended the terms of the private placement so that the debentures are convertible into shares of common stock at an initial conversion price of $4.25 per share, subject to adjustment. The investors have the right, but not the obligation, to purchase up to an additional $91.0 million in aggregate principal amount of convertible debentures on substantially similar terms.
+Third Quarter 2026 Financial Summary
+Net sales in the third quarter of 2026 totaled $2.1 million, a decrease of 10.4% from $2.4 million in the prior-year period. The decrease in net sales was primarily attributable to the Company’s continuing focus on higher-margin business, as well as inventory shortages of certain product lines.
+Gross profit in the third quarter of 2026 totaled $0.9 million, or 43.4% as a percentage of net sales, compared to gross profit of $0.5 million, or 22.7% as a percentage of net sales, in the prior-year period. The increase in gross profit and gross profit as a percentage of net sales was primarily attributable to a more favorable product mix and tariff refunds of approximately $0.3 million received during the quarter, which were recorded as a reduction of cost of sales.
+Selling, general, and administrative expenses were $2.3 million in the third quarter of 2026, a decrease of 35.5% from $3.5 million in the third quarter of 2025. The decrease was primarily attributable to decreases in salaries and benefits, legal and professional fees, and sales and marketing expenses. Loss from operations improved 54.8% to $1.4 million, compared to $3.0 million in the third quarter of 2025.
+Net loss in the third quarter of 2026 totaled $1.4 million, or $(1.43) per basic and diluted share, compared to net income of $0.7 million, or $1.45 per basic share and $1.15 per diluted share, in the third quarter of 2025. Net income in the third quarter of 2025 included other income of $3.7 million related to the write-off of a suspended liability.
+Nine Month 2026 Financial Summary
+For the nine months ended September 30, 2026, net sales totaled $5.7 million, a decrease of 22.8% from $7.4 million in the prior-year period. The decrease in net sales was primarily attributable to discontinuing the resale of certain low-margin accessories and to elevated battery inventory levels carried into the year by certain OEM customers.
+Gross profit totaled $2.0 million, or 34.6% as a percentage of net sales, an increase of 19.1% compared to $1.7 million, or 22.4% as a percentage of net sales, in the prior-year period. The increase was primarily attributable to a more favorable product mix following the discontinuation of certain lower-margin products and the introduction of higher-margin batteries, as well as the tariff refunds received in the third quarter.
+Selling, general, and administrative expenses decreased 10.5% to $6.4 million compared to $7.2 million in the prior-year period. The decrease was primarily due to decreases in salaries and benefits, legal and professional fees, travel expenses, and sales and marketing expenses.
+Net loss totaled $4.5 million, or $(4.75) per basic and diluted share, compared to a net loss of $1.8 million, or $(5.19) per basic and diluted share, in the prior-year period. Net loss in the prior-year period included other income of $3.7 million related to the write-off of a suspended liability.
+Cash and cash equivalents totaled $5.2 million as of September 30, 2026, compared to $3.0 million as of December 31, 2025. During the nine months ended September 30, 2026, the Company received net proceeds of $8.3 million from the private placement and invested $4.6 million in oil and natural gas properties. Net cash used in operating activities decreased to $2.5 million from $3.7 million in the prior-year period.
+All share and per share amounts presented in this press release reflect the one-for-twelve reverse stock split of the Company’s common stock effected in July 2026.
+About Expion Energy
+Expion Energy is entering the upstream oil and gas sector to capture rising demand driven by power generation needs, industrial growth, and long-term expansion of LNG markets. The Company will target opportunistic growth through selective acquisitions and development projects that provide scale, enhance value, and support sustained shareholder value. The Company recently changed its corporate name from “Expion360 Inc.” to “Expion Energy, Inc.” to better align with its expanded energy platform and broadened operating strategy.
+Expion Energy is an industry leader in premium lithium iron phosphate (LiFePO4) batteries and accessories for recreational vehicles, marine applications, light EV and industrial applications. The Company’s lithium-ion batteries feature half the weight of standard lead-acid batteries while delivering three times the power and ten times the number of charging cycles. Expion Energy batteries also feature better construction and reliability compared to other lithium-ion batteries on the market due to their superior design and quality materials. Specially reinforced, fiberglass-infused, premium ABS casing and solid mechanical connections help provide top performance and safety. Expion Energy delivers advanced lithium battery technology that powers every adventure, every mission, for the moments that matter.
+Expion Energy is headquartered in Redmond, Oregon.
+To learn more about the Company, visit www.expion360.com.
+Forward-Looking Statements
+This press release contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, each as amended. Forward-looking statements include all statements that do not relate solely to historical or current facts, including without limitation statements regarding the Company’s business prospects, and can be identified by the use of words such as “may,” “will,” “expect,” “project,” “estimate,” “anticipate,” “plan,” “believe,” “potential,” “should,” “continue” or the negative versions of those words or other comparable words. Forward-looking statements included in this press release relate to, among other things, the Company’s ability to (i) complete its leasing program and expand the prospect’s acreage footprint within the area of mutual interest, (ii) secure necessary permits and complete the drilling and testing of a new lateral wellbore from the existing vertical wellbore on the required timeline, (iii) realize the natural gas resource potential and long-term development opportunity of the prospect, and (iv) benefit from growing energy demand, including from AI data centers and LNG development. These forward-looking statements are based on information currently available to the Company and its current plans or expectations and are subject to a number of risks and uncertainties that could significantly affect current plans, including those described under “Risk Factors” in the Company’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2026 and its other filings with the Securities and Exchange Commission. Should one or more of these risks or uncertainties materialize, or the underlying assumptions prove incorrect, actual results may differ significantly from those anticipated, believed, estimated, expected, intended, or planned. Although the Company believes that the expectations reflected in the forward-looking statements are reasonable, the Company cannot guarantee future results, performance, or achievements. Except as required by applicable law, including the securities laws of the United States, the Company does not intend to update any of the forward-looking statements to conform these statements to actual results.
+Company Contact:
+541-797-6714
+Robert Winspear
+IR@expionenergy.com
+External Investor Relations:
+Chris Tyson, Executive Vice President
+MZ Group - MZ North America
+949-491-8235
+XPON@mzgroup.us
+www.mzgroup.us
+EXPION ENERGY, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS (UNAUDITED)
+As of September 30, 2026 | As of December 31, 2025
+Assets
+Current Assets
+Cash and cash equivalents | $ | 5,231,290 | $ | 2,969,096
+Accounts receivable, net | 595,849 | 718,964
+Inventory | 1,552,918 | 2,858,780
+Prepaid/in-transit inventory | 593,527 | 318,440
+Prepaid expenses and other current assets | 260,568 | 179,645
+Total current assets | 8,234,152 | 7,044,925
+Oil and natural gas properties | 4,634,278 | —
+Property and equipment | 807,083 | 807,083
+Accumulated depreciation | (552,760 | ) | (478,861 | )
+Properties and equipment, net | 4,888,601 | 328,222
+Other Assets
+Operating leases – right-of-use asset | 425,244 | 666,199
+Deposits | 32,016 | 32,016
+Total other assets | 457,260 | 698,215
+Total assets | $ | 13,580,013 | $ | 8,071,362
+Liabilities and stockholders’ equity
+Current liabilities
+Accounts payable | $ | 1,257,651 | $ | 403,792
+Customer deposits | 58,322 | 2,978
+Accrued expenses and other current liabilities | 231,382 | 221,863
+Current portion of operating lease liability | 322,586 | 337,246
+Current portion of long-term debt | 9,906 | 31,058
+Total current liabilities | 1,879,847 | 996,937
+Operating lease liability, net of current portion | 137,356 | 372,478
+Convertible debentures, net of discount | 5,466,222 | —
+Other long-term debt, net of current portion and discount | 6,815 | 166,187
+Total liabilities | 7,490,240 | 1,535,602
+Stockholders’ equity
+Preferred stock, par value $0.001; 20,000,000 shares authorized; zero shares issued and outstanding as of September 30, 2026 and December 31, 2025, respectively | — | —
+Common stock, par value $0.001; 16,666,666 shares authorized; 1,012,498 and 815,145 shares issued and outstanding as of September 30, 2026 and December 31, 2025, respectively | 1,013 | 815
+Additional paid-in capital | 51,351,423 | 47,345,372
+Accumulated deficit | (45,262,663 | ) | (40,810,427 | )
+Total stockholders’ equity | 6,089,773 | 6,535,760
+Total liabilities and stockholders’ equity | $ | 13,580,013 | $ | 8,071,362
+EXPION ENERGY INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (UNAUDITED)
+For the Three Months Ended September 30, | For the Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Net sales | $ | 2,144,716 | $ | 2,393,192 | $ | 5,740,628 | $ | 7,432,470
+Cost of sales | 1,214,363 | 1,850,709 | 3,755,934 | 5,765,810
+Gross profit | 930,353 | 542,483 | 1,984,694 | 1,666,660
+Selling, general and administrative | 2,286,943 | 3,544,666 | 6,413,463 | 7,166,907
+Loss from operations | (1,356,590 | ) | (3,002,183 | ) | (4,428,769 | ) | (5,500,247 | )
+Other (income) / expense
+Interest income | (18,051 | ) | (23 | ) | (45,718 | ) | (24 | )
+Interest expense | 61,203 | 4,439 | 69,918 | 13,756
+Loss on sale of property and equipment | — | — | — | 13,353
+Other (income) / expense | 9,685 | (3,729,429 | ) | (759 | ) | (3,729,379 | )
+Total other (income) / expense | 52,837 | (3,725,013 | ) | 23,441 | (3,702,294 | )
+Income / (Loss) before income taxes | (1,409,427 | ) | 722,830 | (4,452,210 | ) | (1,797,953 | )
+Franchise taxes | — | 38 | 26 | 113
+Net income / (loss) | $ | (1,409,427 | ) | $ | 722,792 | $ | (4,452,236 | ) | $ | (1,798,066 | )
+Net income / (loss) per share:
+Basic | $ | (1.43 | ) | $ | 1.45 | $ | (4.75 | ) | $ | (5.19 | )
+Diluted | $ | (1.43 | ) | $ | 1.15 | $ | (4.75 | ) | $ | (5.19 | )
+Weighted-average number of common shares outstanding:
+Basic | 985,340 | 499,650 | 937,143 | 346,453
+Diluted | 985,340 | 630,610 | 937,143 | 346,453
+EXPION ENERGY, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)
+For the Nine Months Ended September 30,
+2026 | 2025
+Cash flows from operating activities
+Net loss | $ | (4,452,236 | ) | $ | (1,798,066 | )
+Adjustments to reconcile net loss to net cash used in operating activities:
+Depreciation | 73,899 | 91,642
+Amortization of convertible debenture discount | 30,848 | —
+Loss on sale of property and equipment | — | 13,353
+Stock-based compensation | 286,748 | 451,837
+Issuance of common stock in exchange for services | — | 348,250
+Non-cash expense in exchange for asset disposal | — | 21,420
+Decrease in suspended liability | — | (4,485,948 | )
+Changes in operating assets and liabilities:
+Accounts receivable | 123,115 | 45,031
+Inventory | 1,305,862 | 1,199,802
+Prepaid/in-transit inventory | (275,087 | ) | 1,030,849
+Prepaid expenses and other current assets | (80,923 | ) | (248,991 | )
+Deposits | — | (4,545 | )
+Accounts payable | 853,859 | 184,703
+Customer deposits | 55,344 | (41,958 | )
+Accrued expenses and other current liabilities | (368,231 | ) | (33,038 | )
+Right-of-use assets and lease liabilities | (8,827 | ) | 516
+Suspended liability | — | (500,000 | )
+Net cash used in operating activities | (2,455,628 | ) | (3,725,143 | )
+Cash flows from investing activities
+Acquisition of oil and natural gas properties | (4,634,278 | ) | —
+Net proceeds from sale of property and equipment | — | 4,250
+Net cash provided by / (used in) investing activities | (4,634,278 | ) | 4,250
+Cash flows from financing activities
+Principal payments on long-term debt | (180,524 | ) | (24,595 | )
+Net proceeds from exercise of warrants | — | 5,712,163
+Net proceeds from issuance of convertible debentures and warrants | 8,313,574 | —
+Net proceeds from issuance of common stock | 1,219,050 | 1,779,557
+Net cash provided by financing activities | 9,352,100 | 7,467,125
+Net change in cash and cash equivalents | 2,262,194 | 3,746,232
+Cash and cash equivalents, beginning | 2,969,096 | 547,565
+Cash and cash equivalents, ending | $ | 5,231,290 | $ | 4,293,797
+Supplemental disclosure of cash flow information:
+Cash paid for interest | $ | 12,482 | $ | 14,373
+Cash paid for franchise taxes | $ | 176 | $ | 150
+Non-cash financing activities:
+Acquisition/modification of operating lease right-of-use asset and lease liability | $ | — | $ | 198,216

@@ -1,0 +1,96 @@
+Company: Pulmatrix, Inc. (CIK 1574235)
+Accession: 0001493152-26-052739
+Results released: 2026-11-17
+Press release: https://www.sec.gov/Archives/edgar/data/1574235/000149315226052739/ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1574235/000149315226052739/0001493152-26-052739-index.htm
+Saved: 2026-11-19T06:08:17+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex99-1.htm EX-99.1
+Exhibit 99.1
+Pulmatrix Announces Third Quarter 2026 Financial Results and Progress on Merger
+Merger with Eos SENOLYTIX expected to close by end of the year
+Framingham, Mass., November 17, 2026 – Pulmatrix, Inc. (“Pulmatrix”, the “Company” or “our”) (Nasdaq: PULM), a biopharmaceutical company that has focused on the development of novel inhaled therapeutic products intended to prevent and treat migraine and respiratory diseases with important unmet medical needs using its patented iSPERSE™ technology, today announced its third quarter financial results for 2026 and provided a corporate update related to the merger agreement with Eos SENOLYTIX announced at the end of the first quarter of 2026.
+Peter Ludlum, Interim Chief Executive Officer of Pulmatrix, commented, “Our focus in the third quarter and beyond has been to advance steps towards completing the proposed merger with Eos SENOLYTIX, a privately held biotechnology company developing novel gerotherapeutic peptides targeting mitochondrial dysfunction in aging-related diseases using the MitoXcel™ platform. To that end, we have obtained SEC effectiveness on our registration statement on Form S-4 in relation to the merger as well as approval from our stockholders on the proposed merger. We anticipate closing the proposed merger by the end of the year.”
+Proposed Merger with Eos SENOLYTIX
+As previously reported, on March 26, 2026, the Company entered into an Agreement and Plan of Merger and Reorganization (the “Merger Agreement”) with Eos SENOLYTIX, Inc. (“Eos”), pursuant to which a wholly owned subsidiary of the Company will merge with and into Eos, with Eos surviving as a wholly owned subsidiary of the Company (the “Merger”). The proposed Merger is currently anticipated to close in November 2026, subject to Nasdaq’s approval of the listing of the shares of the Company’s common stock to be issued in connection with the Merger, the completion of the reverse stock split approved by the Company’s stockholders on October 26, 2026, and other customary closing conditions. If the proposed Merger is completed, the business of Eos will continue as the business of the combined company.
+In connection with the entry into the Merger Agreement, on March 26, 2026, the Company announced that it entered into a securities purchase agreement with an affiliate of Eos for the issuance and sale in a private placement of its newly designated Series B Convertible Preferred Stock, raising aggregate gross proceeds of $1.0 million.
+Additional information about the Merger Agreement was previously disclosed in a registration statement on Form S-4 (File No. 333-297342) initially filed with the Securities and Exchange Commission (the “SEC”) on July 9, 2026, as amended, and declared effective on September 25, 2026.
+Pulmatrix Seeks to Out-license or Monetize its Clinical Assets
+iSPERSE™ Technology
+● | iSPERSE™, also licensed to MannKind Corporation and Cipla Technologies for certain fields of use, utilizes particles that are engineered with a small, dense and dispersible profile to exceed the performance of traditional dry powder particles as the iSPERSE™ particles have the dispersibility advantages of porous engineered particles. Pulmatrix believes this results in superior drug delivery compared to traditional oral and injectable forms of treatment for certain diseases.
+● | As of September 30, 2026, Pulmatrix’s patent portfolio related to iSPERSE™ included approximately 143 granted patents, 17 of which are U.S.-granted patents, plus approximately 47 pending patent applications in the U.S. and other jurisdictions.
+● | In July 2026, Pulmatrix was awarded a patent in India with claims encompassing PUR1900 resulting from a patent hearing in India.
+PUR1900
+● | PUR1900, has been approved to proceed to a Phase 3 in India conducted by our partner Cipla. This is the Company’s inhaled iSPERSE™ formulation of the antifungal drug itraconazole being investigated for various indications. The Company and its partner, Cipla, wound down a Phase 2b trial that the Company was operating in 2024. Cipla has continued clinical development outside the United States, and completed their Phase 2 study in India, published positive results and has been approved by India’s Central Drug Standard Control Organization to proceed with a Phase 3 clinical trial, which Cipla currently expects to commence in 2026.
+● | Pulmatrix will receive 2% royalties on any potential future net sales by Cipla outside the United States should Cipla successfully market PUR1900 outside the United States. Within the United States, the Company and Cipla will seek to monetize PUR1900 for indications where an orally inhaled antifungal may provide a therapeutic benefit or fulfill an unmet medical need.
+PUR3100
+● | PUR3100, a Phase 2-ready asset, is an orally inhaled dihydroergotamine (“DHE”) engineered with Pulmatrix’s iSPERSE™ dry powder inhalation technology for the treatment of acute migraine has a Food and Drug Administration acceptance of an Investigational New Drug (“IND”) application for PUR3100 and receipt of a “study may proceed” letter to proceed with a Phase 2 study. The IND includes a Phase 2 clinical protocol where safety and preliminary efficacy of PUR3100 will be investigated in patients with acute migraine.
+● | The Phase 2 IND builds on the Phase 1 trial results of PUR3100, which were published in 2024 in the peer-reviewed publication, Headache: The Journal of Head and Face Pain. The study showed that PUR3100 achieved peak exposures in the targeted therapeutic range and time to maximum concentration occurred at five minutes after dosing at all dosing levels. The PUR3100 dose groups also showed a lower incidence of nausea and no vomiting compared to observations of nausea and vomiting in the intravenously (“IV”) administered DHE dose group.
+PUR1800
+● | PUR1800 is a Narrow Spectrum Kinase Inhibitor (“NSKI”), engineered with our iSPERSE™ technology, for the treatment of acute exacerbations in chronic obstructive pulmonary disease (“AECOPD”). In 2023, Pulmatrix presented complete results from a Phase 1b study of PUR1800 for AECOPD, indicating PUR1800 was well-tolerated with no observed safety signals. The topline data, along with the results from chronic toxicology studies, support the continued development of PUR1800 for the treatment of AECOPD and other inflammatory respiratory diseases.
+● | In 2024, Pulmatrix published an abstract titled “Ex vivo evaluation of the potential for Narrow Spectrum Kinase inhibitors as a treatment for Idiopathic Pulmonary Fibrosis”.
+Third Quarter 2026 Financial Results
+Research and development expenses were less than $0.1 million for both the three months ended September 30, 2026, and 2025. All clinical development is currently on hold while the Company works to license or monetize its clinical assets.
+General and administrative expenses increased approximately $0.4 million to $1.2 million for the three months ended September 30, 2026, compared to $0.9 million for the three months ended September 30, 2025. The increase was primarily due to merger-related activities, including legal and professional services.
+The Company’s total cash and cash equivalents balance as of September 30, 2026, was $1.4 million, in addition to $0.7 million in restricted cash that would become unrestricted following consummation of the Merger or in accordance with the terms of the Merger Agreement, as compared to $4.1 million as of December 31, 2025. The Company’s unaudited financial statements were prepared assuming that the Company will continue as a going concern within one year after the date such financial statements are issued. The Company anticipates that its cash position, based on current operational efficiencies and prioritization of spending, is sufficient to fund its operations at least through the anticipated closing of the proposed Merger with Eos.
+PULMATRIX, INC.
+Consolidated Balance Sheets
+(in thousands, except share and per share data)
+September 30, 2026 | December 31, 2025
+(unaudited)
+Assets
+Current assets:
+Cash and cash equivalents | $ | 1,398 | $ | 4,088
+Restricted cash | 700
+Prepaid expenses and other current assets | 258 | 41
+Total current assets | 2,356 | 4,129
+Long-term restricted cash | 7 | 10
+Total assets | $ | 2,363 | $ | 4,139
+Liabilities and stockholders’ equity
+Current liabilities:
+Accounts payable | $ | 815 | $ | 272
+Accrued expenses and other current liabilities | 202 | 57
+Total current liabilities | 1,017 | 329
+Total liabilities | 1,017 | 329
+Stockholders’ equity:
+Preferred stock, $0.0001 par value — 500,000 shares authorized; 6,746 shares designated Series A Convertible Preferred Stock: no shares issued and outstanding at September 30, 2026 and December 31, 2025; 1,100 shares designated Series B Convertible Preferred Stock: 1,000 shares issued and outstanding at September 30, 2026, and no shares issued and outstanding at December 31, 2025 | 987 | -
+Common stock, $0.0001 par value — 200,000,000 shares authorized; 3,652,285 shares issued and outstanding at September 30, 2026, and December 31, 2025 | - | -
+Additional paid-in capital | 306,098 | 306,128
+Accumulated deficit | (305,739 | ) | (302,318 | )
+Total stockholders’ equity | 1,346 | 3,810
+Total liabilities and stockholders’ equity | $ | 2,363 | $ | 4,139
+PULMATRIX, INC.
+Consolidated Statements of Operations
+(in thousands, except share and per share data)
+(unaudited)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Operating expenses:
+Research and development | $ | 1 | $ | 8 | $ | 6 | $ | 41
+General and administrative | 1,220 | 858 | 3,553 | 4,220
+Total operating expenses | 1,221 | 866 | 3,559 | 4,261
+Loss from operations | (1,221 | ) | (866 | ) | (3,559 | ) | (4,261 | )
+Other income (expense):
+Interest income | 8 | 30 | 30 | 124
+Fair value adjustment of warrants | - | - | - | 67
+Other income (expense), net | - | (41 | ) | 108 | (164 | )
+Total other income (expense), net | 8 | (11 | ) | 138 | 27
+Net loss | $ | (1,213 | ) | $ | (877 | ) | $ | (3,421 | ) | $ | (4,234 | )
+Dividends accrued on Series B Convertible Preferred Stock | (21 | ) | - | (37 | ) | -
+Net loss attributable to common stockholders | (1,234 | ) | (877 | ) | (3,458 | ) | (4,234 | )
+Net loss per share attributable to common stockholders – basic and diluted | $ | (0.34 | ) | $ | (0.24 | ) | $ | (0.95 | ) | $ | (1.16 | )
+Weighted average common shares outstanding – basic and diluted | 3,652,285 | 3,652,285 | 3,652,285 | 3,652,285
+About Pulmatrix, Inc.
+Pulmatrix is a biopharmaceutical company that has focused on the development of novel inhaled therapeutic products intended to prevent and treat migraine and respiratory diseases with important unmet medical needs using its patented iSPERSE™ technology. The Company’s proprietary product pipeline includes treatments for central nervous system (“CNS”) disorders such as acute migraine and serious lung diseases such as Chronic Obstructive Pulmonary Disease (“COPD”) and allergic bronchopulmonary aspergillosis (“ABPA”). Pulmatrix’s product candidates are based on its proprietary engineered dry powder delivery platform, iSPERSE™, which seeks to improve therapeutic delivery to the lungs by optimizing pharmacokinetics and reducing systemic side effects to improve patient outcomes. For more on the Company’s inhaled product candidates please visit:
+https://www.pulmatrix.com/pipeline.html.
+About Eos SENOLYTIX, Inc.
+Eos SENOLYTIX, based in Houston, Texas, develops MitoXcel geropeptides as FDA-regulated therapeutics for obesity, sarcopenia and other age-related disorders. The Company holds an exclusive license to the MitoXcel platform from its parent company, SENOTHERAPEUTIX, Inc. (f/k/a GEROTHERAPEUTIX), for its therapeutic field. For more information, visit eossenolytix.com.
+Forward-Looking Statements
+Certain statements in this press release that are forward-looking and not statements of historical fact are forward-looking statements within the meaning of the federal securities laws. Such forward-looking statements include, but are not limited to, statements other than statements of historical fact and may be identified by words such as “anticipates,” “assumes,” “believes,” “can,” “could,” “estimates,” “expects,” “forecasts,” “guides,” “intends,” “is confident that,” “may,” “plans,” “seeks,” “projects,” “targets,” and “would,” and their opposites and similar expressions are intended to identify forward-looking statements. Such forward-looking statements are based on the beliefs of management as well as assumptions made by and information currently available to management and include, but are not limited to, the Merger, including the expected timing of closing and the ability to satisfy the remaining closing conditions, including Nasdaq listing approval; the expected Merger-associated financings and the combined company’s ability to advance its pipeline through key clinical milestones; the Company’s ability to satisfy Nasdaq’s Continued Listing Standards; the Company’s anticipated cash position following the Merger; and the use of proceeds from the private placement and conversion of the Series B Preferred Stock. Actual results could differ materially from those contemplated by the forward-looking statements as a result of certain factors, including, but not limited to, the consummation of any other potential reverse merger transaction in the future, among others; the Company’s ability to divest its clinical assets on terms favorable to the Company, or at all, the Company’s ability to maintain compliance with the listing standards of the Nasdaq Capital Market; the Company’s ability to continue as a going concern, the Company’s ability to conduct its business and raise capital in the future when needed; delays in planned clinical trials; the ability to establish that potential products are efficacious or safe in preclinical or clinical trials; the ability to establish or maintain collaborations on the development of therapeutic candidates; the ability to obtain appropriate or necessary governmental approvals to market potential products; the ability to obtain future funding for developmental products and working capital and to obtain such funding on commercially reasonable terms; the Company’s ability to manufacture product candidates on a commercial scale or in collaborations with third parties; changes in the size and nature of competitors; the ability to retain key executives and scientists; the ability to secure and enforce legal rights related to the Company’s products, including patent protection. A discussion of these and other factors, including risks and uncertainties with respect to the Company, including the proposed Merger with Eos, is set forth in the Company’s filings with the Securities and Exchange Commission, including its most recent Annual Report on Form 10-K, as may be supplemented or amended by the Company’s Quarterly Reports on Form 10-Q and Current Reports on Form 8-K. The Company disclaims any intention or obligation to revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law.
+Investor Contact:
+Chuck Padala
+Managing Director
+LifeSci Advisors
+646-627-8390
+chuck@lifesciadvisors.com
