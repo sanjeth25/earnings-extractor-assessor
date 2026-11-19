@@ -1,116 +1,123 @@
 {
-  "fetched_at": "2026-11-18T11:06:49+08:00",
+  "fetched_at": "2026-11-19T10:29:32+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-16",
-    "end": "2026-11-17",
+    "start": "2026-11-17",
+    "end": "2026-11-18",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 14,
-  "answered": 14,
+  "requests": 15,
+  "answered": 15,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-16&enddt=2026-11-17",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-17&enddt=2026-11-18",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 950 ms"
-    },
-    {
-      "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-16&enddt=2026-11-17&from=100",
-      "ok": true,
-      "detail": "HTTP 200, 44 KB in 722 ms"
+      "detail": "HTTP 200, 43 KB in 86 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 40 ms"
+      "detail": "HTTP 200, 148 KB in 58 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 157 KB in 27 ms"
+      "detail": "HTTP 200, 156 KB in 15 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 25 ms"
+      "detail": "HTTP 200, 153 KB in 22 ms"
     },
     {
-      "name": "Pulmatrix, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226052739/index.json",
+      "name": "StoneX Group Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/913760/000091376026000044/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 129 ms"
+      "detail": "HTTP 200, 1 KB in 131 ms"
     },
     {
-      "name": "Pulmatrix, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226052739/ex99-1.htm",
+      "name": "StoneX Group Inc. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/913760/000091376026000044/0000913760-26-000044-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 71 KB in 57 ms"
+      "detail": "HTTP 200, 10 KB in 78 ms"
     },
     {
-      "name": "Expion Energy, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1894954/000190359626000435/index.json",
+      "name": "StoneX Group Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/913760/000091376026000044/snex2026er_exhq4roll.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 40 ms"
+      "detail": "HTTP 200, 982 KB in 106 ms"
     },
     {
-      "name": "Expion Energy, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1894954/000190359626000435/ex99_1.htm",
+      "name": "ReposiTrak, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926037543/index.json",
       "ok": true,
-      "detail": "HTTP 200, 105 KB in 59 ms"
+      "detail": "HTTP 200, 1 KB in 94 ms"
+    },
+    {
+      "name": "ReposiTrak, Inc. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926037543/0001437749-26-037543-index.htm",
+      "ok": true,
+      "detail": "HTTP 200, 10 KB in 151 ms"
+    },
+    {
+      "name": "ReposiTrak, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926037543/ex_1048114.htm",
+      "ok": true,
+      "detail": "HTTP 200, 214 KB in 81 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 58 ms"
+      "detail": "HTTP 200, 3,174 KB in 22 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 27 ms"
+      "detail": "HTTP 200, 4,447 KB in 37 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 26 ms"
+      "detail": "HTTP 200, 2,745 KB in 19 ms"
     },
     {
-      "name": "Pulmatrix, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001574235.json",
+      "name": "StoneX Group Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000913760.json",
       "ok": true,
-      "detail": "HTTP 200, 1,524 KB in 267 ms"
+      "detail": "HTTP 200, 4,627 KB in 670 ms"
     },
     {
-      "name": "Expion Energy, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001894954.json",
+      "name": "ReposiTrak, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000050471.json",
       "ok": true,
-      "detail": "HTTP 200, 737 KB in 79 ms"
+      "detail": "HTTP 200, 2,162 KB in 327 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000050471.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000913760.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001574235.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001894954.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
-    "efts.sec.gov_search-index_from100.json",
-    "www.sec.gov_Archives_edgar_data_1574235_000149315226052739_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1574235_000149315226052739_index.json",
-    "www.sec.gov_Archives_edgar_data_1894954_000190359626000435_ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_1894954_000190359626000435_index.json"
+    "www.sec.gov_Archives_edgar_data_50471_000143774926037543_0001437749-26-037543-index.htm",
+    "www.sec.gov_Archives_edgar_data_50471_000143774926037543_ex_1048114.htm",
+    "www.sec.gov_Archives_edgar_data_50471_000143774926037543_index.json",
+    "www.sec.gov_Archives_edgar_data_913760_000091376026000044_0000913760-26-000044-index.htm",
+    "www.sec.gov_Archives_edgar_data_913760_000091376026000044_index.json",
+    "www.sec.gov_Archives_edgar_data_913760_000091376026000044_snex2026er_exhq4roll.htm"
   ]
 }
