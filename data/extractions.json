@@ -1039,5 +1039,124 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1894954/000190359626000435/ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1894954/000190359626000435/0001903596-26-000435-index.htm",
     "saved_at": "2026-11-19T06:08:17+08:00"
+  },
+  {
+    "cik": "913760",
+    "company": "StoneX Group Inc.",
+    "accession": "0000913760-26-000044",
+    "release_date": "2026-11-18",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 37459.5,
+        "unit": "USD millions",
+        "quote": "Total revenues | 37,459.5 | 32,723.4"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 84.2,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 84.2 | $ | 85.7"
+      },
+      "diluted_eps": {
+        "value": 0.66,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.66 | $ | 0.70"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says fiscal 2026 brought record annual results, with $2.9 billion of net operating revenues and $525.4 million of net income.",
+        "quote": "We are proud to close out fiscal 2026 with record annual results, highlighted by $2.9 billion in net operating revenues and $525.4 million in net income"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says net operating revenues and earnings kept growing at double-digit rates year on year.",
+        "quote": "These results reflect the momentum we have built across StoneX, with continued double-digit year-over-year growth in both net operating revenues and earnings, with record annual performance in our Commercial, Institutional and Payments segments."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the largest acquisition to date was integrated on schedule while meeting capital and cost synergy targets.",
+        "quote": "we successfully integrated our largest acquisition to date, on schedule whilst achieving our capital and cost synergy targets"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of record annual results, momentum, confidence in the opportunities ahead and a successful integration, and names no headwind."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/913760-0000913760-26-000044.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/913760/000091376026000044/snex2026er_exhq4roll.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/913760/000091376026000044/0000913760-26-000044-index.htm",
+    "saved_at": "2026-11-20T06:07:56+08:00"
+  },
+  {
+    "cik": "50471",
+    "company": "ReposiTrak, Inc.",
+    "accession": "0001437749-26-037543",
+    "release_date": "2026-11-18",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 5.784286,
+        "unit": "USD millions",
+        "quote": "Revenue | 5,784,286 | 5,971,467"
+      },
+      "operating_income": {
+        "value": 1.661006,
+        "unit": "USD millions",
+        "quote": "Income from operations | 1,661,006 | 1,893,873"
+      },
+      "net_income": {
+        "value": 1.530845,
+        "unit": "USD millions",
+        "quote": "Net income | 1,530,845 | 1,819,529"
+      },
+      "diluted_eps": {
+        "value": 0.08,
+        "unit": "USD per share",
+        "quote": "Diluted income per share | 0.08 | 0.09"
+      }
+    },
+    "guidance": {
+      "text": "The company expects revenue to improve from quarter to quarter through fiscal 2027 and to deliver another year of growth.",
+      "quote": "we anticipate sequential revenue improvement as we progress through fiscal 2027 and expect to deliver another year of growth"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says Touchless Retail is gaining momentum with SPAR Group and is already generating revenue that will help the second fiscal quarter.",
+        "quote": "Our Touchless Retail solution is rapidly gaining momentum as we collaborate with SPAR Group’s field organization and is already generating revenue that will benefit the second fiscal quarter."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says the business continues to deliver strong operating profitability, helped by a scalable platform and cost discipline.",
+        "quote": "Our business continues to deliver strong operating profitability, supported by a scalable technology platform and disciplined cost management."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO expects revenue to improve sequentially through fiscal 2027 and another year of growth.",
+        "quote": "we anticipate sequential revenue improvement as we progress through fiscal 2027 and expect to deliver another year of growth"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO stresses two growth catalysts, strong profitability, strong liquidity and expected growth in fiscal 2027."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/50471-0001437749-26-037543.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926037543/ex_1048114.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926037543/0001437749-26-037543-index.htm",
+    "saved_at": "2026-11-20T06:07:56+08:00"
   }
 ]
