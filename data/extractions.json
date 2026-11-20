@@ -1158,5 +1158,81 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926037543/ex_1048114.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926037543/0001437749-26-037543-index.htm",
     "saved_at": "2026-11-20T06:07:56+08:00"
+  },
+  {
+    "cik": "1560672",
+    "company": "Ellington Credit Co",
+    "accession": "0001628280-26-075131",
+    "release_date": "2026-11-19",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 3.672,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | 3,615 | $ | 833 | $ | 4,445 | $ | (246) | $ | (4,975) | $ | 3,672"
+      },
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says the company made an economic return of 2.4% for the quarter, or 9.9% annualised.",
+        "quote": "Ellington Credit generated an economic return of 2.4% for the third calendar quarter, or 9.9% annualized"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says the company had positive GAAP earnings in a quarter when most of its peers reported losses.",
+        "quote": "We are proud to have continued our relative outperformance, generating positive GAAP earnings in a challenging quarter when the vast majority of our peers reported losses."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says losses on interest rate hedges tied to the fixed-rate unsecured notes partly offset the positive contributions.",
+        "quote": "These positive contributions were partially offset by losses on interest rate hedges associated with our fixed-rate unsecured notes."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The board has reset the monthly distribution to $0.05 per share, which management says current net investment income supports.",
+        "quote": "Our Board of Trustees has reset our monthly distribution rate to $0.05 per share, or $0.15 per quarter, a level supported by our current NII."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO stresses positive earnings and outperformance, but names hedge losses and announces a lower monthly distribution."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1560672-0001628280-26-075131.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1560672/000162828026075131/earnearningsrelease-septem.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1560672/000162828026075131/0001628280-26-075131-index.htm",
+    "saved_at": "2026-11-21T06:08:18+08:00"
+  },
+  {
+    "cik": "1724009",
+    "company": "PermRock Royalty Trust",
+    "accession": "0001193125-26-467918",
+    "release_date": "2026-11-19",
+    "period_end": "2026-09-30",
+    "period_label": "monthly distribution, September 2026 production",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [],
+    "tone": null,
+    "picked_from_radar": true,
+    "source_file": "sources/1724009-0001193125-26-467918.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526467918/prt-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526467918/0001193125-26-467918-index.htm",
+    "saved_at": "2026-11-21T06:08:18+08:00"
   }
 ]
