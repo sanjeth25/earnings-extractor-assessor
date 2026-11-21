@@ -1234,5 +1234,109 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526467918/prt-ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526467918/0001193125-26-467918-index.htm",
     "saved_at": "2026-11-21T06:08:18+08:00"
+  },
+  {
+    "cik": "1857086",
+    "company": "TruGolf Holdings, Inc.",
+    "accession": "0001493152-26-053548",
+    "release_date": "2026-11-20",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 5.314702,
+        "unit": "USD millions",
+        "quote": "Revenue, net | $ | 5,314,702"
+      },
+      "operating_income": {
+        "value": -2.036363,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (2,036,363"
+      },
+      "net_income": {
+        "value": -2.082997,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (2,082,997"
+      },
+      "diluted_eps": {
+        "value": -1.62,
+        "unit": "USD per share",
+        "quote": "Net loss per common share - basic and diluted | $ | (1.62"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The interim CEO says the third quarter was a strong revenue period, with sales up by over 29% on a new marketing team and budget.",
+        "quote": "The third quarter was also a strong revenue period for the company, as sales grew by over 29%, reflecting positive results from an entirely new marketing team and budget"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Management plans to build on the E6 marketing and sales partnerships and to improve cost management of the golf business over the next several quarters.",
+        "quote": "With sales growing, we will lean into the proven new E6 marketing and sales partnerships and continue turn to improve cost management of our golf operations over the next several quarters."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management expects Polymath, acquired on 8 October 2026, to be a new growth business included in fourth-quarter reporting.",
+        "quote": "We remain very excited about the prospects for this new growth driving business and the potential for tokenization of real world assets. Polymath will be integrated into our fourth quarter financial reporting"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The interim CEO calls the quarter a strong revenue period and says he is very excited about Polymath; he also commits to better cost management."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1857086-0001493152-26-053548.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1857086/000149315226053548/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1857086/000149315226053548/0001493152-26-053548-index.htm",
+    "saved_at": "2026-11-22T06:08:29+08:00"
+  },
+  {
+    "cik": "1434524",
+    "company": "ClearSign Technologies Corp",
+    "accession": "0001104659-26-130612",
+    "release_date": "2026-11-20",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the company made considerable progress across all its major product lines in the quarter.",
+        "quote": "We have made considerable progress across all our major product lines this quarter"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO reports orders for five M1 Series midstream burners in the third quarter and two more so far in the fourth quarter.",
+        "quote": "Our M1 Series midstream burners are continuing to show market traction, with orders for five burners in the third quarter."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO expects tuning of the 26-burner Gulf Coast project to be completed within the next week.",
+        "quote": "We expect to complete the tuning of the burner and heater operation within the next week."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of considerable progress, market traction and momentum that he believes positions the company for sustained growth."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1434524-0001104659-26-130612.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1434524/000110465926130612/tm2630382d1_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1434524/000110465926130612/0001104659-26-130612-index.htm",
+    "saved_at": "2026-11-22T06:08:29+08:00"
   }
 ]
