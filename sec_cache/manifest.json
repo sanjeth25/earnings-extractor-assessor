@@ -1,106 +1,70 @@
 {
-  "fetched_at": "2026-11-21T10:48:02+08:00",
+  "fetched_at": "2026-11-22T09:09:55+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-19",
-    "end": "2026-11-20",
+    "start": "2026-11-20",
+    "end": "2026-11-21",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 16,
-  "answered": 15,
+  "requests": 10,
+  "answered": 9,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-19&enddt=2026-11-20",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-20&enddt=2026-11-21",
       "ok": true,
-      "detail": "HTTP 200, 31 KB in 346 ms"
+      "detail": "HTTP 200, 7 KB in 121 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 298 ms"
+      "detail": "HTTP 200, 148 KB in 67 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 133 ms"
+      "detail": "HTTP 200, 156 KB in 54 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 65 ms"
-    },
-    {
-      "name": "TruGolf Holdings, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1857086/000149315226053548/index.json",
-      "ok": true,
-      "detail": "HTTP 200, 1 KB in 78 ms"
-    },
-    {
-      "name": "TruGolf Holdings, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1857086/000149315226053548/ex99-1.htm",
-      "ok": true,
-      "detail": "HTTP 200, 201 KB in 208 ms"
-    },
-    {
-      "name": "ClearSign Technologies Corp filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1434524/000110465926130612/index.json",
-      "ok": true,
-      "detail": "HTTP 200, 1 KB in 122 ms"
-    },
-    {
-      "name": "ClearSign Technologies Corp press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1434524/000110465926130612/tm2630382d1_ex99-1.htm",
-      "ok": true,
-      "detail": "HTTP 200, 18 KB in 42 ms"
+      "detail": "HTTP 200, 153 KB in 53 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 227 ms"
+      "detail": "HTTP 200, 3,174 KB in 84 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 121 ms"
+      "detail": "HTTP 200, 4,447 KB in 89 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 91 ms"
-    },
-    {
-      "name": "TruGolf Holdings, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001857086.json",
-      "ok": true,
-      "detail": "HTTP 200, 739 KB in 230 ms"
-    },
-    {
-      "name": "ClearSign Technologies Corp company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001434524.json",
-      "ok": true,
-      "detail": "HTTP 200, 1,883 KB in 235 ms"
+      "detail": "HTTP 200, 2,745 KB in 95 ms"
     },
     {
       "name": "StoneX Group Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000913760.json",
       "ok": true,
-      "detail": "HTTP 200, 4,627 KB in 209 ms"
+      "detail": "HTTP 200, 4,627 KB in 86 ms"
     },
     {
       "name": "Ellington Credit Co company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001560672.json",
       "ok": true,
-      "detail": "HTTP 200, 1,539 KB in 481 ms"
+      "detail": "HTTP 200, 1,539 KB in 302 ms"
     },
     {
       "name": "PermRock Royalty Trust company facts",
@@ -113,17 +77,11 @@
     "data.sec.gov_api_xbrl_companyfacts_CIK0000913760.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001434524.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001560672.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001857086.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
-    "efts.sec.gov_search-index_from0.json",
-    "www.sec.gov_Archives_edgar_data_1434524_000110465926130612_index.json",
-    "www.sec.gov_Archives_edgar_data_1434524_000110465926130612_tm2630382d1_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1857086_000149315226053548_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1857086_000149315226053548_index.json"
+    "efts.sec.gov_search-index_from0.json"
   ]
 }
