@@ -10809,5 +10809,599 @@
     "filing_found": true,
     "recheck": false,
     "assessed_at": "2026-11-22T06:37:48+08:00"
+  },
+  {
+    "accession": "0000913760-26-000044",
+    "cik": "913760",
+    "company": "StoneX Group Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The SEC's filed figures could not be read today (data.sec.gov, proxy 403). The quote is in the release and holds 37,459.5. The quarter ends StoneX's fiscal year, so the check waits for the 10-K."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty. The release gives no operating income line; its table goes from net operating revenues (655.2) to income before tax (119.6)."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The SEC's filed figures could not be read today (data.sec.gov, proxy 403). The quote is in the release and holds 84.2 (85.7 a year ago)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The SEC's filed figures could not be read today (data.sec.gov, proxy 403). The quote is in the release and holds 0.66 (0.70 a year ago)."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All three quotes are in the release and hold their numbers (37,459.5; 84.2; 0.66). The 10-K check is still to come: the SEC's figures could not be read today and the 10-K is not filed yet."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "Revenue, net income and diluted EPS are there. Operating income is empty, but the release gives no such line, so that is not a fault. The release gives no guidance."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands, but total revenues (37,459.5) are mostly physical commodity sales; the analyst would want net operating revenues (655.2, up 12%) beside them."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "37,459.5 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "84.2 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "0.66 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Tested on the release's fiscal-year table: net operating revenues 2,928.4 (up 43% from 2,052.8) and net income 525.4 (up 72% from 305.9). The quarterly fundamentals cannot test an annual claim."
+      },
+      "M2": {
+        "verdict": "does not match",
+        "reason": "Release table for the quarter: net operating revenues rose 12% (655.2 against 585.1), but net income fell 2% (84.2 against 85.7) and diluted EPS fell to 0.66 from 0.70. Only the full year grew double digits (net income +72%)."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "An acquisition integration and synergy targets: neither the fundamentals nor the release's tables can test it."
+      }
+    },
+    "tone": {
+      "verdict": "not supported",
+      "reason": "The full year is strong (net income 525.4, +72%), but the quarter is not: net income 84.2 against 85.7 a year ago (-2%), diluted EPS 0.66 against 0.70 (-6%). The positive tone names no headwind."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 37459.5,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 84.2,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.66,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 0.2247760915121665,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says fiscal 2026 brought record annual results, with $2.9 billion of net operating revenues and $525.4 million of net income.",
+        "quote": "We are proud to close out fiscal 2026 with record annual results, highlighted by $2.9 billion in net operating revenues and $525.4 million in net income",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says net operating revenues and earnings kept growing at double-digit rates year on year.",
+        "quote": "These results reflect the momentum we have built across StoneX, with continued double-digit year-over-year growth in both net operating revenues and earnings, with record annual performance in our Commercial, Institutional and Payments segments.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the largest acquisition to date was integrated on schedule while meeting capital and cost synergy targets.",
+        "quote": "we successfully integrated our largest acquisition to date, on schedule whilst achieving our capital and cost synergy targets",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of record annual results, momentum, confidence in the opportunities ahead and a successful integration, and names no headwind."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-23T06:38:10+08:00"
+  },
+  {
+    "accession": "0001628280-26-075131",
+    "cik": "1560672",
+    "company": "Ellington Credit Co",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty. The release gives no total revenue line for this closed-end fund."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty. The release gives no operating income; it gives net investment income of 6,707 thousand instead."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The SEC's filed figures could not be read today (data.sec.gov, proxy 403). The quote is in the release and holds 3,672 thousand (3.672 million)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty, though the release gives net income of $0.09 per share (not labelled diluted)."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "The one figure, net income, has its quote in the release and holds 3,672 thousand (3.672 million). The 10-Q check is still to come: the SEC's figures could not be read today."
+      },
+      "S2": {
+        "score": 4,
+        "reason": "Net income is there. EPS is empty though the release gives $0.09 per share, so one point off. No revenue or operating income line exists for this fund, so those are not faults."
+      },
+      "S3": {
+        "score": 3,
+        "reason": "Only net income is extracted. The analyst would have to open the release for the fund's key figures: NII (6,707 thousand, $0.17), NAV per share ($4.04) and the reset distribution."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "3.672 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "diluted_eps": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "cannot check",
+        "reason": "An economic return rests on NAV per share and distributions. The release gives NAV of $4.04 and distributions of $0.24, but not the NAV at the start of the quarter, and the fundamentals do not cover it."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Release table: GAAP net income was positive at 3,672 thousand ($0.09 per share), down from 12,319 thousand ($0.33) in the June quarter. The peers' results cannot be checked."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "The release's tables do not show the interest rate hedge losses on their own; the 'Other' column (net loss 4,975 thousand) mixes them with other items."
+      },
+      "M4": {
+        "verdict": "matches",
+        "reason": "Outlook, tested on the release's tables: $0.15 a quarter is below NII of $0.17 per share (6,707 thousand), up from $0.16 (6,087 thousand) in the June quarter. Consistent with the latest trend."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Release tables: net income stayed positive (3,672 thousand) and NII rose to 6,707 from 6,087 thousand, but net income fell from 12,319 thousand and the monthly distribution was reset to $0.05. Balanced fits."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 3.672,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says the company made an economic return of 2.4% for the quarter, or 9.9% annualised.",
+        "quote": "Ellington Credit generated an economic return of 2.4% for the third calendar quarter, or 9.9% annualized",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says the company had positive GAAP earnings in a quarter when most of its peers reported losses.",
+        "quote": "We are proud to have continued our relative outperformance, generating positive GAAP earnings in a challenging quarter when the vast majority of our peers reported losses.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says losses on interest rate hedges tied to the fixed-rate unsecured notes partly offset the positive contributions.",
+        "quote": "These positive contributions were partially offset by losses on interest rate hedges associated with our fixed-rate unsecured notes.",
+        "quote_found": true
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The board has reset the monthly distribution to $0.05 per share, which management says current net investment income supports.",
+        "quote": "Our Board of Trustees has reset our monthly distribution rate to $0.05 per share, or $0.15 per quarter, a level supported by our current NII.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "balanced",
+      "reason": "The CEO stresses positive earnings and outperformance, but names hedge losses and announces a lower monthly distribution."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-23T06:38:10+08:00"
+  },
+  {
+    "accession": "0001193125-26-467918",
+    "cik": "1724009",
+    "company": "PermRock Royalty Trust",
+    "period_end": "2026-09-30",
+    "period_label": "monthly distribution, September 2026 production",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty. The release is a monthly distribution notice and gives cash receipts (oil $1.18 million), not a revenue line."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty. The distribution notice gives no operating income."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty. The distribution notice gives no net income, only a distribution of $103,164.56."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty. The notice gives a distribution of $0.008479 per Trust Unit, which is not EPS."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "No figure was extracted, and none was wrong: the notice gives none of the four figures. There is no quote to check."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are empty, but the distribution notice gives none of them, so that is not a fault. It gives no guidance."
+      },
+      "S3": {
+        "score": 3,
+        "reason": "Nothing to act on as it stands: the analyst would need the release for the distribution ($0.008479 per unit) and the overpayment recoupment ($58,469 this month)."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "diluted_eps": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      }
+    },
+    "claims": {},
+    "tone": null,
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [],
+    "watcher_tone": null,
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-23T06:38:10+08:00"
   }
 ]
