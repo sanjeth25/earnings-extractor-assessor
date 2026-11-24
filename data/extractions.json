@@ -1338,5 +1338,121 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1434524/000110465926130612/tm2630382d1_ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1434524/000110465926130612/0001104659-26-130612-index.htm",
     "saved_at": "2026-11-22T06:08:29+08:00"
+  },
+  {
+    "cik": "1630113",
+    "company": "BIOTRICITY INC.",
+    "accession": "0001493152-26-053584",
+    "release_date": "2026-11-23",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 4.33,
+        "unit": "USD millions",
+        "quote": "Revenue increased 11.5% to $4.33 million."
+      },
+      "operating_income": {
+        "value": 0.339,
+        "unit": "USD millions",
+        "quote": "Income from operations increased 23.7% to $339 thousand, an operating margin of 7.8% (prior-year quarter: 7.0%)."
+      },
+      "net_income": {
+        "value": -0.81,
+        "unit": "USD millions",
+        "quote": "Net loss before dividends was $0.81 million (prior-year quarter: $0.69 million)"
+      },
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says revenue grew 11.5% in the quarter, led by technology fee revenue.",
+        "quote": "Our second quarter delivered year-over-year growth in technology fee revenue, a higher gross margin and operating leverage. Revenue grew 11.5%"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CEO says gross margin expanded to 83.3%.",
+        "quote": "gross margin expanded to 83.3%"
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The CEO says income from operations rose 23.7% as gross profit grew faster than higher operating expenses.",
+        "quote": "income from operations rose 23.7%, as gross profit growth outpaced higher operating expenses, including the timing of research and development activities."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of growth, a higher gross margin and operating leverage, and names only the timing of research spending as a cost."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1630113-0001493152-26-053584.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1630113/000149315226053584/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1630113/000149315226053584/0001493152-26-053584-index.htm",
+    "saved_at": "2026-11-25T06:08:35+08:00"
+  },
+  {
+    "cik": "1713683",
+    "company": "Zscaler, Inc.",
+    "accession": "0001193125-26-470942",
+    "release_date": "2026-11-23",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 949.326,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 949,326"
+      },
+      "operating_income": {
+        "value": -33.242,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (33,242"
+      },
+      "net_income": {
+        "value": -27.435,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (27,435"
+      },
+      "diluted_eps": {
+        "value": -0.17,
+        "unit": "USD per share",
+        "quote": "Net loss per share, basic and diluted | $ | (0.17"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says the company delivered a strong start to the fiscal year.",
+        "quote": "We delivered a strong start to the fiscal year as enterprises increasingly recognize the importance of hiding their attack surfaces and eliminating lateral movement"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the proposed acquisition by CrowdStrike will create the most expansive cybersecurity platform for the AI era.",
+        "quote": "With CrowdStrike’s proposed acquisition of Zscaler, we believe we will create the most expansive cybersecurity platform for the AI era"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Because of the CrowdStrike deal, the company will hold no call and is withdrawing its earlier financial guidance.",
+        "quote": "the Company will not be holding its previously scheduled conference call to discuss its first quarter 2027 results and will not be providing and will be withdrawing its previously issued financial guidance."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the start to the year strong and describes the CrowdStrike deal in confident terms."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1713683-0001193125-26-470942.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470942/d255961dex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470942/0001193125-26-470942-index.htm",
+    "saved_at": "2026-11-25T06:08:35+08:00"
   }
 ]
