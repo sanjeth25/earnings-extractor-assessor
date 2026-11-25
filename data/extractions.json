@@ -1454,5 +1454,127 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470942/d255961dex991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470942/0001193125-26-470942-index.htm",
     "saved_at": "2026-11-25T06:08:35+08:00"
+  },
+  {
+    "cik": "764478",
+    "company": "BEST BUY CO INC",
+    "accession": "0000764478-26-000045",
+    "release_date": "2026-11-24",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 10236,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 10,236"
+      },
+      "operating_income": {
+        "value": 452,
+        "unit": "USD millions",
+        "quote": "Operating income | 452"
+      },
+      "net_income": {
+        "value": 353,
+        "unit": "USD millions",
+        "quote": "Net earnings | $ | 353"
+      },
+      "diluted_eps": {
+        "value": 1.66,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.66"
+      }
+    },
+    "guidance": {
+      "text": "Best Buy raised its FY27 revenue guidance to $43.0 billion to $43.3 billion, from $42.3 billion to $42.8 billion.",
+      "quote": "Revenue of $43.0 billion to $43.3 billion, compared to prior guidance of $42.3 billion to $42.8 billion"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says comparable sales grew 6.1%, ahead of expectations and the highest in five years.",
+        "quote": "Our team delivered strong third quarter performance, with comparable sales growth of 6.1% which was ahead of our expectations and our highest in five years"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CEO says Marketplace and Best Buy Ads are adding to sales and supporting a higher gross profit rate.",
+        "quote": "We also continued to scale Marketplace and Best Buy Ads, which are contributing to topline growth and supporting gross profit rate expansion."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the strength of the results gives the company confidence to raise its full-year guidance.",
+        "quote": "The strength and breadth of our results give us confidence to raise our full-year guidance."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter strong, says sales beat expectations and raises the full-year guidance."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/764478-0000764478-26-000045.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000045/bby-fy27q3xexx99.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000045/0000764478-26-000045-index.htm",
+    "saved_at": "2026-11-26T06:07:55+08:00"
+  },
+  {
+    "cik": "1392694",
+    "company": "SurgePays, Inc.",
+    "accession": "0001493152-26-053931",
+    "release_date": "2026-11-24",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 17.27,
+        "unit": "USD millions",
+        "quote": "Revenue of $17.27 million, up 6.5% from $16.20 million in the second quarter of 2026"
+      },
+      "operating_income": {
+        "value": 20.65,
+        "unit": "USD millions",
+        "quote": "Income from operations of $20.65 million, compared with a loss from operations of $6.95 million in the prior year quarter"
+      },
+      "net_income": null,
+      "diluted_eps": {
+        "value": 0.34,
+        "unit": "USD per share",
+        "quote": "Net income (loss) per share, diluted | $ | 0.34"
+      }
+    },
+    "guidance": {
+      "text": "SurgePays expects its POS transactions to exceed $10 million a month by the end of 2026.",
+      "quote": "The Company expects SurgePays POS transactions to exceed $10 million per month by the end of 2026."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says third-quarter revenue was $17.3 million, up 6.5% on the previous quarter.",
+        "quote": "Third quarter revenue totaled $17.3 million,(1) an increase of 6.5% sequentially"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says point of sale and prepaid services grew 15.1% while general and administrative expenses fell 15.4%.",
+        "quote": "Our point of sale and prepaid services business grew 15.1% year-over-year, while general and administrative expenses declined 15.4%."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says preliminary October revenue above $10 million is an encouraging sign that the changes are working.",
+        "quote": "preliminary revenue above $10 million is an encouraging sign that those changes are working"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes growth, lower costs and an encouraging October, and says the company is positioned to grow."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1392694-0001493152-26-053931.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1392694/000149315226053931/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1392694/000149315226053931/0001493152-26-053931-index.htm",
+    "saved_at": "2026-11-26T06:07:55+08:00"
   }
 ]

@@ -1,0 +1,121 @@
+Company: SurgePays, Inc. (CIK 1392694)
+Accession: 0001493152-26-053931
+Results released: 2026-11-24
+Press release: https://www.sec.gov/Archives/edgar/data/1392694/000149315226053931/ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1392694/000149315226053931/0001493152-26-053931-index.htm
+Saved: 2026-11-26T06:07:55+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex99-1.htm EX-99.1
+Exhibit 99.1
+SurgePays Reports Third Quarter 2026 Revenue of $17.3 Million, Up 6.5% Sequentially, and 2026 Nine-Month Revenue of $49.5 Million, Up 21.3% Year-Over-Year
+Point of sale and prepaid services revenue grew 15.1% year-over-year while general and administrative expenses declined 15.4%
+Completed ClearLine sale during the quarter; GrowthLine opened to partner brands after quarter end
+Ended the quarter with $4.7 million in cash and stockholders’ equity of $7.9 million
+BARTLETT, Tenn., Nov. 23, 2026 (GLOBE NEWSWIRE) — SurgePays, Inc. (NASDAQ: SURG) (“SurgePays” or the “Company”), a fintech company that launches and runs wireless brands, today announced its financial results for the third quarter and first nine-month period ended September 30, 2026.
+“During the third quarter we strategically focused SurgePays’ business model on our core prepaid wireless and fintech businesses, completing the sale of ClearLine and reporting our first full quarter under the amended AT&T agreement. Third quarter revenue totaled $17.3 million,(1) an increase of 6.5% sequentially, and nine-month revenue totaled $49.5 million, up 21.3% over the same period last year. Our point of sale and prepaid services business grew 15.1% year-over-year, while general and administrative expenses declined 15.4%. With this focus and a stronger balance sheet, we are positioned to grow on infrastructure we have already built. That is how we intend to build value for the Company,” said Brian Cox, Chief Executive Officer of SurgePays.
+Third Quarter 2026 Financial Highlights
+● | Revenue of $17.27 million, up 6.5% from $16.20 million in the second quarter of 2026 and down 7.6% from $18.68 million in the third quarter of 2025. Revenue for the nine months ended September 30, 2026 was $49.45 million, up 21.3% from $40.78 million in the prior year period.
+● | Point-of-Sale and Prepaid Services segment revenue of $15.10 million, up 15.1% from $13.12 million in the prior year quarter. Nine-month segment revenue of $43.90 million was up 43.2%.
+● | Mobile Virtual Network Operator (MVNO) segment revenue of $2.08 million, compared with $5.56 million in the prior year quarter. The decrease reflects the pause in new user intake by the Company’s Eligible Telecommunications Carrier following an audit delay in the fourth quarter of 2025, as described in the Company’s Form 10-Q.
+● | MVNO segment gross margin improved to (23.1)% from (47.2)%, and the MVNO gross loss narrowed to $0.48 million from $2.63 million. The quarter was the first full quarter under the amended AT&T agreement.
+● | Total gross loss of $2.84 million, compared with $2.60 million in the prior year quarter. Point-of-Sale and Prepaid Services gross margin was (16.4)% compared with 0.2%, and the Company expects to focus on improving gross margin in that segment during the remainder of 2026.
+● | General and administrative expenses of $3.68 million, down 15.4% from $4.35 million. Nine-month general and administrative expenses of $11.82 million were down 10.1%.
+● | Income from operations of $20.65 million, compared with a loss from operations of $6.95 million in the prior year quarter, including the $27.17 million non-cash gain on the sale of the ClearLine platform assets.
+● | Net income available to common stockholders of $18.11 million for the three months ended September 30, 2026, or $0.41 per basic share and $0.34 per diluted share, which includes a non-cash gain of $27.17 million on the sale of the ClearLine platform assets, compared with a net loss of $7.49 million, or $(0.38) per share, for the three months ended September 30, 2025. Nine-month net income was $7.35 million compared with a net loss of $22.21 million.
+● | Net cash used in operating activities for the nine months ended September 30, 2026 improved to $12.49 million from $17.73 million.
+● | Cash and cash equivalents of $4.68 million at September 30, 2026, compared with $1.73 million at December 31, 2025.
+● | Total stockholders’ equity was $7.85 million, compared with a stockholders’ deficit of $15.40 million at December 31, 2025.
+Third Quarter Operational Highlights
+● | Completed the first full quarter under Amendment No. 2 to the AT&T agreement, which replaced the pricing schedule and removed all minimum spend commitments. The Company had no remaining minimum spend commitments under the agreement at September 30, 2026.
+● | Formed Redline Wireless Group, LLC in August, a joint venture 51% owned by SurgePays as managing member, to distribute LinkUp Mobile prepaid wireless service through the independent dealer channel of a national wireless master distribution organization.
+● | Completed the sale of the ClearLine platform assets on September 10, 2026 to a subsidiary of GPO Plus, Inc. in exchange for 25,000,000 shares of GPO Plus Series D Preferred Stock. In connection with the sale, SurgePays holds a put option giving it the right to sell the Series D Preferred Stock, or the common stock it converts into, for $27.5 million in cash through December 9, 2029. The sale did not affect the Company’s prepaid top-up, fintech transaction processing, MVNO or MVNE operations.
+● | Signed a non-binding letter of intent on September 17, 2026 with All Prepaid, LLC, dba LowWeeklyPayments, to form a joint venture, 51% owned by SurgePays, to scale the smartphone rent-to-own program across the SurgePays independent retail dealer network, which has onboarded more than 100 dealers.
+Subsequent Events
+● | On October 15, 2026, the Company announced that GrowthLine by SurgePays is open to partner brands. GrowthLine supports more than 200,000 subscribers across SurgePays platforms. Partners join under a revenue share agreement or a joint venture in which SurgePays is majority owner and managing member.
+● | On October 29, 2026, the Company announced a definitive agreement with IP Mobile, LLC (iPMobile), which will serve as the exclusive rural broadband sales channel partner for GrowthLine. iPMobile expects to bring more than 15 rural broadband brands onto GrowthLine over the next 12 months.
+● | On November 3, 2026, the Company announced a prepaid wireless agreement for SurgePays POS with Zulie Venture Inc. dba Etime system, a payments network serving more than 1,000 retail locations. Etime system has committed to at least $48 million in prepaid wireless purchase volume from October 1, 2026 through September 30, 2027, a minimum of $4 million a month, and the volume began running in early October. The Company expects SurgePays POS transactions to exceed $10 million per month by the end of 2026.
+Preliminary October 2026 Revenue
+The Company is also reporting that, based on preliminary, unaudited results, total revenue for October 2026 exceeded $10 million for the month.
+“The third quarter was when we changed how SurgePays operates, with new carrier economics, continued growth in point of sale and prepaid services, and a sharper focus after the ClearLine sale. October is our first read on what that business produces, and preliminary revenue above $10 million is an encouraging sign that those changes are working,” said Mr. Cox.
+“We see growth trending toward custom branded wireless, and we want a bigger share of it,” added Mr. Cox. “GrowthLine removes the years and cost of building a wireless operation, so our partners can put their entire budget into customer acquisition and add subscribers faster. Those subscribers run on infrastructure we have already built, and we share in the margin on each one, or hold majority ownership in a joint venture, without funding that customer acquisition ourselves. Separately, through the joint venture we are pursuing with LowWeeklyPayments, we intend to scale our smartphone rent-to-own program across our independent dealer network.”
+(1) | All numbers herein rounded and approximate.
+About SurgePays, Inc.
+SurgePays, Inc. (NASDAQ: SURG) is a fintech company that launches and runs wireless brands. Through its GrowthLine platform, SurgePays provides partners with carrier access, technology, payments, customer care, compliance and daily operations from platforms it developed and an operations center and NOC it runs. The Company also owns LinkUp Mobile, its own prepaid wireless brand, and operates SurgePays POS, which handles retail sales and payments for wireless companies at neighborhood stores. SurgePays brings affordable wireless service and prepaid financial products to consumers through partners and neighborhood stores. For more information, please visit www.surgepays.com.
+Forward Looking Statements
+This press release contains forward looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward looking statements include, without limitation, statements regarding the Company’s expected sales growth across its channels, the Company’s ability to extend sequential revenue growth, the Company’s platform scaling, and other statements that are not historical facts. Forward looking statements are based on management’s current expectations and assumptions and involve known and unknown risks and uncertainties that could cause actual results to differ materially. Factors that could cause actual results to differ include, without limitation, the Company’s ability to scale subscriber count, the terms and performance of MVNE partnerships, regulatory changes affecting subsidized wireless programs and universal service programs, changes in consumer demand, competitive dynamics in prepaid wireless and retail platform services, and the additional risk factors described in the Company’s filings with the Securities and Exchange Commission, including the most recent Annual Report on Form 10-K and subsequent Quarterly Reports on Form 10-Q. Forward looking statements speak only as of the date of this release. The Company disclaims any obligation to update forward looking statements, except as required by law.
+Investor Relations Contact
+SurgePays, Inc.
+ir@surgepays.com
+SurgePays, Inc. and Subsidiaries, Consolidated Statements of Operations (Unaudited)
+(In US$) | Three Months Ended Sept. 30, 2026 | Three Months Ended Sept. 30, 2025 | Nine Months Ended Sept. 30, 2026 | Nine Months Ended Sept. 30, 2025
+Revenues | $ | 17,265,920 | $ | 18,680,317 | $ | 49,454,724 | $ | 40,775,913
+Cost of revenues | 20,107,408 | 21,276,771 | 60,418,652 | 48,969,378
+General and administrative expenses | 3,681,214 | 4,353,684 | 11,818,569 | 13,147,086
+Total costs and expenses | 23,788,622 | 25,630,455 | 72,237,221 | 62,116,464
+Gain on contract liability settlement | — | — | 8,511,672 | —
+Gain on sale of asset | 27,172,275 | — | 27,172,275 | —
+Income (loss) from operations | 20,649,573 | (6,950,138 | ) | 12,901,450 | (21,340,551 | )
+Interest expense | (1,660,182 | ) | (539,157 | ) | (3,567,530 | ) | (937,897 | )
+Interest income | — | — | — | 63,913
+Loss on present value measurement of long-term accounts receivable | (132,728 | ) | — | (547,795 | ) | —
+Accretion of discount on accounts receivable | 32,928 | — | 165,655 | —
+Other income | — | — | 20,290 | 7,140
+Derivative expense | — | — | (1,168,511 | ) | —
+Change in fair value of derivative liabilities | (779,703 | ) | — | (456,583 | ) | —
+Unrealized loss on put option | (1,109 | ) | — | (1,109 | ) | —
+Total other income (expense), net | (2,540,794 | ) | (539,157 | ) | (5,555,583 | ) | (866,844 | )
+Net income (loss) before provision for income taxes | 18,108,779 | (7,489,295 | ) | 7,345,867 | (22,207,395 | )
+Non-controlling interest | 1,167 | (227 | ) | 789 | (645 | )
+Net income (loss) available to common stockholders | $ | 18,107,612 | $ | (7,489,068 | ) | $ | 7,345,078 | $ | (22,206,750 | )
+Net income (loss) per share, basic | $ | 0.41 | $ | (0.38 | ) | $ | 0.24 | $ | (1.11 | )
+Net income (loss) per share, diluted | $ | 0.34 | $ | (0.38 | ) | $ | 0.23 | $ | (1.11 | )
+Weighted average shares outstanding, basic | 44,350,497 | 19,839,159 | 30,975,740 | 19,931,668
+Weighted average shares outstanding, diluted | 56,530,640 | 19,839,159 | 33,036,944 | 19,931,668
+SurgePays, Inc. and Subsidiaries, Consolidated Balance Sheets
+(In US$) | September 30, 2026 (Unaudited) | December 31, 2025
+Cash and cash equivalents | $ | 4,676,071 | $ | 1,731,400
+Restricted cash, line of credit reserve | 425,102 | 281,811
+Accounts receivable, net | 2,975,184 | 4,045,162
+Inventory | 269,166 | 339,570
+Prepaid and other | 724,331 | 581,823
+Total current assets | 9,069,854 | 6,979,766
+Property and equipment, net | 322,994 | 403,517
+Long-term accounts receivable, net | 3,231,421 | —
+Intangibles, net | 329,097 | 819,153
+Operating lease right of use asset, net | 152,000 | 313,410
+Investment in equity securities, at fair value | 450,000 | —
+Put option, at fair value | 26,871,166 | —
+Total assets | $ | 40,426,532 | $ | 8,515,846
+Accounts payable and accrued expenses | $ | 11,272,769 | $ | 10,219,011
+Accounts payable and accrued expenses, related party | 1,004,170 | 117,546
+Operating lease liability | 157,223 | 219,997
+Derivative liabilities | 2,058,851 | —
+Notes payable | 2,245,324 | 1,834,008
+Notes payable, SBA government | 11,790 | —
+Note payable, related party | 1,730,796 | 2,730,796
+Convertible notes payable, net | 3,496,444 | 3,068,878
+Total current liabilities | 21,977,367 | 18,190,236
+Notes payable, SBA government | 438,655 | 458,334
+Operating lease liability | — | 99,235
+Convertible notes payable, net | 10,158,024 | 5,170,860
+Total long-term liabilities | 10,596,679 | 5,728,429
+Total liabilities | 32,574,046 | 23,918,665
+Common stock, $0.001 par value | 62,066 | 21,852
+Additional paid-in capital | 99,115,960 | 83,246,736
+Treasury stock, at cost | (1,631,966 | ) | (1,631,966 | )
+Accumulated deficit | (89,639,219 | ) | (96,984,297 | )
+Total stockholders’ equity (deficit), SurgePays, Inc. | 7,906,841 | (15,347,675 | )
+Non-controlling interest | (54,355 | ) | (55,144 | )
+Total stockholders’ equity (deficit) | 7,852,486 | (15,402,819 | )
+Total liabilities and stockholders’ equity (deficit) | $ | 40,426,532 | $ | 8,515,846
+SurgePays, Inc. and Subsidiaries, Consolidated Statements of Cash Flows (Unaudited)
+(In US$) | Nine Months Ended Sept. 30, 2026 | Nine Months Ended Sept. 30, 2025
+Net cash used in operating activities | $ | (12,485,411 | ) | $ | (17,728,805 | )
+Net cash used in investing activities | (150,000 | ) | (18,590 | )
+Net cash provided by financing activities | 15,723,373 | 7,696,815
+Net increase (decrease) in cash, cash equivalents and restricted cash | 3,087,962 | (10,050,580 | )
+Cash, cash equivalents and restricted cash, beginning of period | 2,013,211 | 12,790,389
+Cash, cash equivalents and restricted cash, end of period | $ | 5,101,173 | $ | 2,739,809
+Cash and cash equivalents | $ | 4,676,071 | $ | 2,514,862
+Restricted cash, line of credit reserve | 425,102 | 224,947
