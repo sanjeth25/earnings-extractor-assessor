@@ -1,141 +1,143 @@
 {
-  "fetched_at": "2026-11-24T13:29:59+08:00",
+  "fetched_at": "2026-11-25T12:06:01+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-20",
+    "start": "2026-11-24",
     "end": "2026-11-24",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
   "requests": 18,
-  "answered": 15,
+  "answered": 17,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-20&enddt=2026-11-24",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-24&enddt=2026-11-24",
       "ok": true,
-      "detail": "HTTP 200, 26 KB in 121 ms"
+      "detail": "HTTP 200, 23 KB in 555 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 126 ms"
+      "detail": "HTTP 200, 149 KB in 133 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 157 KB in 22 ms"
+      "detail": "HTTP 200, 158 KB in 66 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 21 ms"
+      "detail": "HTTP 200, 154 KB in 78 ms"
     },
     {
-      "name": "AGILENT TECHNOLOGIES, INC. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087226000082/index.json",
-      "ok": false,
-      "detail": "HTTP 404 from www.sec.gov: the address was not found"
-    },
-    {
-      "name": "Symbotic Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1837240/000183724026000047/index.json",
-      "ok": false,
-      "detail": "HTTP 404 from www.sec.gov: the address was not found"
-    },
-    {
-      "name": "BIOTRICITY INC. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1630113/000149315226053584/index.json",
+      "name": "BEST BUY CO INC filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000045/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 87 ms"
+      "detail": "HTTP 200, 1 KB in 126 ms"
     },
     {
-      "name": "BIOTRICITY INC. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1630113/000149315226053584/ex99-1.htm",
+      "name": "BEST BUY CO INC filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000045/0000764478-26-000045-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 21 KB in 156 ms"
+      "detail": "HTTP 200, 10 KB in 74 ms"
     },
     {
-      "name": "Zscaler, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470942/index.json",
+      "name": "BEST BUY CO INC press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000045/bby-fy27q3xexx99.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 39 ms"
+      "detail": "HTTP 200, 368 KB in 195 ms"
     },
     {
-      "name": "Zscaler, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470942/d255961dex991.htm",
+      "name": "SurgePays, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1392694/000149315226053931/index.json",
       "ok": true,
-      "detail": "HTTP 200, 188 KB in 129 ms"
+      "detail": "HTTP 200, 1 KB in 104 ms"
+    },
+    {
+      "name": "SurgePays, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1392694/000149315226053931/ex99-1.htm",
+      "ok": true,
+      "detail": "HTTP 200, 79 KB in 106 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 32 ms"
+      "detail": "HTTP 200, 3,175 KB in 131 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 31 ms"
+      "detail": "HTTP 200, 4,447 KB in 138 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 20 ms"
+      "detail": "HTTP 200, 2,745 KB in 98 ms"
     },
     {
-      "name": "BIOTRICITY INC. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001630113.json",
+      "name": "BEST BUY CO INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000764478.json",
       "ok": true,
-      "detail": "HTTP 200, 1,603 KB in 197 ms"
+      "detail": "HTTP 200, 3,958 KB in 366 ms"
     },
     {
-      "name": "Zscaler, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001713683.json",
+      "name": "SurgePays, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001392694.json",
       "ok": true,
-      "detail": "HTTP 200, 1,983 KB in 31 ms"
+      "detail": "HTTP 200, 2,293 KB in 273 ms"
     },
     {
       "name": "StoneX Group Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000913760.json",
       "ok": true,
-      "detail": "HTTP 200, 4,627 KB in 289 ms"
+      "detail": "HTTP 200, 4,627 KB in 142 ms"
     },
     {
       "name": "Ellington Credit Co company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001560672.json",
       "ok": true,
-      "detail": "HTTP 200, 1,539 KB in 153 ms"
+      "detail": "HTTP 200, 1,539 KB in 457 ms"
     },
     {
       "name": "PermRock Royalty Trust company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001724009.json",
       "ok": false,
       "detail": "HTTP 404 from data.sec.gov: the address was not found"
+    },
+    {
+      "name": "Zscaler, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001713683.json",
+      "ok": true,
+      "detail": "HTTP 200, 1,983 KB in 253 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000764478.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000913760.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001392694.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001560672.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001630113.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001713683.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
-    "www.sec.gov_Archives_edgar_data_1630113_000149315226053584_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1630113_000149315226053584_index.json",
-    "www.sec.gov_Archives_edgar_data_1713683_000119312526470942_d255961dex991.htm",
-    "www.sec.gov_Archives_edgar_data_1713683_000119312526470942_index.json"
+    "www.sec.gov_Archives_edgar_data_1392694_000149315226053931_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1392694_000149315226053931_index.json",
+    "www.sec.gov_Archives_edgar_data_764478_000076447826000045_0000764478-26-000045-index.htm",
+    "www.sec.gov_Archives_edgar_data_764478_000076447826000045_bby-fy27q3xexx99.htm",
+    "www.sec.gov_Archives_edgar_data_764478_000076447826000045_index.json"
   ]
 }
