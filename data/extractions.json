@@ -1576,5 +1576,124 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1392694/000149315226053931/ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1392694/000149315226053931/0001493152-26-053931-index.htm",
     "saved_at": "2026-11-26T06:07:55+08:00"
+  },
+  {
+    "cik": "315189",
+    "company": "DEERE & CO",
+    "accession": "0001104659-26-131741",
+    "release_date": "2026-11-25",
+    "period_end": "2026-11-01",
+    "period_label": "quarter ended 1 November 2026",
+    "figures": {
+      "revenue": {
+        "value": 12115,
+        "unit": "USD millions",
+        "quote": "Total net sales and revenues | $ | 12,115"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 1051,
+        "unit": "USD millions",
+        "quote": "Net income attributable to Deere & Company | $ | 1,051"
+      },
+      "diluted_eps": {
+        "value": 3.89,
+        "unit": "USD per share",
+        "quote": "Fully diluted EPS | $ | 3.89"
+      }
+    },
+    "guidance": {
+      "text": "Deere forecasts net income attributable to Deere & Company of $4.50 to $5.25 billion for fiscal 2027.",
+      "quote": "Net income attributable to Deere & Company for fiscal 2027 is forecasted to be in a range of $4.50 to $5.25 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says results are structurally stronger than at the same point in the last cycle, while investment and capital returns continued.",
+        "quote": "Our results are structurally stronger compared with the same point in the last cycle, and we delivered them while sustaining investments and continuing to return capital to shareholders."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO sees early signs of improvement in large agriculture as fiscal 2027 begins, led by North America.",
+        "quote": "As we enter fiscal 2027, we’re seeing early signs of improvement in large agriculture, led by North America,"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the outlook has a wider range of outcomes because of continued uncertainty in key end markets.",
+        "quote": "Given continued uncertainty in key end markets, our outlook reflects a wider range of outcomes."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO stresses disciplined execution and early signs of improvement, but also names continued uncertainty and a wider range of outcomes."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/315189-0001104659-26-131741.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/de-ex99d1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/0001104659-26-131741-index.htm",
+    "saved_at": "2026-11-27T06:08:14+08:00"
+  },
+  {
+    "cik": "1005210",
+    "company": "SUBURBAN PROPANE PARTNERS LP",
+    "accession": "0001193125-26-477186",
+    "release_date": "2026-11-25",
+    "period_end": "2026-09-26",
+    "period_label": "quarter ended 26 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 219.864,
+        "unit": "USD millions",
+        "quote": "Revenues | 219,864"
+      },
+      "operating_income": {
+        "value": -12.909,
+        "unit": "USD millions",
+        "quote": "Operating (loss) income | (12,909"
+      },
+      "net_income": {
+        "value": -56.841,
+        "unit": "USD millions",
+        "quote": "Net (loss) income | $ | (56,841"
+      },
+      "diluted_eps": {
+        "value": -0.85,
+        "unit": "USD per share",
+        "quote": "Net (loss) income per Common Unit - diluted | $ | (0.85"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO calls fiscal 2026 another strong year, with solid results in the propane operations.",
+        "quote": "Fiscal 2026 was another strong year for Suburban Propane with solid results in our propane operations"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says average daily RNG injection rose 13% in fiscal 2026, helped by the new facility in Upstate New York.",
+        "quote": "Combined with the contribution from our new anaerobic digester facility in Upstate New York, which was placed into service in July, average daily RNG injection for fiscal 2026 increased 13% compared to the prior year."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says total debt fell by more than $25.0 million and the leverage metric improved to 4.13x.",
+        "quote": "We also reduced total debt by more than $25.0 million, which, combined with the $6.0 million increase in Adjusted EBITDA, improved our leverage metric to 4.13x at the end of fiscal 2026."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the year strong, praises the RNG progress and the lower debt, and mentions no headwind beyond a volatile cost environment."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1005210-0001193125-26-477186.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1005210/000119312526477186/sph-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1005210/000119312526477186/0001193125-26-477186-index.htm",
+    "saved_at": "2026-11-27T06:08:14+08:00"
   }
 ]
